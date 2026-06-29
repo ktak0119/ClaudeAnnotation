@@ -1,0 +1,36 @@
+name: Bombus Annotation Batch
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # every 2 hours
+  workflow_dispatch:         # manual trigger
+
+jobs:
+  annotate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install anthropic Pillow requests
+
+      - name: Run annotation batch
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python annotate_batch.py
+
+      - name: Commit and push
+        run: |
+          git config user.email "github-actions@github.com"
+          git config user.name "GitHub Actions"
+          git add labels/ visual_check/ progress.json
+          git diff --cached --quiet || git commit -m "Annotate batch (total: $(python3 -c 'import json; print(json.load(open(\"progress.json\"))[\"total_annotated\"])'))"
+          git push
