@@ -1,5 +1,7 @@
 {
-  "total_annotated": 184,
+  "total_annotated": 204,
   "last_obs_id": 375965327,
-  "status": "in_progress"
+  "last_photo_id_csv": 9024492,
+  "status": "in_progress",
+  "note": "Batch used iNaturalist S3 open-data CSV (api.inaturalist.org blocked by egress policy). Labels named photo{photo_id}.txt instead of obs{obs_id}_photo{photo_id}.txt. Next run: resume from last_photo_id_csv or restore API access."
 }
