@@ -1,7 +1,7 @@
 {
-  "total_annotated": 204,
+  "total_annotated": 224,
   "last_obs_id": 375965327,
-  "last_photo_id_csv": 9024492,
+  "last_photo_id_csv": 2214900,
   "status": "in_progress",
-  "note": "Batch used iNaturalist S3 open-data CSV (api.inaturalist.org blocked by egress policy). Labels named photo{photo_id}.txt instead of obs{obs_id}_photo{photo_id}.txt. Next run: resume from last_photo_id_csv or restore API access."
+  "note": "Batch 11: +20 annotations via iNaturalist S3 open-data CSV (api.inaturalist.org blocked). Scanned first 200MB of observations.csv.gz and photos.csv.gz. Photos named photo{photo_id}.txt. Licenses: CC-BY and CC0. Next run: continue scanning CSV from higher offsets or larger range to find more Bombus photos."
 }
