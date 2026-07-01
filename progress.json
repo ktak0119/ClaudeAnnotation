@@ -1,7 +1,7 @@
 {
-  "total_annotated": 244,
+  "total_annotated": 264,
   "last_obs_id": 375965327,
-  "last_photo_id_csv": 4411377,
+  "last_photo_id_csv": 252734,
   "status": "in_progress",
-  "note": "Batch 12: +20 annotations via iNaturalist S3 open-data CSV (api.inaturalist.org blocked). Scanned first 250MB of observations.csv.gz (5.5M rows, 1145 Bombus UUIDs), cross-referenced with first 200MB of photos.csv.gz (4.7M rows, up to photo_id 7036016). Found 91 usable (CC0/CC-BY/CC-BY-SA) photos, 47 available on S3. Annotated photos from photo_id 1282032 to 4411377. Licenses: CC-BY and CC-BY-SA. Next run: continue scanning photos.csv.gz beyond 4.7M rows (bytes 200MB+) and scanning observations.csv.gz beyond 250MB for more Bombus UUIDs."
+  "note": "Batch 13: +20 annotations via iNaturalist S3 open-data CSV (api.inaturalist.org blocked). Scanned first 430MB of observations.csv.gz (found 18,939 Bombus UUIDs across all Bombus species). Cross-referenced with first 600MB of photos.csv.gz (15M rows, up to photo_id ~7M). Found 5,876 usable (CC-BY/CC0) photos, 145 available on S3. Annotated photo_ids 16466-252734. Next run: continue scanning photos.csv.gz beyond 600MB for more photos matching the same Bombus UUIDs, or scan more of observations.csv.gz for additional Bombus UUIDs."
 }
