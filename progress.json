@@ -1,10 +1,10 @@
 {
-  "total_annotated": 380,
-  "last_photo_id": 13827256,
+  "total_annotated": 400,
+  "last_photo_id": 830586,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 262144000,
   "obs_csv_bytes_scanned": 314572800,
   "source": "inaturalist-open-data-s3",
-  "note": "Session 6: iNaturalist API blocked (403 proxy policy). Switched to full S3 CSV streaming. Built 17,237 Bombus UUID set from 300MB of observations.csv.gz (496 Bombus taxon IDs). Scanned 250MB of photos.csv.gz (2.58M rows, max_photo_id=703M). Found 25 CC0 Bombus photos >last_photo_id. Annotated 20 images (photo IDs 3627563-13827256), skipped 3 unavailable. Visual check: obs38cf7a9c_photo13827256. Next session: continue photos.csv.gz from 250MB mark, rebuild Bombus UUID set from observations.csv.gz (scan first 300MB+ or extend).",
+  "note": "Session 7: Continued S3 CSV streaming. Built 42,848 Bombus UUID set from 15M rows of observations.csv.gz (508 Bombus taxon IDs from taxa.csv.gz). Scanned photos.csv.gz to find new CC0 Bombus photos. Annotated 20 images (photo IDs 52156-830586). Skipped obs 00f50461 (nest-only photos 206377-206384). Visual check: visual_400_obs027259de_photo830586. Next session: continue scanning photos.csv.gz beyond photo_id 830586 (scan from row 0, skip annotated IDs).",
   "status": "in_progress"
 }
