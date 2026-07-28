@@ -1,10 +1,10 @@
 {
-  "total_annotated": 510,
-  "last_photo_id": 22243775,
+  "total_annotated": 530,
+  "last_photo_id": 2072700,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 2147483648,
-  "obs_csv_bytes_scanned": 3221225472,
+  "obs_csv_bytes_scanned": 3326449664,
   "source": "inaturalist-open-data-s3",
-  "note": "Session 13: iNaturalist API still blocked (proxy 403). Streamed obs.csv.gz (first 3GB, ~30,473 Bombus UUIDs for taxon_id=52775). Streamed photos.csv.gz (first 2GB). Found 17,386 candidates with photo_id > 22160894. Annotated 20 images (photo IDs 22161038-22243775). Diverse scenes: bees on teasel/ragwort/tansy/thistle/knapweed/fireweed/gaillardia/rock/concrete, mating pairs (obs3b364507), flight shot, dead bee on pavement. Visual check created for #500 (photo22218673, Bombus on fireweed). Next session: stream photos.csv.gz (first 2GB already scanned, continue from photo_id 22243775). Use same bombus_uuids from first 3GB of obs.csv.gz or scan more.",
+  "note": "Session 14: iNaturalist API still blocked (proxy 403). Streamed obs.csv.gz (first 100MB, found 344 new Bombus UUIDs). Scanned photos.csv.gz (first 250MB), found 535 valid photo candidates. Annotated 20 images: bees on red clover (x2), honeysuckle, thyme, daisy, manzanita flowers, thistle, ground ivy, wild rose, willow catkins, hollyhock (x3, incl. flight/low-angle), rhododendron (x2), chive, selfheal, California poppy, lavender flight shot. Diverse species: frontal shots, flight shots, macro closeups. Visual check created for #530 (obsa8f5a597_photo2032601, Bombus frontal on rhododendron). Next session: continue scanning photos.csv.gz from photo_id > 2072700 or scan more of obs.csv.gz for fresh Bombus UUIDs.",
   "status": "in_progress"
 }
