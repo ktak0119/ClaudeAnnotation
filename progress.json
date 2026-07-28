@@ -1,10 +1,10 @@
 {
-  "total_annotated": 490,
-  "last_photo_id": 22160894,
+  "total_annotated": 510,
+  "last_photo_id": 22243775,
   "last_obs_id": 413486,
-  "photos_csv_bytes_scanned": 1000000000,
-  "obs_csv_bytes_scanned": 2000000000,
+  "photos_csv_bytes_scanned": 2147483648,
+  "obs_csv_bytes_scanned": 3221225472,
   "source": "inaturalist-open-data-s3",
-  "note": "Session 12: iNaturalist API still blocked (proxy 403). Streamed obs.csv.gz (first 2GB, ~42.9M rows, 17,712 Bombus UUIDs for taxon_id=52775). Streamed photos.csv.gz (first 1GB, ~13.7M rows). Found 30 candidates beyond last_photo_id 20255871. Skipped 18575089 and 19585039 (already known no-bee). Annotated 22 images (photo IDs 20376122-22160894). Diverse scenes: live bees on oregano/borage/echinacea/clover/hibiscus/scabiosa, pinned specimens under microscope, dead bees on ground. Visual check created for #489 (photo22160909, dead Bombus dorsal). Next session: stream obs.csv.gz (first 3-4GB for more Bombus UUIDs), stream photos.csv.gz starting past 1GB mark (but gzip requires starting from 0 -- download 2GB of photos.csv.gz and skip already-annotated). Photo IDs up to ~22.7M in candidates list; continue from there.",
+  "note": "Session 13: iNaturalist API still blocked (proxy 403). Streamed obs.csv.gz (first 3GB, ~30,473 Bombus UUIDs for taxon_id=52775). Streamed photos.csv.gz (first 2GB). Found 17,386 candidates with photo_id > 22160894. Annotated 20 images (photo IDs 22161038-22243775). Diverse scenes: bees on teasel/ragwort/tansy/thistle/knapweed/fireweed/gaillardia/rock/concrete, mating pairs (obs3b364507), flight shot, dead bee on pavement. Visual check created for #500 (photo22218673, Bombus on fireweed). Next session: stream photos.csv.gz (first 2GB already scanned, continue from photo_id 22243775). Use same bombus_uuids from first 3GB of obs.csv.gz or scan more.",
   "status": "in_progress"
 }
