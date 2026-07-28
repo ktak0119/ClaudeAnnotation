@@ -1,10 +1,10 @@
 {
-  "total_annotated": 451,
-  "last_photo_id": 3876621,
+  "total_annotated": 469,
+  "last_photo_id": 20255871,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 57000000,
   "obs_csv_bytes_scanned": 407000000,
   "source": "inaturalist-open-data-s3",
-  "note": "Session 10: iNaturalist API still blocked. Re-streamed obs.csv.gz (2GB, 42.9M rows) with FIXED column indices (taxon_id=col5, was using observer_id by mistake) to get 160,345 Bombus UUIDs. Streamed photos.csv.gz (110MB) to find CC0 Bombus photos with photo_id > 2950482. Found 30 candidates. Annotated 20 images but 11 were duplicates of prior sessions labels (same photo_id, different filename prefix). 9 genuinely new annotations (photo_ids: 2950483, 3310652, 3310663, 3359926, 3359927, 3365777, 3381910, 3415071, 3792840). Visual check created for photo3310663 at annotated #450. Next session: stream obs.csv.gz (2GB, taxon_id=col5) for Bombus UUIDs, then stream photos.csv.gz - IMPORTANT: load existing label filenames to build excluded photo_id set before scanning. Look for CC0 Bombus photos with photo_id > 3876621 (or any not already in labels/).",
+  "note": "Session 11: iNaturalist API still blocked (proxy 403). Streamed obs.csv.gz (~21M lines, ~6,830 Bombus UUIDs collected for taxon_id=52775). Streamed photos.csv.gz (~12.5M lines) to find CC0 Bombus photos not already annotated. Found 20 candidates (photo_ids 2350176-20255871). Annotated 18 (skipped 2: 18575089 no bee visible, 19585039 no clear bee). Visual check created for annotation #460 (photo19727535, macro bee shot). Next session: stream obs.csv.gz again for more Bombus UUIDs, then stream photos.csv.gz looking for CC0 Bombus photos with photo_id > 20255871 (or any not already in labels/). S3 URL format: https://inaturalist-open-data.s3.amazonaws.com/photos/{photo_id}/large.{ext}. Use excluded set from all existing label filenames.",
   "status": "in_progress"
 }
