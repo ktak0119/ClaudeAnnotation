@@ -1,10 +1,10 @@
 {
-  "total_annotated": 469,
-  "last_photo_id": 20255871,
+  "total_annotated": 490,
+  "last_photo_id": 22160894,
   "last_obs_id": 413486,
-  "photos_csv_bytes_scanned": 57000000,
-  "obs_csv_bytes_scanned": 407000000,
+  "photos_csv_bytes_scanned": 1000000000,
+  "obs_csv_bytes_scanned": 2000000000,
   "source": "inaturalist-open-data-s3",
-  "note": "Session 11: iNaturalist API still blocked (proxy 403). Streamed obs.csv.gz (~21M lines, ~6,830 Bombus UUIDs collected for taxon_id=52775). Streamed photos.csv.gz (~12.5M lines) to find CC0 Bombus photos not already annotated. Found 20 candidates (photo_ids 2350176-20255871). Annotated 18 (skipped 2: 18575089 no bee visible, 19585039 no clear bee). Visual check created for annotation #460 (photo19727535, macro bee shot). Next session: stream obs.csv.gz again for more Bombus UUIDs, then stream photos.csv.gz looking for CC0 Bombus photos with photo_id > 20255871 (or any not already in labels/). S3 URL format: https://inaturalist-open-data.s3.amazonaws.com/photos/{photo_id}/large.{ext}. Use excluded set from all existing label filenames.",
+  "note": "Session 12: iNaturalist API still blocked (proxy 403). Streamed obs.csv.gz (first 2GB, ~42.9M rows, 17,712 Bombus UUIDs for taxon_id=52775). Streamed photos.csv.gz (first 1GB, ~13.7M rows). Found 30 candidates beyond last_photo_id 20255871. Skipped 18575089 and 19585039 (already known no-bee). Annotated 22 images (photo IDs 20376122-22160894). Diverse scenes: live bees on oregano/borage/echinacea/clover/hibiscus/scabiosa, pinned specimens under microscope, dead bees on ground. Visual check created for #489 (photo22160909, dead Bombus dorsal). Next session: stream obs.csv.gz (first 3-4GB for more Bombus UUIDs), stream photos.csv.gz starting past 1GB mark (but gzip requires starting from 0 -- download 2GB of photos.csv.gz and skip already-annotated). Photo IDs up to ~22.7M in candidates list; continue from there.",
   "status": "in_progress"
 }
