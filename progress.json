@@ -1,12 +1,12 @@
 {
-  "total_annotated": 649,
-  "last_photo_id": 26140132,
+  "total_annotated": 669,
+  "last_photo_id": 36156626,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 20: S3 direct download from photo_candidates.json. Annotated 20 images (indices 57-83): catmint with Bombus, 2x sunflower close-ups, 8x knapweed/thistle, 2x yellow flowers (Agrimonia?), poppy x2, in-flight Bombus, scabiosa x3, dorsal on leaf. Visual check created for #649 (photo26140132, dorsal on green leaf). Next session: continue from candidates_next_index 84 (photo_id > 26140132).",
-  "candidates_next_index": 84,
+  "note": "Session 21: S3 direct download from photo_candidates.json. Annotated 20 images (indices 84-117): Bombus on leaf (dorsal close-up x2), sunflower, comfrey, sunflower wide, scabiosa (rocky bg), mint, knapweed x2, dead bee on metal x3, painted wood, leaf litter, cherry blossoms x2, lamium, cowslip, Pieris x3. Visual check created for #660 (photo33146561, dead bee on paper label). Next session: continue from candidates_next_index 118 (photo_id > 36156626). Note: api.inaturalist.org blocked by proxy policy - using S3 photo_candidates.json.",
+  "candidates_next_index": 118,
   "status": "in_progress"
 }
