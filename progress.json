@@ -1,12 +1,12 @@
 {
-  "total_annotated": 684,
-  "last_photo_id": 38672129,
+  "total_annotated": 704,
+  "last_photo_id": 40826699,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 22: S3 direct download from photo_candidates.json. Annotated 15 images (indices 118-135): Bombus on Pieris white flowers, dandelion, white dead-nettle, close-up on flower (near-full frame), wing detail, Cotoneaster with red berries, wood/bark dorsal view, coltsfoot, vetch, thyme x2 (front-view and lateral), leaf litter ground, azalea/rhododendron, rosemary. Visual check created for #680 (photo38555036, thyme lateral). Skipped 4 (316/296 bytes). Next session: continue from candidates_next_index 136 (photo_id > 38672129). Note: api.inaturalist.org blocked by proxy policy - using S3 photo_candidates.json.",
-  "candidates_next_index": 136,
+  "note": "Session 23: S3 direct download from photo_candidates.json. Annotated 20 images (indices 136-168): thyme (2 close-ups, obs d9c173bc), Aquilegia/columbine (obs 9cb41b7e), lupin x3 (obs 7209f373, blurry/small but identifiable), red clover in-flight + lateral (obs 49e10a07), dead bee on concrete (obs 7257de7b), dandelion x3 (obs cfbd389c), wild rose (obs f960d82d), yellow daisy x2 (obs 9681cc37), snowberry/Symphoricarpos x3 (obs 7ad3a4ed), snowberry bright-yellow Bombus x2 (obs 8b96efbb). Visual check created for #704 (photo40826699, snowberry). Skipped 12 (296-316 bytes). Next session: continue from candidates_next_index 169 (photo_id > 40826699). Note: api.inaturalist.org blocked by proxy policy - using S3 photo_candidates.json.",
+  "candidates_next_index": 169,
   "status": "in_progress"
 }
