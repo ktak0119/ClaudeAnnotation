@@ -1,12 +1,12 @@
 {
-  "total_annotated": 721,
-  "last_photo_id": 41980984,
+  "total_annotated": 741,
+  "last_photo_id": 42926720,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 24: umbellifera x6 (obs b06a796b, white Queen Anne's lace), willow/pussy willow macro (obs 43decd0e), chive close-up (obs efffca62), ground resting (obs 4da8ba89), leaf resting (obs c4b682bd), umbellifera macro x2 (obs 34028445), rhododendron (obs c7a2bb05), mating pair on leaves x2 (obs fa5697aa), white clover x2 (obs e2a6fde8). Visual check at #720 (photo41981021, white clover). Skipped indices 169-173, 181, 183, 185-186, 188, 191-193, 195-197, 200-201 (404). Next session: continue from candidates_next_index 204 (photo_id > 41980984). Note: api.inaturalist.org blocked by proxy policy - using S3 photo_candidates.json.",
-  "candidates_next_index": 204,
+  "note": "Session 25: white clover x5 (obs e2a6fde8, indices 204-206), white clover dark bee x4 (obs 04aad3b6, indices 207-210), comfrey (obs 91cc7113, index 212), dead bee macro x3 (obs 7ee7ff59, indices 213-215), clover close-up (obs 458b88d1, index 216), St John's wort (obs 8a10f0d7, index 218), gravel ground x4 (obs e006eb9a, indices 219-222), concrete wall x3 (obs 8e398eeb, indices 223-225). Skipped indices 211, 217 (404). Visual check at #740 (photo42926755, concrete wall). Next session: continue from candidates_next_index 226 (photo_id > 42926720). Note: api.inaturalist.org blocked by proxy policy - using S3 photo_candidates.json.",
+  "candidates_next_index": 226,
   "status": "in_progress"
 }
