@@ -1,12 +1,12 @@
 {
-  "total_annotated": 629,
-  "last_photo_id": 25576931,
+  "total_annotated": 649,
+  "last_photo_id": 26140132,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 19: iNaturalist API blocked by proxy policy; used photo_candidates.json + S3 direct download. Annotated 20 images (skipped several missing from S3): Cotoneaster flower, thistle dorsal, sea holly (x2), flight in willow, Buddleja, pink herb flowers (x2), dead bee on asphalt (x2), Echinacea, Nepeta, sunflower (x2), knapweed (x4), yellow flowers macro (x2). Visual check created for #620 (photo24440854, dead Bombus on asphalt). Next session: continue from candidates_next_index 56 (photo_id > 25576931).",
-  "candidates_next_index": 56,
+  "note": "Session 20: S3 direct download from photo_candidates.json. Annotated 20 images (indices 57-83): catmint with Bombus, 2x sunflower close-ups, 8x knapweed/thistle, 2x yellow flowers (Agrimonia?), poppy x2, in-flight Bombus, scabiosa x3, dorsal on leaf. Visual check created for #649 (photo26140132, dorsal on green leaf). Next session: continue from candidates_next_index 84 (photo_id > 26140132).",
+  "candidates_next_index": 84,
   "status": "in_progress"
 }
