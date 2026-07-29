@@ -1,10 +1,10 @@
 {
-  "total_annotated": 550,
-  "last_photo_id": 499141,
+  "total_annotated": 570,
+  "last_photo_id": 3914705,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 2147483648,
   "obs_csv_bytes_scanned": 3326449664,
   "source": "inaturalist-open-data-s3",
-  "note": "Session 15: iNaturalist API still blocked (proxy 403). Used existing 2414 photo candidates from new_candidates.json. Annotated 20 images: bees on flowers/mint/thistle/fireweed/rockrose/Inula/Veronica/buttonbush/Buddleja/Agastache. Species: B. terrestris, B. pascuorum, various Bombus spp. Photos include ext=jpeg variants. Visual check created for #540 (obs8225c430_photo4411377, Bombus on Inula). Next session: continue scanning photos.csv.gz beyond first 500MB, or use remaining 2396 candidates from new_candidates.json.",
+  "note": "Session 16: iNaturalist API still blocked (proxy 403). Used S3 direct access: downloaded first 200MB of observations.csv.gz (found 10925 new Bombus research-grade UUIDs) and first 400MB of photos.csv.gz (found 568 CC0 Bombus photo candidates). Annotated 20 images: bees on salvia/sage (multiple B. ternarius/vagans shots), vetch, trefoil, California poppy, Hebe, sweet pea, raspberry flowers, and nest entrance. New candidates list has 548 remaining. Species: B. ternarius, B. vagans, various Bombus spp. Visual check created for #570 (obs26e801d3_photo3914700, Bombus on salvia). Next session: continue from photo_candidates.json candidates index 40+, or re-scan with obs_csv_bytes_scanned offset.",
   "status": "in_progress"
 }
