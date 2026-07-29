@@ -1,12 +1,12 @@
 {
-  "total_annotated": 609,
-  "last_photo_id": 20219172,
+  "total_annotated": 629,
+  "last_photo_id": 25576931,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 18: Rebuilt full Bombus UUID set by streaming all 268M rows of observations.csv.gz (166,320 Bombus UUIDs) and all ~470M rows of photos.csv.gz (14,099 Bombus CC0 photo candidates with photo_id > 9927053). Annotated 19 images (skipped 1 no-bee): sunflower macro, Sedum, Hebe, Brassica background, Bombus in flight, Lamium (x3), Brassica dry grass, white clover, Penstemon, tall grass, Phacelia flight, Phacelia landing (x2), Bombus macro resting on leaf (x2), wild strawberry, lavender. Visual check created for #600 (obs7438c6fd_photo18575078, Bombus on white clover). Next session: continue from photo_candidates.json index 35 (photo_id > 20219172).",
-  "candidates_next_index": 35,
+  "note": "Session 19: iNaturalist API blocked by proxy policy; used photo_candidates.json + S3 direct download. Annotated 20 images (skipped several missing from S3): Cotoneaster flower, thistle dorsal, sea holly (x2), flight in willow, Buddleja, pink herb flowers (x2), dead bee on asphalt (x2), Echinacea, Nepeta, sunflower (x2), knapweed (x4), yellow flowers macro (x2). Visual check created for #620 (photo24440854, dead Bombus on asphalt). Next session: continue from candidates_next_index 56 (photo_id > 25576931).",
+  "candidates_next_index": 56,
   "status": "in_progress"
 }
