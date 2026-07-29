@@ -1,10 +1,10 @@
 {
-  "total_annotated": 570,
-  "last_photo_id": 3914705,
+  "total_annotated": 590,
+  "last_photo_id": 9927053,
   "last_obs_id": 413486,
-  "photos_csv_bytes_scanned": 2147483648,
-  "obs_csv_bytes_scanned": 3326449664,
+  "photos_csv_bytes_scanned": 0,
+  "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
-  "note": "Session 16: iNaturalist API still blocked (proxy 403). Used S3 direct access: downloaded first 200MB of observations.csv.gz (found 10925 new Bombus research-grade UUIDs) and first 400MB of photos.csv.gz (found 568 CC0 Bombus photo candidates). Annotated 20 images: bees on salvia/sage (multiple B. ternarius/vagans shots), vetch, trefoil, California poppy, Hebe, sweet pea, raspberry flowers, and nest entrance. New candidates list has 548 remaining. Species: B. ternarius, B. vagans, various Bombus spp. Visual check created for #570 (obs26e801d3_photo3914700, Bombus on salvia). Next session: continue from photo_candidates.json candidates index 40+, or re-scan with obs_csv_bytes_scanned offset.",
+  "note": "Session 17: Fixed S3 CSV parsing (was using comma delimiter, files are tab-delimited). Streamed 5M rows of observations.csv.gz (found 1077 Bombus CC0 UUIDs) and 6.9M rows of photos.csv.gz (found 25 candidates with photo_id > 3914705). Annotated 20 images: bumblebees on hibiscus, yellow daisy, crocus (macro), rhododendron, white flowering shrub (x2), bramble/blackberry (2 bees), wild rose, meadowsweet/Viburnum (2 bees x2), red clover, bird's-foot trefoil (macro), white clover meadow, sunflower (macro), goldenrod (macro), purple vetch (x2), bee balm/Monarda (x4). Visual check created for #590 (obs_photo9927053, Bombus on bee balm). Next session: continue scanning photos.csv.gz from row 6.9M+ to find more candidates. Use tab delimiter. Obs scan should go further (5M rows only found 1077 Bombus UUIDs out of expected 10k+).",
   "status": "in_progress"
 }
