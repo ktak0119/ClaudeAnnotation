@@ -1,10 +1,12 @@
 {
-  "total_annotated": 590,
-  "last_photo_id": 9927053,
+  "total_annotated": 609,
+  "last_photo_id": 20219172,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
-  "note": "Session 17: Fixed S3 CSV parsing (was using comma delimiter, files are tab-delimited). Streamed 5M rows of observations.csv.gz (found 1077 Bombus CC0 UUIDs) and 6.9M rows of photos.csv.gz (found 25 candidates with photo_id > 3914705). Annotated 20 images: bumblebees on hibiscus, yellow daisy, crocus (macro), rhododendron, white flowering shrub (x2), bramble/blackberry (2 bees), wild rose, meadowsweet/Viburnum (2 bees x2), red clover, bird's-foot trefoil (macro), white clover meadow, sunflower (macro), goldenrod (macro), purple vetch (x2), bee balm/Monarda (x4). Visual check created for #590 (obs_photo9927053, Bombus on bee balm). Next session: continue scanning photos.csv.gz from row 6.9M+ to find more candidates. Use tab delimiter. Obs scan should go further (5M rows only found 1077 Bombus UUIDs out of expected 10k+).",
+  "candidates_file": "photo_candidates.json",
+  "note": "Session 18: Rebuilt full Bombus UUID set by streaming all 268M rows of observations.csv.gz (166,320 Bombus UUIDs) and all ~470M rows of photos.csv.gz (14,099 Bombus CC0 photo candidates with photo_id > 9927053). Annotated 19 images (skipped 1 no-bee): sunflower macro, Sedum, Hebe, Brassica background, Bombus in flight, Lamium (x3), Brassica dry grass, white clover, Penstemon, tall grass, Phacelia flight, Phacelia landing (x2), Bombus macro resting on leaf (x2), wild strawberry, lavender. Visual check created for #600 (obs7438c6fd_photo18575078, Bombus on white clover). Next session: continue from photo_candidates.json index 35 (photo_id > 20219172).",
+  "candidates_next_index": 35,
   "status": "in_progress"
 }
