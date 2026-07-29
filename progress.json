@@ -1,12 +1,12 @@
 {
-  "total_annotated": 669,
-  "last_photo_id": 36156626,
+  "total_annotated": 684,
+  "last_photo_id": 38672129,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 21: S3 direct download from photo_candidates.json. Annotated 20 images (indices 84-117): Bombus on leaf (dorsal close-up x2), sunflower, comfrey, sunflower wide, scabiosa (rocky bg), mint, knapweed x2, dead bee on metal x3, painted wood, leaf litter, cherry blossoms x2, lamium, cowslip, Pieris x3. Visual check created for #660 (photo33146561, dead bee on paper label). Next session: continue from candidates_next_index 118 (photo_id > 36156626). Note: api.inaturalist.org blocked by proxy policy - using S3 photo_candidates.json.",
-  "candidates_next_index": 118,
+  "note": "Session 22: S3 direct download from photo_candidates.json. Annotated 15 images (indices 118-135): Bombus on Pieris white flowers, dandelion, white dead-nettle, close-up on flower (near-full frame), wing detail, Cotoneaster with red berries, wood/bark dorsal view, coltsfoot, vetch, thyme x2 (front-view and lateral), leaf litter ground, azalea/rhododendron, rosemary. Visual check created for #680 (photo38555036, thyme lateral). Skipped 4 (316/296 bytes). Next session: continue from candidates_next_index 136 (photo_id > 38672129). Note: api.inaturalist.org blocked by proxy policy - using S3 photo_candidates.json.",
+  "candidates_next_index": 136,
   "status": "in_progress"
 }
