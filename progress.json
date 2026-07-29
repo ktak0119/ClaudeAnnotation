@@ -1,12 +1,12 @@
 {
-  "total_annotated": 704,
-  "last_photo_id": 40826699,
+  "total_annotated": 721,
+  "last_photo_id": 41980984,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 23: S3 direct download from photo_candidates.json. Annotated 20 images (indices 136-168): thyme (2 close-ups, obs d9c173bc), Aquilegia/columbine (obs 9cb41b7e), lupin x3 (obs 7209f373, blurry/small but identifiable), red clover in-flight + lateral (obs 49e10a07), dead bee on concrete (obs 7257de7b), dandelion x3 (obs cfbd389c), wild rose (obs f960d82d), yellow daisy x2 (obs 9681cc37), snowberry/Symphoricarpos x3 (obs 7ad3a4ed), snowberry bright-yellow Bombus x2 (obs 8b96efbb). Visual check created for #704 (photo40826699, snowberry). Skipped 12 (296-316 bytes). Next session: continue from candidates_next_index 169 (photo_id > 40826699). Note: api.inaturalist.org blocked by proxy policy - using S3 photo_candidates.json.",
-  "candidates_next_index": 169,
+  "note": "Session 24: umbellifera x6 (obs b06a796b, white Queen Anne's lace), willow/pussy willow macro (obs 43decd0e), chive close-up (obs efffca62), ground resting (obs 4da8ba89), leaf resting (obs c4b682bd), umbellifera macro x2 (obs 34028445), rhododendron (obs c7a2bb05), mating pair on leaves x2 (obs fa5697aa), white clover x2 (obs e2a6fde8). Visual check at #720 (photo41981021, white clover). Skipped indices 169-173, 181, 183, 185-186, 188, 191-193, 195-197, 200-201 (404). Next session: continue from candidates_next_index 204 (photo_id > 41980984). Note: api.inaturalist.org blocked by proxy policy - using S3 photo_candidates.json.",
+  "candidates_next_index": 204,
   "status": "in_progress"
 }
