@@ -1,12 +1,12 @@
 {
-  "total_annotated": 841,
-  "last_photo_id": 51325062,
+  "total_annotated": 861,
+  "last_photo_id": 51762938,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 31: 20 images annotated (indices 326-345). 0 skipped. Visual check created at total=841 (photo51325062). Used .jpg for most, .jpeg for some photos.",
-  "candidates_next_index": 346,
+  "note": "Session 32: 20 images annotated (indices 346-365). 0 skipped. Visual check created at total=861 (photo51762938). Used .jpg for most, .jpeg for some photos.",
+  "candidates_next_index": 366,
   "status": "in_progress"
 }
