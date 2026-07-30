@@ -1,12 +1,12 @@
 {
-  "total_annotated": 744,
-  "last_photo_id": 43365871,
+  "total_annotated": 764,
+  "last_photo_id": 44734993,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 26: dead bee on ground (photo43084075), bee eaten by spider (photo43084084), bee on white flower (photo43365871). Indices 228-244 were 404 (296-316 bytes). Note: api.inaturalist.org blocked by proxy policy - using S3 photo_candidates.json.",
-  "candidates_next_index": 246,
+  "note": "Session 27: 20 images annotated (indices 246-265). Photos use .jpg or .jpeg extension on S3 - try both. Visual check created at total=760 (photo44451863).",
+  "candidates_next_index": 266,
   "status": "in_progress"
 }
