@@ -1,12 +1,12 @@
 {
-  "total_annotated": 881,
-  "last_photo_id": 53735890,
+  "total_annotated": 901,
+  "last_photo_id": 62688457,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 33: 20 images annotated (indices 366-385). 0 skipped. Visual check created at total=881 (photo53735890). Used .jpeg for most, .jpg for some photos. iNaturalist API blocked by proxy; used S3 direct for photo downloads.",
-  "candidates_next_index": 386,
+  "note": "Session 34: 20 images annotated (indices 386-405). 0 skipped. Visual check created at total=901 (photo62688457). Used .jpeg for some, .jpg for others. iNaturalist API blocked by proxy; used S3 direct for photo downloads.",
+  "candidates_next_index": 406,
   "status": "in_progress"
 }
