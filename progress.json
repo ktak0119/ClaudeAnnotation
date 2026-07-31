@@ -1,12 +1,12 @@
 {
-  "total_annotated": 994,
-  "last_photo_id": 74758388,
+  "total_annotated": 1013,
+  "last_photo_id": 78171058,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 39: 20 images annotated (indices 484-503). Visual check created at ann980. Obs: 6c1ebcfe(1), ef3c6330(1), 08e38ea0(1), 384904de(1), 66ca4713(1), 3446f2d4(1), 5481f2f7(2), 84597d2a(1), b08e9477(3), d8ebde9c(1), cf08db72(1), 5f2a7545(2), 11ff87b4(3), ddfa5d8d(1).",
-  "candidates_next_index": 504,
+  "note": "Session 40: 19 images annotated (indices 504-562). Visual check created at ann1000. Photos: 74758438, 74829821, 75526524, 75526510, 75753545, 76171256, 76160764, 76235311, 76392644, 76392664, 77189710, 77189726, 77189738, 77213026, 77398247, 77410889, 77410869, 77697494, 78171058.",
+  "candidates_next_index": 563,
   "status": "in_progress"
 }
