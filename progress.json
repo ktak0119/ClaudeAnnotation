@@ -1,12 +1,12 @@
 {
-  "total_annotated": 1067,
-  "last_photo_id": 83630774,
+  "total_annotated": 1087,
+  "last_photo_id": 83993745,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 43: 20 images annotated (total 1047->1067). Visual check created at ann1060. Photos annotated: 80492484, 80712724, 81052925, 81673101, 82052197, 82710629, 82691191, 82762439, 82793966, 82794056, 82982119, 83135387, 83263180, 83263187, 83441878, 83441891, 83446912(2bees), 83505200, 83630749, 83630774. Skipped (missing S3): 81268936, 81268992, 81269033, 81269085, 82854935, 82855283, 82929011, 82933825, 83054525, 83055109. Skipped (small/low-res): 81650665(224x224).",
-  "candidates_next_index": 658,
+  "note": "Session 44: 20 images annotated (total 1067->1087). Visual check created at ann1087. Photos annotated: 83630791, 83630812, 83630831, 83631366, 83631387, 83631789, 83741943, 83741930, 83742341, 83742331, 83768285, 83923359, 83923330, 83923347, 83986988, 83992270, 83992281, 83993725, 83993745. Skipped (missing S3): 83717019, 83724109, 83936253, 83936289, 83936027, 83943865, 83944298, 83947577, 83947599, 83947618, 83947989, 83979730, 83981276.",
+  "candidates_next_index": 699,
   "status": "in_progress"
 }
