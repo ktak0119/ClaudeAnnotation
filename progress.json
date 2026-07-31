@@ -1,12 +1,12 @@
 {
-  "total_annotated": 1185,
-  "last_photo_id": 89041692,
+  "total_annotated": 1184,
+  "last_photo_id": 91123251,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 49: 20 images annotated (total 1165->1185). Visual check created at ann1180 (photo88959912). iNaturalist API blocked by proxy, used S3 direct + photo_candidates.json (index 829->850). Photos annotated: 88694603, 88694768, 88700190, 88700221, 88723387, 88729959, 88753191, 88839412, 88917774, 88919558, 88919574, 88919594, 88919611, 88959288, 88959912, 89031375, 89031359, 89031379, 89031369, 89041692. Skipped (download failed): 88767733, 89035445.",
-  "candidates_next_index": 851,
+  "note": "Session 50: 20 images annotated (total 1164->1184). Visual check created at ann1200 (photo89760012). iNaturalist API blocked by proxy, used S3 direct + photo_candidates.json (index 851->892). Photos annotated: 89050711, 89050819, 89052253, 89052436, 89117126, 89052558, 89131816, 89131782, 89152325, 89273298, 89273308, 89273281, 89579151, 89653951, 89760012, 90043215, 90235895, 90247599, 91123239, 91123251. Skipped (download failed): 89373227, 89373235, 89505966, 89797018, 89921817, 89921927, 90088074, 90088108, 90088144, 90088181, 90825311, 90825338, 90825361, 90825386, 90894813, 90894743, 90947428.",
+  "candidates_next_index": 892,
   "status": "in_progress"
 }
