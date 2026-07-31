@@ -1,12 +1,12 @@
 {
-  "total_annotated": 974,
-  "last_photo_id": 73620179,
+  "total_annotated": 994,
+  "last_photo_id": 74758388,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 38: 19 images annotated (indices 464-483). 1 skipped (S3 not found: 71980993). Visual check created at ann960. Obs: 15f6a2a4(3), 3404a47c(1), 587ed1df(2), 6cbf08a5(1), 0161cb70(1), 1f21722c(1), 03623190(1), ca8ed679(1), 3a0e4cf1(1), fd92a056(1), f4297c3b(2), 99db6987(1), f81730b8(1), 511f54a1(2).",
-  "candidates_next_index": 484,
+  "note": "Session 39: 20 images annotated (indices 484-503). Visual check created at ann980. Obs: 6c1ebcfe(1), ef3c6330(1), 08e38ea0(1), 384904de(1), 66ca4713(1), 3446f2d4(1), 5481f2f7(2), 84597d2a(1), b08e9477(3), d8ebde9c(1), cf08db72(1), 5f2a7545(2), 11ff87b4(3), ddfa5d8d(1).",
+  "candidates_next_index": 504,
   "status": "in_progress"
 }
