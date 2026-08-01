@@ -1,12 +1,12 @@
 {
-  "total_annotated": 1339,
-  "last_photo_id": 133238032,
+  "total_annotated": 1360,
+  "last_photo_id": 134603517,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 58: 19 annotations written (candidates 1188-1207), 1 skipped (133237976 - bee barely visible at edge). Total labels on disk: 1339. Visual check created: ann1340_photo133237999. Next visual check at ann1360.",
-  "candidates_next_index": 1208,
+  "note": "Session 59: 21 annotations written (candidates 1208-1241), 1 skipped (133238009 - no bee visible), 12 skipped (XML errors/inaccessible on S3). Total labels on disk: 1360. Visual check created: ann1360_photo134603517. Next visual check at ann1380.",
+  "candidates_next_index": 1242,
   "status": "in_progress"
 }
