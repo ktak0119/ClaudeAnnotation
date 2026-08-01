@@ -1,12 +1,12 @@
 {
-  "total_annotated": 1321,
-  "last_photo_id": 132397305,
+  "total_annotated": 1339,
+  "last_photo_id": 133238032,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 57: 20 images annotated (total 1301->1321). S3 direct downloads (try .jpg then .jpeg). candidates_next_index 1163->1188. Photos annotated: 129865916, 129865954, 130261862, 130688636, 130689228, 130757138, 131251513, 131251530, 131251557, 131433360, 131591479, 131591539, 131591605, 131591662, 131634212, 131634230, 131760553, 131760633, 132319786, 132397305. Visual check created: ann1320_photo132319786. Next visual check at ann1340.",
-  "candidates_next_index": 1188,
+  "note": "Session 58: 19 annotations written (candidates 1188-1207), 1 skipped (133237976 - bee barely visible at edge). Total labels on disk: 1339. Visual check created: ann1340_photo133237999. Next visual check at ann1360.",
+  "candidates_next_index": 1208,
   "status": "in_progress"
 }
