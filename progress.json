@@ -1,12 +1,12 @@
 {
-  "total_annotated": 1221,
-  "last_photo_id": 106192644,
+  "total_annotated": 1241,
+  "last_photo_id": 109465052,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 52: 20 images annotated (total 1201->1221). S3 direct downloads. candidates_next_index 952->972. Photos annotated: 96038384, 96308502, 96593838, 96593843, 96794546, 97253316, 97253298, 97565508, 98543977, 98543983, 99126657, 99804449, 103205493, 106192579, 106192583, 106192626, 106192619, 106192623, 106192644. Skipped (download failed <5KB): 98417682. Visual check created: ann1220_photo106192623. Next visual check at ann1240.",
-  "candidates_next_index": 972,
+  "note": "Session 53: 20 images annotated (total 1221->1241). S3 direct downloads. candidates_next_index 972->1023. Photos annotated: 106192650, 106192737, 106192743, 106192750, 106192753, 106192761, 106259113, 106259116, 106259119, 106259126, 106898970, 106898973, 107981447, 107992048, 108002971, 108055933, 108141661, 109189454, 109465040, 109465052. Skipped (download failed <5KB): 107528327, 107528337, 107528347, 107528358, 107748836, 107748845, 107748859, 107748875, 108302687, 108390871-108390900, 108393678, 108397442, 108678196-108678213, 108724789-108796401. Visual check created: ann1240_photo109465040. Next visual check at ann1260.",
+  "candidates_next_index": 1023,
   "status": "in_progress"
 }
