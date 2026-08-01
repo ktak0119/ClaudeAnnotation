@@ -1,12 +1,12 @@
 {
-  "total_annotated": 1301,
-  "last_photo_id": 129511096,
+  "total_annotated": 1321,
+  "last_photo_id": 132397305,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 56: 20 images annotated (total 1281->1301). S3 direct downloads (try .jpeg then .jpg). candidates_next_index 1143->1163. Photos annotated: 127612317, 127702080, 127702096, 127713233, 127801727, 127929834, 127929845, 127929857, 128611266, 128611301, 128788530, 128788541, 128788550, 128788555, 129283913, 129283941, 129469876, 129473347, 129492331, 129511096. Visual check created: ann1300_photo129492331. Next visual check at ann1320.",
-  "candidates_next_index": 1163,
+  "note": "Session 57: 20 images annotated (total 1301->1321). S3 direct downloads (try .jpg then .jpeg). candidates_next_index 1163->1188. Photos annotated: 129865916, 129865954, 130261862, 130688636, 130689228, 130757138, 131251513, 131251530, 131251557, 131433360, 131591479, 131591539, 131591605, 131591662, 131634212, 131634230, 131760553, 131760633, 132319786, 132397305. Visual check created: ann1320_photo132319786. Next visual check at ann1340.",
+  "candidates_next_index": 1188,
   "status": "in_progress"
 }
