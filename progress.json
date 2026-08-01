@@ -1,12 +1,12 @@
 {
-  "total_annotated": 1281,
-  "last_photo_id": 127498766,
+  "total_annotated": 1301,
+  "last_photo_id": 129511096,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 55: 20 images annotated (total 1261->1281). S3 direct downloads. candidates_next_index 1070->1143. Photos annotated: 122310737, 122310759, 122814227, 122812062, 123606345, 123808914, 124123693, 124214879, 124214232, 124215525, 124215040, 124215371, 125531145, 125531185, 125870716, 125980886, 126913162, 127498726, 127498698, 127498766. Skipped (no bee visible): 121874304, 121874323. Skipped (download failed <5KB): 121509803, 122509727, 122737903, 122814282, 123569340, 123569354, 123569374, 123767457, 123820328, 123820391, 124391647, 124400030, 124464326, 124594231, 124594292, 124594333, 124681682-124681792, 125181136, 125514431-125514608, 126406244, 126577448-126577454, 126731334-126732978, 126878217, 127152850-127152879, 127421883, 127612272-127612299. Visual check created: ann1280_photo127498698. Note: api.inaturalist.org blocked by egress proxy (403); used candidates file. Next visual check at ann1300.",
-  "candidates_next_index": 1143,
+  "note": "Session 56: 20 images annotated (total 1281->1301). S3 direct downloads (try .jpeg then .jpg). candidates_next_index 1143->1163. Photos annotated: 127612317, 127702080, 127702096, 127713233, 127801727, 127929834, 127929845, 127929857, 128611266, 128611301, 128788530, 128788541, 128788550, 128788555, 129283913, 129283941, 129469876, 129473347, 129492331, 129511096. Visual check created: ann1300_photo129492331. Next visual check at ann1320.",
+  "candidates_next_index": 1163,
   "status": "in_progress"
 }
