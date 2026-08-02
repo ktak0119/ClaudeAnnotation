@@ -1,12 +1,12 @@
 {
-  "total_annotated": 1440,
-  "last_photo_id": 137846740,
+  "total_annotated": 1460,
+  "last_photo_id": 138578453,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 63: 20 annotations written (candidates 1302-1364), 0 skipped. Total labels on disk: 1440. Visual check created: ann1440_photo137846740. Next visual check at ann1460. iNaturalist API blocked; used S3 open-data URLs with .jpg extension. Many candidates had missing S3 files.",
-  "candidates_next_index": 1365,
+  "note": "Session 64: 20 annotations written (candidates 1365-1387), 3 skipped (missing S3). Total labels on disk: 1460. Visual check created: ann1460_photo138578453. Next visual check at ann1480. iNaturalist API blocked; used S3 open-data URLs.",
+  "candidates_next_index": 1388,
   "status": "in_progress"
 }
