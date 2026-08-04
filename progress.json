@@ -1,12 +1,12 @@
 {
-  "total_annotated": 1982,
-  "last_photo_id": 201736410,
+  "total_annotated": 1998,
+  "last_photo_id": 202498359,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 91: 16 annotations written (total 1967-1982). Photos annotated: 200717287,200776037,201187981,201187966,201823183,201259804,201334366,201334345,201334320,201334293,201619492(2bees),201619432,201619948,201619893,201676727,201736410. Visual check ann1980 (obs0ee95955_photo201619893). Skipped (<5KB/404): 201298326,201583416,201583392,201819176. Next visual check at ann2000. Note: api.inaturalist.org blocked by proxy; using S3 direct URLs from photo_candidates.json.",
-  "candidates_next_index": 2452,
+  "note": "Session 92: 16 annotations written (total 1983-1998). Photos annotated: 201918539,201990865,201990905,202220707,202220824,202285102,202285136(2bees),202286323,202301275,202328581,202328663,202328758,202488664,202488754,202498326,202498345,202498359. Skipped (<5KB/404): 202446798,202475138,202602244. Next visual check at ann2000. Note: api.inaturalist.org blocked by proxy; using S3 direct URLs from photo_candidates.json.",
+  "candidates_next_index": 2472,
   "status": "in_progress"
 }
