@@ -1,12 +1,12 @@
 {
-  "total_annotated": 1851,
-  "last_photo_id": 185856930,
+  "total_annotated": 1871,
+  "last_photo_id": 187874546,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 84: 20 annotations written (total 1832-1851). Photos annotated: 174858848,174858856,174858869,176651264,176651279,176651259,176651272,177586642,177757954,182576626,183997308,183997319,183997331,183997338,184026498,184496676(2 bees),185856878,185856896,185856914,185856930. Skipped (too small): 177586712,177587026,177587110,177587176,177587233,177587243,179522492,179522576,183108227,183108235,183541871,184156266. Visual check: ann1840 (photo177586642). Next visual check at ann1860.",
-  "candidates_next_index": 2223,
+  "note": "Session 85: 20 annotations written (total 1852-1871). Photos annotated: 186506518,186705542,186705476,186705565,186705627,187119255(2 bees),187324301,187404728,187666822,187859307,187859316,187859323,187862983,187865317,187865363,187865401,187871085,187871110,187874526,187874546. Skipped (no skip this batch). Visual check: ann1860 (photo187666822). Next visual check at ann1880.",
+  "candidates_next_index": 2243,
   "status": "in_progress"
 }
