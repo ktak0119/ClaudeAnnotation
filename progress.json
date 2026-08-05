@@ -1,12 +1,12 @@
 {
-  "total_annotated": 2136,
-  "last_photo_id": 209072551,
+  "total_annotated": 2156,
+  "last_photo_id": 209274578,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 99: 20 annotations written (total 2117-2136). Photos annotated: 208325350,208325318,208713382,208726248,208726426,208726644,208790965,208790996,208792392,208792402,208792422,208792434,208817035,209003488,209003452,209003520,209003414,209072677,209072773,209072551. Skipped (no bee visible): 208325391,208325419,208325440,208530750,208530775,208530798. Skipped (404): 208108044,208280371,208280661,208631734,208631750,208694892,208782066,208897341,208972854,209027664-209028768,209067317. Visual check created: visual_total2120_photo208726248.jpg. Next visual check at ann2140.",
-  "candidates_next_index": 2713,
+  "note": "Session 100: 20 annotations written (total 2137-2156). Photos annotated: 209072622,209073076,209072912,209072992,209072842,209073131,209272849,209272711,209272759,209272801,209274490,209274405,209274451,209274514,209274386,209274531,209274556,209274578. Visual check created: visual_total2140_photo209072992.jpg. Next visual check at ann2160.",
+  "candidates_next_index": 2733,
   "status": "in_progress"
 }
