@@ -1,12 +1,12 @@
 {
-  "total_annotated": 2176,
-  "last_photo_id": 210583609,
+  "total_annotated": 2196,
+  "last_photo_id": 211638185,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 101: 20 annotations written (total 2157-2176). Photos annotated: 209353250,209353353,209398577,209804076,209804087,209804101,209804068,209804053,209804036,209804128,209815776,209975269,209975317,209975199,209975173,210025979,210026003,210025989,210466346,210583609. Visual check created: visual_total2160_photo209804076.jpg. Next visual check at ann2180.",
-  "candidates_next_index": 2783,
+  "note": "Session 102: 20 annotations written (total 2177-2196). Photos annotated: 210583778,210641268,210641294,210667637,210667667,210667603,210667576,210672338,210672366,210672393,210692486,210692473,211116031,211116072,211182392,211183906,211183507,211375622,211638240,211638185. Visual check created: visual_total2180_photo210667637.jpg. Next visual check at ann2200. Note: iNaturalist API blocked (403), using S3 direct access for photos.",
+  "candidates_next_index": 2825,
   "status": "in_progress"
 }
