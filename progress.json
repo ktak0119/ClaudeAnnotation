@@ -1,12 +1,12 @@
 {
-  "total_annotated": 2236,
-  "last_photo_id": 214444185,
+  "total_annotated": 2256,
+  "last_photo_id": 215226709,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 104: 20 annotations written (total 2217-2236). Photos annotated: 212332836,212564428,212564394,212564374,212564415,212711343,212715713,212715740,212786460,212786404,212786379,212786431,212845868,213671209,213935105,214101666,214100443,214310850,214364173,214444185. Visual check created: visual_total2220_photo212564374.jpg. Next visual check at ann2240. Note: iNaturalist API blocked, using S3 direct access. Many photos in 212822xxx-213556xxx range returned 297-317 byte error responses (unavailable).",
-  "candidates_next_index": 2913,
+  "note": "Session 105: 20 annotations written (total 2237-2256). Photos annotated: 214444221,214444248,214578423,214578415,214578431,214578872,214578886,214579149,214589495,214589581,214696811,214697528,214697464,214699849,214700475,214700415,214767745,214997473,215226674,215226709. Visual check created: visual_total2240_photo214578415.jpg. Next visual check at ann2260. Note: iNaturalist API blocked, using S3 direct access. Skipped error photos: 214512856,214629722,214738662,214738647,215011830 (297-317 byte error responses).",
+  "candidates_next_index": 2938,
   "status": "in_progress"
 }
