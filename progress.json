@@ -1,12 +1,12 @@
 {
-  "total_annotated": 2332,
-  "last_photo_id": 219487968,
+  "total_annotated": 2352,
+  "last_photo_id": 219861609,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 109: 21 images annotated (total 2311-2332). Photos annotated: 218415348,218550331,218550361,218550398,218550417,218586619,218828851,218828795,218931288,219159898,219433239,219433279,219433183,219433212,219477651,219482077,219482098,219482128,219487993,219487951,219487968. Visual check created: visual_total2320_photo219159898.jpg. Next visual check at ann2340 (every 20). iNaturalist API blocked (403), using S3 direct access. Skipped error photos: 218507623,218507717(297bytes),218737105,218737121,218737139(297bytes). Multi-bee images: 219433279(2 bees),219433212(2 bees).",
-  "candidates_next_index": 3086,
+  "note": "Session 110: 20 images annotated (total 2332-2352). Photos annotated: 219530125,219530079,219530144,219530098,219530159,219530191,219530225,219530208,219530181,219530243,219679476,219709508,219707434,219709480,219861563,219861547,219861537,219861574,219861591,219861609. Visual check created: visual_total2340_photo219530208.jpg. Next visual check at ann2360 (every 20). iNaturalist API blocked (403), using S3 direct access. Skipped error photos: 219740804,219740831,219740868,219756299,219756307,219756318,219756330(317/297 bytes),219918187,219985022,219985034,219985055,220000499,220001215,220001609,220001628,220001649,220004287,220004366. Dead specimen photo included: 219679476.",
+  "candidates_next_index": 3113,
   "status": "in_progress"
 }
