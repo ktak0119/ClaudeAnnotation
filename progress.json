@@ -1,12 +1,12 @@
 {
-  "total_annotated": 2407,
-  "last_photo_id": 283934471,
+  "total_annotated": 2426,
+  "last_photo_id": 284943265,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 113: 20 images annotated (total 2388-2407). Photos annotated: 275535879,276542971,276542982,278346338,278403695,278682887,278682926,278682956,280179830,280179843,280715213,281556846,281556831,281556813,282086325,282494424,282966251,282966231,283091318,283934471. Visual check created: visual_total2401_photo281556813.jpg. Next visual check at ann2420 (every 20). iNaturalist API blocked (403), using S3 direct access. Skipped 404 photos in range 3517-3583: 273261637,274099897,274099956,274208200,274208321,275331428,275331329,275331399,275331361,275385564,275440089,276199916,276200018,276200050,276229585,277208363,277208470,277208512,278325645,278325652,279948965,280001118,280670698,281498706,281686230,281882765,282024929,283463673. Good range continued from candidate index 3584.",
-  "candidates_next_index": 3584,
+  "note": "Session 114: 19 images annotated (total 2408-2426). Photos annotated: 283934531,283934599,284032350,284032327,284032365,284484623,284484653,284491767,284491818,284491853,284491887,284656687,284656634,284656560,284942830,284942852,284942877,284942914,284943265. Skipped 404: 284406059. Visual check created: visual_total2420_photo284656634.jpg. Next visual check at ann2440 (every 20). S3 direct access working. Next candidates_next_index: 3604.",
+  "candidates_next_index": 3604,
   "status": "in_progress"
 }
