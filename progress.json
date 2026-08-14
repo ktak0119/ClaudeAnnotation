@@ -1,12 +1,12 @@
 {
-  "total_annotated": 2566,
-  "last_photo_id": 294292638,
+  "total_annotated": 2586,
+  "last_photo_id": 296183830,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 121: 20 images annotated (total 2547-2566). Photos annotated: 293379874,293379927,293379967,293380006,293380053,293933298,293933431,293933481,293933546,293909630,293909594,293909682,293909729,293909773,294147735,294147799,294292261,294292638. Skipped (NoSuchKey/failed): 293390703,294149213,294277861,294278110. Visual check created: visual_total2566_photo294292638.jpg. Next visual check at ann2586 (every 20). S3 direct access working. iNaturalist API blocked by proxy policy. Next candidates_next_index: 3871.",
-  "candidates_next_index": 3871,
+  "note": "Session 122: 20 images annotated (total 2567-2586). Photos annotated: 294421530,294421494,294421553,294422760,294529269,294529311,294529351,294529388,294764440,294764463,294806292,294805884,294806675,294996159,295006473,295310470,295310504,295479794,295479814,296183830. Skipped (NoSuchKey/failed/too-small): 294344709,294344741,294552134,294552150,294646531,294646513,294662107,294662122,295080176,295080199,295078882,295025859,295295097,295651850,295651894,296043636,296087257. Visual check created: visual_total2586_photo296183830.jpg. Next visual check at ann2606 (every 20). S3 direct access working. iNaturalist API blocked by proxy policy. Next candidates_next_index: 3908.",
+  "candidates_next_index": 3908,
   "status": "in_progress"
 }
