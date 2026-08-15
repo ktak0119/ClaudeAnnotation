@@ -1,12 +1,12 @@
 {
-  "total_annotated": 2687,
-  "last_photo_id": 300469143,
+  "total_annotated": 2707,
+  "last_photo_id": 302609894,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 127: 20 images annotated (total 2668-2687). Photos annotated: 299308762,299551165,299553002,299552990,299553026,299572626,299619566,299619590,299619624,299678981,299678995,299679007,299726752,300159287,300159315,300178655,300178649,300178926,300177877,300469143. Visual check created: visual_total2686_photo300177877.jpg. Next visual check at ann2706 (every 20). iNaturalist API blocked by proxy policy. S3 direct access working. Next candidates_next_index: 4061.",
-  "candidates_next_index": 4061,
+  "note": "Session 128: 20 images annotated (total 2688-2707). Photos annotated: 300958864,300958896,300958941,301012209,301012229,301012251,301012274,301201106,301201076,301530948,301530992,301962517,302009922,302009953,302077708,302077726,302552016,302609842,302609869,302609894. Visual check created: ann2707_obse52aadb3_photo302609894.jpg. Next visual check at ann2727 (every 20). iNaturalist API blocked by proxy policy. S3 direct access working. Many 404s in candidates list (photos removed or private). Next candidates_next_index: 4123.",
+  "candidates_next_index": 4123,
   "status": "in_progress"
 }
