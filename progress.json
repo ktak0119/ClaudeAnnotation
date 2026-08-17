@@ -1,12 +1,12 @@
 {
-  "total_annotated": 2782,
-  "last_photo_id": 308526358,
+  "total_annotated": 2800,
+  "last_photo_id": 310635104,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 132: 20 images annotated (total 2762-2782). Photos: 307347403,307347381,307347444,307347426,307380237,307944315,307944415,307944343,307944373,307944457,307944486,307944507,307944530,307944551,308011545,308011556,310455758,308526312,308526334,308526358. Many 404s skipped. S3 direct access working. Visual check at ann2780. Next candidates_next_index: 4357.",
-  "candidates_next_index": 4357,
+  "note": "Session 133: 18 images annotated (total 2782-2800). Photos: 309042596,309103033,309102863,309102915,309102987,309256373,309299434,309299458,309897338,309897373,309897402,309457373,309468015,309468016,309765139,310635052,310635074,310635104. Many 404s skipped (309256218,309256397,309461331,309461318,309461356,309516820,309742678,311097253,309757200,309757201). S3 direct access working. Visual check at ann2800. Next candidates_next_index: 4387.",
+  "candidates_next_index": 4387,
   "status": "in_progress"
 }
