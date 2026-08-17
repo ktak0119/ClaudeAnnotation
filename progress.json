@@ -1,12 +1,12 @@
 {
-  "total_annotated": 2837,
-  "last_photo_id": 311839181,
+  "total_annotated": 2849,
+  "last_photo_id": 312317021,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 135: 20 images annotated (total 2818-2837). Photos: 310698997,310699407,310699406,310703740,310735241,310735274,310758013,310800664,311044487,311094926,311249273,311249282,311544320,311667291,311577103,311728034,315779618,315779619,311839159,311839181. Variety: thistle, goldenrod, impatiens, sunflower, canna lily, lavender, orange flower, buddleia. iNaturalist API blocked by proxy, S3 direct access working. Next candidates_next_index: 4427.",
-  "candidates_next_index": 4427,
+  "note": "Session 136: 12 images annotated (total 2838-2849), 8 skipped (NoSuchKey on S3). Photos: 311878417,311878453,311882339,311882389,311882438,311882491,311882555,312067213,312067238,312067261,312316994,312317021. Variety: bird's-foot trefoil, scabious, mint, thistle. URL fix: images use .jpeg not .jpg extension. Next candidates_next_index: 4447.",
+  "candidates_next_index": 4447,
   "status": "in_progress"
 }
