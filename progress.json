@@ -1,12 +1,12 @@
 {
-  "total_annotated": 2817,
-  "last_photo_id": 310699405,
+  "total_annotated": 2837,
+  "last_photo_id": 311839181,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 134: 17 images annotated (total 2801-2817). Photos annotated: 309972045,309972080,309972121,309972223,309972254,309987629,310348638,310378772,310379334,310497360,310497495,310497526,310497551,310584858,310584933,310699402,310699405. Skipped: 310378790 (no clear bee in frame), 310433325,310433343 (S3 404). iNaturalist API blocked by proxy (403), S3 direct access working. Next candidates_next_index: 4407.",
-  "candidates_next_index": 4407,
+  "note": "Session 135: 20 images annotated (total 2818-2837). Photos: 310698997,310699407,310699406,310703740,310735241,310735274,310758013,310800664,311044487,311094926,311249273,311249282,311544320,311667291,311577103,311728034,315779618,315779619,311839159,311839181. Variety: thistle, goldenrod, impatiens, sunflower, canna lily, lavender, orange flower, buddleia. iNaturalist API blocked by proxy, S3 direct access working. Next candidates_next_index: 4427.",
+  "candidates_next_index": 4427,
   "status": "in_progress"
 }
