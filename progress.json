@@ -1,12 +1,12 @@
 {
-  "total_annotated": 2849,
-  "last_photo_id": 312317021,
+  "total_annotated": 2866,
+  "last_photo_id": 312925029,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 136: 12 images annotated (total 2838-2849), 8 skipped (NoSuchKey on S3). Photos: 311878417,311878453,311882339,311882389,311882438,311882491,311882555,312067213,312067238,312067261,312316994,312317021. Variety: bird's-foot trefoil, scabious, mint, thistle. URL fix: images use .jpeg not .jpg extension. Next candidates_next_index: 4447.",
-  "candidates_next_index": 4447,
+  "note": "Session 137: 17 images annotated (total 2850-2866), 3 skipped (NoSuchKey: 312664169, 312864992, 312864961). Photos: 312317045,312317072,312317100,312317127,312572849,312634077,312706389,312948141,312961774,312921798,312921819,312921841,312921868,312924917,312924973,312925003,312925029. Variety: thistle, buddleia, knapweed, blue flower, artichoke, scabious, mint. Multi-bee annotation: 312924917 has 2 bees. Visual check at #2860 (photo312921819). Next candidates_next_index: 4467.",
+  "candidates_next_index": 4467,
   "status": "in_progress"
 }
