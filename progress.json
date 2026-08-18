@@ -1,12 +1,12 @@
 {
-  "total_annotated": 2866,
-  "last_photo_id": 312925029,
+  "total_annotated": 2879,
+  "last_photo_id": 313983648,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 137: 17 images annotated (total 2850-2866), 3 skipped (NoSuchKey: 312664169, 312864992, 312864961). Photos: 312317045,312317072,312317100,312317127,312572849,312634077,312706389,312948141,312961774,312921798,312921819,312921841,312921868,312924917,312924973,312925003,312925029. Variety: thistle, buddleia, knapweed, blue flower, artichoke, scabious, mint. Multi-bee annotation: 312924917 has 2 bees. Visual check at #2860 (photo312921819). Next candidates_next_index: 4467.",
-  "candidates_next_index": 4467,
+  "note": "Session 138: 13 images annotated (total 2867-2879), 12 skipped (NoSuchKey/404). Photos: 312925378,312925409,312925450,312925481,312925515,313198377,313479578,313928833,313928851,313928870,313928892,313983607,313983648. Discovery: newer photos use .jpeg not .jpg extension on S3. Variety: scabious(x5), dahlia, thistle, white_wood_dorsal(x4), mallow(x2). Visual check at #2876 (photo313928870 dorsal). Next candidates_next_index: 4492.",
+  "candidates_next_index": 4492,
   "status": "in_progress"
 }
