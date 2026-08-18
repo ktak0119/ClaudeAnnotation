@@ -1,12 +1,12 @@
 {
-  "total_annotated": 2899,
-  "last_photo_id": 315314064,
+  "total_annotated": 2919,
+  "last_photo_id": 316759743,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 139: 20 images annotated (total 2880-2899), 6 skipped (solitary bees on hibiscus from obs 227403ad). Photos: 313983678,313983703,313983731,314006706,314006819,314009148,314009205,314145638,314145665,314145698,314147986,314462907,314462914,314462877,314609204,314793067,314951031,315162240,315162252,315314064. Variety: mallow(x3), thistle(x3), hemp_agrimony(x2), goldenrod(x3), fireweed, heather(x3), clover, umbellifera, sedum, thyme(x2). Visual check at #2880 (photo313983678 mallow dorsal). Next candidates_next_index: 4518.",
-  "candidates_next_index": 4518,
+  "note": "Session 140: 20 images annotated (total 2900-2919), 5 skipped (download failures: 316064131,316121254,316121308,316290329,316290363). Photos: 315590178,315590198,315596035,315596053,315596072,315596094,315727508,315727534,315891786,315891805,316005410,316336848,316336875,316336904,316336940,316340726,316340760,316450463,316450499,316759743. Variety: knapweed(x2), rose(x4), violet(x2), hawkweed(x2), fern_rest, ivy(x4), balsam(x2), lavender(x2), thistle. Visual check at #2900 (photo315590178 knapweed blurry). Next candidates_next_index: 4543.",
+  "candidates_next_index": 4543,
   "status": "in_progress"
 }
