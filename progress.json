@@ -1,12 +1,12 @@
 {
-  "total_annotated": 2919,
-  "last_photo_id": 316759743,
+  "total_annotated": 2939,
+  "last_photo_id": 318427361,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 140: 20 images annotated (total 2900-2919), 5 skipped (download failures: 316064131,316121254,316121308,316290329,316290363). Photos: 315590178,315590198,315596035,315596053,315596072,315596094,315727508,315727534,315891786,315891805,316005410,316336848,316336875,316336904,316336940,316340726,316340760,316450463,316450499,316759743. Variety: knapweed(x2), rose(x4), violet(x2), hawkweed(x2), fern_rest, ivy(x4), balsam(x2), lavender(x2), thistle. Visual check at #2900 (photo315590178 knapweed blurry). Next candidates_next_index: 4543.",
-  "candidates_next_index": 4543,
+  "note": "Session 141: 20 images annotated (total 2920-2939), 3 skipped (download failures: 317347634,317441371,317441403). Photos: 316759782,316759830,316759860,317423266,317423278,317752726,317752745,317752732,317752733,317892806,318096115,318170725,318170755,318170808,318170845,318298388,318298406,318298428,318298456,318427361. Variety: thistle(x3), balsam(x2), zinnia_yellow, zinnia_pink(x3), sedum, helenium_closeup, daisy_yellow(x4), monkshood_flight, monkshood(x3), dandelion. Visual check at #2920 (photo316759782 thistle). Note: api.inaturalist.org blocked by egress policy; used S3 open-data bucket directly. Photos use .jpg or .jpeg extension alternately. Next candidates_next_index: 4566.",
+  "candidates_next_index": 4566,
   "status": "in_progress"
 }
