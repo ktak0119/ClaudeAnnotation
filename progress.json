@@ -1,12 +1,12 @@
 {
-  "total_annotated": 2979,
-  "last_photo_id": 323400203,
+  "total_annotated": 2999,
+  "last_photo_id": 323693466,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 143: 20 images annotated (total 2960-2979), many skipped (297B failures). Photos: 320618386,320618423,321605091,321605152,322556310,322556277,322556293,322556315,322556261,322899452,322899441,322899492,322899504,323126818,323126819,323126835,323126839,323397218,323397222,323400203. Variety: dead_bee_on_wood(x2), knapweed_2bees, knapweed, deadnettle(x5), collection_tube(x3), goldenrod(x4), fireweed(x2), goldenrod_buds. Visual check at #2979 (photo323400203 goldenrod_buds). Next candidates_next_index: 4621.",
-  "candidates_next_index": 4621,
+  "note": "Session 144: 20 images annotated (total 2980-2999), 2 skipped (robber fly). Photos: 323400199,323518218,323518219,323518220,323518229,323564286,323564306,323640339,323640405,323640458,323640471,323640261,323640277,323640285,323640304,323640327,323640317,323693450,323693466. Variety: frontal_bee_macro(x1), ivy_bees(x4), scabious_bees(x2), aster_bee_macro(x11), goldenrod_stem(x2). Visual check at #2999 (photo323693466 goldenrod_stem). Next candidates_next_index: 4642.",
+  "candidates_next_index": 4642,
   "status": "in_progress"
 }
