@@ -1,12 +1,12 @@
 {
-  "total_annotated": 2959,
-  "last_photo_id": 320618162,
+  "total_annotated": 2979,
+  "last_photo_id": 323400203,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 142: 20 images annotated (total 2940-2959), 0 skipped. Photos: 318505010,318505035,318505078,319036278,319036389,319109382,319747957,319747958,319747962,319747968,319747964,319747992,319747975,319747951,319942916,320213925,320228153,320228192,320618157,320618162. Variety: goldenrod(x3), geranium(x2), veronica, zinnia_pink(x8), lobelia_blue, knapweed, phlox_white(x2), lavender(x2). Visual check at #2940 (photo318505010 goldenrod). Next candidates_next_index: 4586.",
-  "candidates_next_index": 4586,
+  "note": "Session 143: 20 images annotated (total 2960-2979), many skipped (297B failures). Photos: 320618386,320618423,321605091,321605152,322556310,322556277,322556293,322556315,322556261,322899452,322899441,322899492,322899504,323126818,323126819,323126835,323126839,323397218,323397222,323400203. Variety: dead_bee_on_wood(x2), knapweed_2bees, knapweed, deadnettle(x5), collection_tube(x3), goldenrod(x4), fireweed(x2), goldenrod_buds. Visual check at #2979 (photo323400203 goldenrod_buds). Next candidates_next_index: 4621.",
+  "candidates_next_index": 4621,
   "status": "in_progress"
 }
