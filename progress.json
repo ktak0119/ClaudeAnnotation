@@ -1,12 +1,12 @@
 {
-  "total_annotated": 2999,
-  "last_photo_id": 323693466,
+  "total_annotated": 3013,
+  "last_photo_id": 325008421,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 144: 20 images annotated (total 2980-2999), 2 skipped (robber fly). Photos: 323400199,323518218,323518219,323518220,323518229,323564286,323564306,323640339,323640405,323640458,323640471,323640261,323640277,323640285,323640304,323640327,323640317,323693450,323693466. Variety: frontal_bee_macro(x1), ivy_bees(x4), scabious_bees(x2), aster_bee_macro(x11), goldenrod_stem(x2). Visual check at #2999 (photo323693466 goldenrod_stem). Next candidates_next_index: 4642.",
-  "candidates_next_index": 4642,
+  "note": "Session 145: 14 images annotated (total 3000-3013), 6 skipped (download failures <5KB). Photos: 323693469,323693482,323693486,323795357,324428057,324426797,324427010,324427052,324575902,324575910,324575916,324575923,324577140,324577117. Variety: dark_bee_yellow_flower(x3), teasel_bee(x1), sage_bees(x4), fireweed_bees(x4), clover_bees(x2). Visual check at #3000 (photo323693469 dark_bee_yellow_flower). Next candidates_next_index: 4662.",
+  "candidates_next_index": 4662,
   "status": "in_progress"
 }
