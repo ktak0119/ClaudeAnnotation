@@ -1,12 +1,12 @@
 {
-  "total_annotated": 2939,
-  "last_photo_id": 318427361,
+  "total_annotated": 2959,
+  "last_photo_id": 320618162,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 141: 20 images annotated (total 2920-2939), 3 skipped (download failures: 317347634,317441371,317441403). Photos: 316759782,316759830,316759860,317423266,317423278,317752726,317752745,317752732,317752733,317892806,318096115,318170725,318170755,318170808,318170845,318298388,318298406,318298428,318298456,318427361. Variety: thistle(x3), balsam(x2), zinnia_yellow, zinnia_pink(x3), sedum, helenium_closeup, daisy_yellow(x4), monkshood_flight, monkshood(x3), dandelion. Visual check at #2920 (photo316759782 thistle). Note: api.inaturalist.org blocked by egress policy; used S3 open-data bucket directly. Photos use .jpg or .jpeg extension alternately. Next candidates_next_index: 4566.",
-  "candidates_next_index": 4566,
+  "note": "Session 142: 20 images annotated (total 2940-2959), 0 skipped. Photos: 318505010,318505035,318505078,319036278,319036389,319109382,319747957,319747958,319747962,319747968,319747964,319747992,319747975,319747951,319942916,320213925,320228153,320228192,320618157,320618162. Variety: goldenrod(x3), geranium(x2), veronica, zinnia_pink(x8), lobelia_blue, knapweed, phlox_white(x2), lavender(x2). Visual check at #2940 (photo318505010 goldenrod). Next candidates_next_index: 4586.",
+  "candidates_next_index": 4586,
   "status": "in_progress"
 }
