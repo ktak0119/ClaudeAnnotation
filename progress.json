@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3013,
-  "last_photo_id": 325008421,
+  "total_annotated": 3033,
+  "last_photo_id": 340919546,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 145: 14 images annotated (total 3000-3013), 6 skipped (download failures <5KB). Photos: 323693469,323693482,323693486,323795357,324428057,324426797,324427010,324427052,324575902,324575910,324575916,324575923,324577140,324577117. Variety: dark_bee_yellow_flower(x3), teasel_bee(x1), sage_bees(x4), fireweed_bees(x4), clover_bees(x2). Visual check at #3000 (photo323693469 dark_bee_yellow_flower). Next candidates_next_index: 4662.",
-  "candidates_next_index": 4662,
+  "note": "Session 146: 20 images annotated (total 3014-3033), 11 skipped (download failures <5KB). Photos: 325750976,325785474,325785468,325785471,326015907,326015911,326127745,326127790,326127834,326634774,326634776,326634783,326958069,327121790,327279548,327563203,327563200,328957018,332474805,340919546. Variety: cosmos_bees(x6), clover_bees(x3), goldenrod_bees(x3), purple_flower_bee(x1), gaillardia_bee(x1), globe_thistle_bees(x2), dandelion_bee(x1), rock_bee(x1), marigold_bee(x1). Visual check at #3020 (photo326127745 clover_bee). Next candidates_next_index: 4708.",
+  "candidates_next_index": 4708,
   "status": "in_progress"
 }
