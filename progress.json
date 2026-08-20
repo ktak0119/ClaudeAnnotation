@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3073,
-  "last_photo_id": 357869442,
+  "total_annotated": 3091,
+  "last_photo_id": 362210304,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 148: 20 images annotated (total 3054-3073), 0 skipped. Photos: 351747330,351747329,351747306,351747205,352191731,352207375,352207400,352207428,352207455,352973789,352974028,353974524,355260931,355260943,355260950,357869443,357869441,357869448,357869442. Variety: hand_bee(x4), grass_bee(x1), macro_bee(x1), deadnettle_bees(x4), buddleia_bees(x2), macro_wet_bee(x1), scilla_bees(x3), flight_catkin_bees(x4). Visual check at #3060 (photo352207455 deadnettle_bombus). S3 URL format: large.jpeg. Next candidates_next_index: 4749.",
-  "candidates_next_index": 4749,
+  "note": "Session 149: 18 images annotated (total 3074-3091), 2 skipped (361239292=404, 361548042=no bee visible/nest hole). Photos: 358613458,358757144,359210647,360301351,360373366,360373395,361239118,361270130,361270153,361350103,361350138,361551063,361605013,361605110,361605073,362142019,362142055,362210304. Variety: plum_bee, hand_bee, azalea_bee, flight_grass_bee, grass_bees(x2), mating_pair(2bees), deadnettle_bees(x2), ground_bees(x2), dandelion_bee, currant_bee, mahonia_bees(x2), sage_bees(x2), wood_bee. Visual check at #3080 (photo361239118 mating pair, 2 boxes). S3 URL format: mostly large.jpeg, some .jpg fallback, 361239118 needed .png. Next candidates_next_index: 4769.",
+  "candidates_next_index": 4769,
   "status": "in_progress"
 }
