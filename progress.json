@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3053,
-  "last_photo_id": 351747301,
+  "total_annotated": 3073,
+  "last_photo_id": 357869442,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 147: 20 images annotated (total 3034-3053), 1 skipped (343321631 <5KB). Photos: 341582006,342722178,344024893,344132104,344132119,347652895,347652934,347652973,347653003,347653026,348303492,348726362,348726381,348764921,349983496,349983532,349983528,350457634,350458349,351747301. Variety: rock_bee(x1), clover_bee(x1), blurry_bombus(x1), pink_flower_bees(x2), white_flower_bees(x5), mallow_bees(x2), small_white_flower_bee(x1), macro_face_bees(x3), pollen_bee(x1), sedum_bee(x1), hand_bee(x1). Visual check at #3040 (photo347652934 white_flower_bombus). Next candidates_next_index: 4729.",
-  "candidates_next_index": 4729,
+  "note": "Session 148: 20 images annotated (total 3054-3073), 0 skipped. Photos: 351747330,351747329,351747306,351747205,352191731,352207375,352207400,352207428,352207455,352973789,352974028,353974524,355260931,355260943,355260950,357869443,357869441,357869448,357869442. Variety: hand_bee(x4), grass_bee(x1), macro_bee(x1), deadnettle_bees(x4), buddleia_bees(x2), macro_wet_bee(x1), scilla_bees(x3), flight_catkin_bees(x4). Visual check at #3060 (photo352207455 deadnettle_bombus). S3 URL format: large.jpeg. Next candidates_next_index: 4749.",
+  "candidates_next_index": 4749,
   "status": "in_progress"
 }
