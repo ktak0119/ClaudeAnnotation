@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3111,
-  "last_photo_id": 363731329,
+  "total_annotated": 3126,
+  "last_photo_id": 364486976,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 150: 20 images annotated (total 3092-3111), 0 skipped. Photos: 362210301,362210299,362210256,362210291,362274687,362274969,362523964,362523996,362561279,362817197,362817192,363157809,363157830,363417027,363450274,363450304,363731224,363731343,363731212,363731329. Variety: wood_bees(x4,9a555492), dandelion_bees(x2,2b8dc2aa+72a53cb6), heather_bees(x2,7e32c7bf), ground_bee(039a137e), flight_bee(0294d0de), leaf_litter_bee(0294d0de), cherry_blossom_bees(x2,f74e8118), deadnettle_bee(02b3fae1), wood_bees(x2,cdc3718c), rhododendron_bees(x4,31fca571). Visual check at #3108 (photo363731224 rhododendron). iNaturalist API blocked by proxy, used S3 direct URLs. Next candidates_next_index: 4789.",
-  "candidates_next_index": 4789,
+  "note": "Session 151: 15 images annotated (total 3112-3126), 3 skipped (tiny files). Photos: 363744782,363744822,363744752,363744849,363744873,363744895,363744926,363744953,363973993,363973986,364119138,364486865,364486901,364486939,364486976. Variety: leaf_litter_bee(af5b151e x3), white_flower_bees(4d2654fb x5), cherry_blossom_bees(d0ddc98a x2), leaf_bee(ed9aaab6), glass_bees(f3c71871 x4). Visual check at #3126 (photo364119138 leaf). iNaturalist API blocked, used S3 direct URLs. Next candidates_next_index: 4809.",
+  "candidates_next_index": 4809,
   "status": "in_progress"
 }
