@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3033,
-  "last_photo_id": 340919546,
+  "total_annotated": 3053,
+  "last_photo_id": 351747301,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 146: 20 images annotated (total 3014-3033), 11 skipped (download failures <5KB). Photos: 325750976,325785474,325785468,325785471,326015907,326015911,326127745,326127790,326127834,326634774,326634776,326634783,326958069,327121790,327279548,327563203,327563200,328957018,332474805,340919546. Variety: cosmos_bees(x6), clover_bees(x3), goldenrod_bees(x3), purple_flower_bee(x1), gaillardia_bee(x1), globe_thistle_bees(x2), dandelion_bee(x1), rock_bee(x1), marigold_bee(x1). Visual check at #3020 (photo326127745 clover_bee). Next candidates_next_index: 4708.",
-  "candidates_next_index": 4708,
+  "note": "Session 147: 20 images annotated (total 3034-3053), 1 skipped (343321631 <5KB). Photos: 341582006,342722178,344024893,344132104,344132119,347652895,347652934,347652973,347653003,347653026,348303492,348726362,348726381,348764921,349983496,349983532,349983528,350457634,350458349,351747301. Variety: rock_bee(x1), clover_bee(x1), blurry_bombus(x1), pink_flower_bees(x2), white_flower_bees(x5), mallow_bees(x2), small_white_flower_bee(x1), macro_face_bees(x3), pollen_bee(x1), sedum_bee(x1), hand_bee(x1). Visual check at #3040 (photo347652934 white_flower_bombus). Next candidates_next_index: 4729.",
+  "candidates_next_index": 4729,
   "status": "in_progress"
 }
