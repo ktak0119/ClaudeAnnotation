@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3226,
-  "last_photo_id": 379639550,
+  "total_annotated": 3246,
+  "last_photo_id": 381451504,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 156: 20 images annotated (total 3207-3226). Photos: 376167442,376167456,376167476,376387023,376387159,376924919,376924940,376924954,377327549,377327590,377603935,377669015,377670490,377670529,378610657,378959891,378959957,378960011,379639541,379639550. Variety: artichoke_bees(x3), container_id_bees(x2), purple_stock_bees(x3), pennyroyal_bees(x2), flight_clover_bee(x1), honeysuckle_bee(x1), nest_entrance_bees(x2), globe_flower_bee(x1), weigela_bees(x3), yellow_poppy_bees(x2). Visual check at #3224 (photo378960011 weigela-bee). S3 throttled mid-session but recovered. Next candidates_next_index: 5010.",
-  "candidates_next_index": 5010,
+  "note": "Session 157: 20 images annotated (total 3227-3246). Photos: 379704190,379704218,379971001,379971020,379971100,379971119,379971271,379971289,379971909,379971928,380443237,380443249,380470119,380470129,380470159,380472612,380472638,380472670,381451479,381451504. Variety: bramble_bees(x2), dandelion_bees(x8), yellow_poppy_bees(x2), nettle_bees(x5), yellow_rattle_bees(x2), deadnettle_bee(x1). Visual check at #3246 (photo381451504 yellow-rattle-bee). Next candidates_next_index: 5044.",
+  "candidates_next_index": 5044,
   "status": "in_progress"
 }
