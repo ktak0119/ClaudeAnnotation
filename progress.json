@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3166,
-  "last_photo_id": 371551829,
+  "total_annotated": 3186,
+  "last_photo_id": 372907555,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 153: 20 images annotated (total 3147-3166), multiple skipped (tiny/unavailable). Photos: 368510419,368838554,368838570,369927903,369927919,369927932,369927950,369927963,369927972,370842845,370843047,370842767,370842954,370875978,370876061,371465554,371551740,371551700,371551788,371551829. Variety: blueberry_bee(x1), dandelion_bees(x2), grass_purple_flower_bees(x6), pink_rhododendron_bees(x7), yellow_lotus_bees(x2), dead_specimen(x1), azalea_bees(x4 close-up pollen-covered). Visual check at #3160 (photo370875978 yellow lotus). iNaturalist API blocked, used S3 direct URLs. Next candidates_next_index: 4907.",
-  "candidates_next_index": 4907,
+  "note": "Session 154: 20 images annotated (total 3167-3186), none skipped. Photos: 371645322,371693645,371740492,371740531,371740628,371817691,371912145,372159454,372159655,372159829,372443993,372443935,372567536,372567430,372567538,372772298,372772555,372772623,372907380,372907555. Variety: dead_nettle_bee(x1), dandelion_bees(x4), purple_flower_bee(x1), strawberry_bee(x1), rhododendron_bud_bees(x3), acacia_bees(x2), pool_edge_bees(x3), dead_nettle_bees(x3), wisteria_bees(x2). Visual check at #3181 (photo372567538 pool-edge side-profile). iNaturalist API blocked, used S3 direct URLs. Next candidates_next_index: 4927.",
+  "candidates_next_index": 4927,
   "status": "in_progress"
 }
