@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3186,
-  "last_photo_id": 372907555,
+  "total_annotated": 3206,
+  "last_photo_id": 376167429,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 154: 20 images annotated (total 3167-3186), none skipped. Photos: 371645322,371693645,371740492,371740531,371740628,371817691,371912145,372159454,372159655,372159829,372443993,372443935,372567536,372567430,372567538,372772298,372772555,372772623,372907380,372907555. Variety: dead_nettle_bee(x1), dandelion_bees(x4), purple_flower_bee(x1), strawberry_bee(x1), rhododendron_bud_bees(x3), acacia_bees(x2), pool_edge_bees(x3), dead_nettle_bees(x3), wisteria_bees(x2). Visual check at #3181 (photo372567538 pool-edge side-profile). iNaturalist API blocked, used S3 direct URLs. Next candidates_next_index: 4927.",
-  "candidates_next_index": 4927,
+  "note": "Session 155: 20 images annotated (total 3187-3206), none skipped. Photos: 372982142,372982064,372982383,372982504,373926921,373927071,374238404,374247196,374247484,374264714,374420105,374634114,374634141,374983392,374983380,375065501,375065541,375275019,376167415,376167429. Variety: grass_ground_bees(x4), fern_bees(x2), gravel_dorsal_bee(x1), ivy_flower_bee(x1), soil_bee(x1), raspberry_flight_bee(x1), nest_entrance_bee(x1), barberry_bees(x2), vetch_bees(x2), dandelion_bees(x2), dead_nettle_bee(x1), artichoke_bees(x2). Visual check at #3206 (photo376167429 artichoke-overhead). iNaturalist API blocked, used S3 direct URLs. Next candidates_next_index: 4970.",
+  "candidates_next_index": 4970,
   "status": "in_progress"
 }
