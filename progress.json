@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3146,
-  "last_photo_id": 368510352,
+  "total_annotated": 3166,
+  "last_photo_id": 371551829,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 152: 20 images annotated (total 3127-3146), multiple skipped (tiny files/no bee). Photos: 365512133,365779413,365779408,365778115,366082201,366674392,366674414,366674450,367108249,367108269,367108280,367108287,367108297,368209088,368209117,368209147,368352023,368352061,368359835,368510352. Variety: branch_bee(x1), pink_flower_bees(x3), ground_bee(x1), yellow_flower_bees(x3), iris_bees(x5), dead_specimen(x3), grass_bees(x2), salmonberry_bee(x1), blueberry_bee(x1). Visual check at #3146 (photo368510352 blueberry). iNaturalist API blocked, used S3 direct URLs. Next candidates_next_index: 4854.",
-  "candidates_next_index": 4854,
+  "note": "Session 153: 20 images annotated (total 3147-3166), multiple skipped (tiny/unavailable). Photos: 368510419,368838554,368838570,369927903,369927919,369927932,369927950,369927963,369927972,370842845,370843047,370842767,370842954,370875978,370876061,371465554,371551740,371551700,371551788,371551829. Variety: blueberry_bee(x1), dandelion_bees(x2), grass_purple_flower_bees(x6), pink_rhododendron_bees(x7), yellow_lotus_bees(x2), dead_specimen(x1), azalea_bees(x4 close-up pollen-covered). Visual check at #3160 (photo370875978 yellow lotus). iNaturalist API blocked, used S3 direct URLs. Next candidates_next_index: 4907.",
+  "candidates_next_index": 4907,
   "status": "in_progress"
 }
