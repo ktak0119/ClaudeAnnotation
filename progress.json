@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3206,
-  "last_photo_id": 376167429,
+  "total_annotated": 3217,
+  "last_photo_id": 377603935,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 155: 20 images annotated (total 3187-3206), none skipped. Photos: 372982142,372982064,372982383,372982504,373926921,373927071,374238404,374247196,374247484,374264714,374420105,374634114,374634141,374983392,374983380,375065501,375065541,375275019,376167415,376167429. Variety: grass_ground_bees(x4), fern_bees(x2), gravel_dorsal_bee(x1), ivy_flower_bee(x1), soil_bee(x1), raspberry_flight_bee(x1), nest_entrance_bee(x1), barberry_bees(x2), vetch_bees(x2), dandelion_bees(x2), dead_nettle_bee(x1), artichoke_bees(x2). Visual check at #3206 (photo376167429 artichoke-overhead). iNaturalist API blocked, used S3 direct URLs. Next candidates_next_index: 4970.",
-  "candidates_next_index": 4970,
+  "note": "Session 156: 11 images annotated (total 3207-3217), S3 throttled mid-batch. Photos: 376167442,376167456,376167476,376387023,376387159,376924919,376924940,376924954,377327549,377327590,377603935. Variety: artichoke_bees(x3), container_id_bees(x2), purple_stock_flower_bees(x3), pennyroyal_bees(x2), flight_clover_bee(x1). S3 returned 503 after 11 photos, skipped: 377620704,377668979+. Next candidates_next_index: 4989.",
+  "candidates_next_index": 4989,
   "status": "in_progress"
 }
