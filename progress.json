@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3126,
-  "last_photo_id": 364486976,
+  "total_annotated": 3146,
+  "last_photo_id": 368510352,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 151: 15 images annotated (total 3112-3126), 3 skipped (tiny files). Photos: 363744782,363744822,363744752,363744849,363744873,363744895,363744926,363744953,363973993,363973986,364119138,364486865,364486901,364486939,364486976. Variety: leaf_litter_bee(af5b151e x3), white_flower_bees(4d2654fb x5), cherry_blossom_bees(d0ddc98a x2), leaf_bee(ed9aaab6), glass_bees(f3c71871 x4). Visual check at #3126 (photo364119138 leaf). iNaturalist API blocked, used S3 direct URLs. Next candidates_next_index: 4809.",
-  "candidates_next_index": 4809,
+  "note": "Session 152: 20 images annotated (total 3127-3146), multiple skipped (tiny files/no bee). Photos: 365512133,365779413,365779408,365778115,366082201,366674392,366674414,366674450,367108249,367108269,367108280,367108287,367108297,368209088,368209117,368209147,368352023,368352061,368359835,368510352. Variety: branch_bee(x1), pink_flower_bees(x3), ground_bee(x1), yellow_flower_bees(x3), iris_bees(x5), dead_specimen(x3), grass_bees(x2), salmonberry_bee(x1), blueberry_bee(x1). Visual check at #3146 (photo368510352 blueberry). iNaturalist API blocked, used S3 direct URLs. Next candidates_next_index: 4854.",
+  "candidates_next_index": 4854,
   "status": "in_progress"
 }
