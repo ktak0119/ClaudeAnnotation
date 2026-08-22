@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3282,
-  "last_photo_id": 384529621,
+  "total_annotated": 3302,
+  "last_photo_id": 386390901,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 159: 16 images annotated (total 3267-3282). Photos: 383706806,383706835,383752582,383752577,383752593,383835966,384091683,384329006,384329023,384329040,384329051,384329061,384529695,384530751,384530869,384529621. Variety: mint_bees(x2), vetch_bees(x3), orange_flower_bee(x1), comfrey_bee(x1), bramble_bees(x5), cotoneaster_bees(x4). Visual check at #3282 (photo384529621 cotoneaster-bee). Next candidates_next_index: 5120.",
-  "candidates_next_index": 5120,
+  "note": "Session 160: 20 images annotated (total 3283-3302). Photos: 384715210,385289487,385791222,385791244,385818026,385817994,385862794,385862835,385862865,385862888,385862907,385862922,385885534,385885555,385885715,385885734,386087126,386390145,386390187,386390901. Variety: vetch_bee(x1), dog_rose_bee(x1), purple_vetch_bees(x2), macro_white_tailed(x2), campanula_bees(x6), cornflower_bees(x2), bellflower_bees(x2), allium_bee(x1), scabious_bees(x3). Visual check at #3300 (photo386390145 scabious-bee). Next candidates_next_index: 5160.",
+  "candidates_next_index": 5160,
   "status": "in_progress"
 }
