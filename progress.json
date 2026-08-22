@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3246,
-  "last_photo_id": 381451504,
+  "total_annotated": 3266,
+  "last_photo_id": 383645118,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 157: 20 images annotated (total 3227-3246). Photos: 379704190,379704218,379971001,379971020,379971100,379971119,379971271,379971289,379971909,379971928,380443237,380443249,380470119,380470129,380470159,380472612,380472638,380472670,381451479,381451504. Variety: bramble_bees(x2), dandelion_bees(x8), yellow_poppy_bees(x2), nettle_bees(x5), yellow_rattle_bees(x2), deadnettle_bee(x1). Visual check at #3246 (photo381451504 yellow-rattle-bee). Next candidates_next_index: 5044.",
-  "candidates_next_index": 5044,
+  "note": "Session 158: 20 images annotated (total 3247-3266). Photos: 381451549,381664963,382089288,382089296,382443579,382443729,382443757,382639812,382744041,382744059,382862748,382983087,382983146,382983209,383545945,383568483,383569209,383605593,383645074,383645118. Variety: yellow_rattle_bee(x1), ragwort_bee(x1), yellow_poppy_bees(x2), comfrey_bees(x3), rhododendron_bee(x1), lupin_bees(x2), catmint_bee(x1), window_bees(x3), bergamot_bee(x1), leaf_bee(x1), nettle_bee(x1), ground_bee(x1), mint_bees(x2). Visual check at #3266 (photo383645118 mint-bee). Next candidates_next_index: 5098.",
+  "candidates_next_index": 5098,
   "status": "in_progress"
 }
