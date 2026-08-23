@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3302,
-  "last_photo_id": 386390901,
+  "total_annotated": 3323,
+  "last_photo_id": 386527694,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 160: 20 images annotated (total 3283-3302). Photos: 384715210,385289487,385791222,385791244,385818026,385817994,385862794,385862835,385862865,385862888,385862907,385862922,385885534,385885555,385885715,385885734,386087126,386390145,386390187,386390901. Variety: vetch_bee(x1), dog_rose_bee(x1), purple_vetch_bees(x2), macro_white_tailed(x2), campanula_bees(x6), cornflower_bees(x2), bellflower_bees(x2), allium_bee(x1), scabious_bees(x3). Visual check at #3300 (photo386390145 scabious-bee). Next candidates_next_index: 5160.",
-  "candidates_next_index": 5160,
+  "note": "Session 161: 21 images annotated (total 3303-3323). Photos: 385907580,385907634,385918543,385939701,386059411,386059446,386059502,386133356,386152807,386183294,386183568,386182923,386183783,386181713,386390898,386390864,386391212,386391246,386523454,386527640,386527694. Skipped: 386059471 (no bee). Variety: leaf_pollen_bees(x2), chive_bee(x1), honeysuckle_bee(x1), willow_catkin_bees(x3), wisteria_bee(x1), raspberry_bee(x1), clover_bees(x5), scabious_bees(x4), sage_bee(x1), rhododendron_bees(x2). Visual check at #3320 (photo386391246 scabious-bee). Next candidates_next_index: 5185.",
+  "candidates_next_index": 5185,
   "status": "in_progress"
 }
