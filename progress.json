@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3323,
-  "last_photo_id": 386527694,
+  "total_annotated": 3343,
+  "last_photo_id": 388531253,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 161: 21 images annotated (total 3303-3323). Photos: 385907580,385907634,385918543,385939701,386059411,386059446,386059502,386133356,386152807,386183294,386183568,386182923,386183783,386181713,386390898,386390864,386391212,386391246,386523454,386527640,386527694. Skipped: 386059471 (no bee). Variety: leaf_pollen_bees(x2), chive_bee(x1), honeysuckle_bee(x1), willow_catkin_bees(x3), wisteria_bee(x1), raspberry_bee(x1), clover_bees(x5), scabious_bees(x4), sage_bee(x1), rhododendron_bees(x2). Visual check at #3320 (photo386391246 scabious-bee). Next candidates_next_index: 5185.",
-  "candidates_next_index": 5185,
+  "note": "Session 162: 20 images annotated (total 3324-3343). Photos: 386846749,386976248,386976288,386976323,386976365,386976410,386976456,387390492,387390517,387390549,387390584,389075488,388053895,388053903,388053906,388351583,388351595,388531221,388531237,388531253. Variety: ground_bee(x1), geranium_bees(x6), plant_stem_bees(x4), iris_bee(x1), geranium_flight_bees(x3), borage_bees(x2), thistle_bees(x3). Visual check at #3343 (photo388531253 thistle-bee). Next candidates_next_index: 5243.",
+  "candidates_next_index": 5243,
   "status": "in_progress"
 }
