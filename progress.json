@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3343,
-  "last_photo_id": 388531253,
+  "total_annotated": 3363,
+  "last_photo_id": 388791914,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 162: 20 images annotated (total 3324-3343). Photos: 386846749,386976248,386976288,386976323,386976365,386976410,386976456,387390492,387390517,387390549,387390584,389075488,388053895,388053903,388053906,388351583,388351595,388531221,388531237,388531253. Variety: ground_bee(x1), geranium_bees(x6), plant_stem_bees(x4), iris_bee(x1), geranium_flight_bees(x3), borage_bees(x2), thistle_bees(x3). Visual check at #3343 (photo388531253 thistle-bee). Next candidates_next_index: 5243.",
-  "candidates_next_index": 5243,
+  "note": "Session 163: 20 images annotated (total 3344-3363). Photos: 388621261,388621288,388621322,388621562,388621586,388621613,388621634,388621657,388621686,388621715,388633394,388633332,388633362,388633423,388633838,388723339,388791845,388791871,388791897,388791914. Variety: yellow_alyssum_bees(x10), dark_bombus_yellow_alyssum(x4), euphorbia_bee(x1), comfrey_bee(x1), white_flower_bees(x4). Visual check at #3360 (photo388791845 white-flower-bee). Next candidates_next_index: 5268.",
+  "candidates_next_index": 5268,
   "status": "in_progress"
 }
