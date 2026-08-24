@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3383,
-  "last_photo_id": 389158241,
+  "total_annotated": 3403,
+  "last_photo_id": 391100000,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 164: 20 images annotated (total 3364-3383). Photos: 388791933,388897949,388897982,388967926,388989412,388991675,388992283,388992335,389003988,389004124,389004252,389004270,389004276,389004288,389009871,389009892,389009891,389354176,389090642,389158241. Variety: black-white-bee(x1), yellow-trefoil-bees(x2), cotoneaster-bee(x1), bramble-bees(x2), daisy-bee(x1), pale-purple-flower-bees(x2), stachys-pink-bees(x6), geranium-bees(x3), foxglove-bee(x1), pink-bud-bee(x1). Visual check at #3380 (photo389009891 geranium-bee). Next candidates_next_index: 5288.",
-  "candidates_next_index": 5288,
+  "note": "Session 165: 20 images annotated (total 3384-3403). Photos: 389158245,389158235,389158286,390026706,390026662,390026755,390026792,390026848,390264220,390264244,390264264,390339457,391046415,391046441,391046465,391046490,391046514,391099840,391099914,391100000. Variety: dark-geranium-bees(x3), blue-cornflower-bees(x5), geranium-meadow-bees(x3), bramble-bee(x1), white-umbelifer-bees(x5), pink-geranium-bees(x3). Visual check at #3403 (photo391100000 pink-geranium-bee). Next candidates_next_index: 5381.",
+  "candidates_next_index": 5381,
   "status": "in_progress"
 }
