@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3489,
-  "last_photo_id": 395013591,
+  "total_annotated": 3509,
+  "last_photo_id": 396028969,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 169: 24 images annotated (total 3466-3489). Photos: 394351120(dandelion), 394351140(dandelion), 394358726(umbellifer), 394382061(leaf), 394432120(leaf), 394432164(leaf), 394436028(wall), 394436027(wall), 394738392(cup), 394746511(plate), 394807319(magnifier), 394807380(magnifier), 395236273(magnifier), 395897514(jar), 395897544(jar), 395897575(closeup), 395897614(jar), 395897641(jar), 394846169(valerian), 394846221(valerian), 394859918(pinkflowers), 394859908(pinkflowers), 394859994(pinkflowers), 395013591(closeup). Visual check at #3480 (vc=395897544 jar). api.inaturalist.org still blocked; using S3 direct + photo_candidates.json.",
-  "candidates_next_index": 5511,
+  "note": "Session 170: 20 images annotated (total 3490-3509). Photos: 395158361(yellow flower), 395158349(yellow flower), 395504238(white flower frontal), 395504278(white flower side), 395516725(leaf black bee), 395516621(leaf black bee), 395516648(leaf black bee), 395516688(held bee blurry), 395605777(pink rose), 395605760(pink rose), 395605785(pink rose orange pollen #3500vc), 395605792(pink rose), 395646535(purple scabious), 395661797(umbellifer distant), 395661818(umbellifer), 395661841(umbellifer), 395661867(umbellifer wings), 396027331(bramble orange), 396028950(bramble blurry), 396028969(bramble wings). Visual check at #3500 (vc=395605785). api.inaturalist.org still blocked; using S3 direct + photo_candidates.json. Skipped: 395087146,395232170-396,395849379-414,395914893,984,038,129,396121262,396610505.",
+  "candidates_next_index": 5544,
   "status": "in_progress"
 }
