@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3465,
-  "last_photo_id": 394351093,
+  "total_annotated": 3489,
+  "last_photo_id": 395013591,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 168: 22 images annotated (total 3444-3465). Photos: 393749859(phacelia), 393825719(thistle-3bees), 393893250(lavender), 393893279(lavender), 393985362(bramble), 393985357(bramble), 394021599(concrete-closeup), 394021622(concrete), 394021657(concrete), 394021691(dead), 394021727(dead), 394076688(poppy), 394079129(poppy), 394052221(thistle), 394052070(thistle), 394052067(thistle), 394052371(thistle), 394052343(thistle), 394052362(thistle), 394067995(hawkweed), 394078464(hawkweed), 394351093(dandelion-closeup). Visual check at #3460 (vc=394052362 thistle). api.inaturalist.org blocked; using S3 direct + photo_candidates.json.",
-  "candidates_next_index": 5486,
+  "note": "Session 169: 24 images annotated (total 3466-3489). Photos: 394351120(dandelion), 394351140(dandelion), 394358726(umbellifer), 394382061(leaf), 394432120(leaf), 394432164(leaf), 394436028(wall), 394436027(wall), 394738392(cup), 394746511(plate), 394807319(magnifier), 394807380(magnifier), 395236273(magnifier), 395897514(jar), 395897544(jar), 395897575(closeup), 395897614(jar), 395897641(jar), 394846169(valerian), 394846221(valerian), 394859918(pinkflowers), 394859908(pinkflowers), 394859994(pinkflowers), 395013591(closeup). Visual check at #3480 (vc=395897544 jar). api.inaturalist.org still blocked; using S3 direct + photo_candidates.json.",
+  "candidates_next_index": 5511,
   "status": "in_progress"
 }
