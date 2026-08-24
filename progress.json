@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3423,
-  "last_photo_id": 391782175,
+  "total_annotated": 3443,
+  "last_photo_id": 393749819,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 166: 20 images annotated (total 3404-3423). Photos: 391329073,391329095,391329113,391364198,391371789,391371802,391371821,391424068,391424023,391424062,391424066,391443594,391443617,391443644,391443661,391443685,391650967,391781612,391781638,391782175. Variety: comfrey-bees(x3), barberry-bee(x1), vetch-bees(x3), wood-bench-bees(x4), meadow-yellow-rattle-bees(x5), peony-bee(x1), allium-bees(x3). Visual check at #3420 (photo391650967 peony-bee). Next candidates_next_index: 5401.",
-  "candidates_next_index": 5401,
+  "note": "Session 167: 20 images annotated (total 3424-3443). Photos: 391782189,391782210,392582517,392582443,392582384,392582409,392582484,392626089,392626148,392626154,392626157,392626201,392651144,392651074,392651106,392651190,392812572,393690837,393690862,393749819. Variety: allium-bees(x2), spiderwort-bees(x5), meadow-pink-bees(x5), catmint-bees(x4), foxglove-bee(x1), milkweed-stem-bees(x2), phacelia-bee(x1). Visual check at #3440 (photo392812572 foxglove-bee). Next candidates_next_index: 5464.",
+  "candidates_next_index": 5464,
   "status": "in_progress"
 }
