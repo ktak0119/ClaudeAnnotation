@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3443,
-  "last_photo_id": 393749819,
+  "total_annotated": 3465,
+  "last_photo_id": 394351093,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 167: 20 images annotated (total 3424-3443). Photos: 391782189,391782210,392582517,392582443,392582384,392582409,392582484,392626089,392626148,392626154,392626157,392626201,392651144,392651074,392651106,392651190,392812572,393690837,393690862,393749819. Variety: allium-bees(x2), spiderwort-bees(x5), meadow-pink-bees(x5), catmint-bees(x4), foxglove-bee(x1), milkweed-stem-bees(x2), phacelia-bee(x1). Visual check at #3440 (photo392812572 foxglove-bee). Next candidates_next_index: 5464.",
-  "candidates_next_index": 5464,
+  "note": "Session 168: 22 images annotated (total 3444-3465). Photos: 393749859(phacelia), 393825719(thistle-3bees), 393893250(lavender), 393893279(lavender), 393985362(bramble), 393985357(bramble), 394021599(concrete-closeup), 394021622(concrete), 394021657(concrete), 394021691(dead), 394021727(dead), 394076688(poppy), 394079129(poppy), 394052221(thistle), 394052070(thistle), 394052067(thistle), 394052371(thistle), 394052343(thistle), 394052362(thistle), 394067995(hawkweed), 394078464(hawkweed), 394351093(dandelion-closeup). Visual check at #3460 (vc=394052362 thistle). api.inaturalist.org blocked; using S3 direct + photo_candidates.json.",
+  "candidates_next_index": 5486,
   "status": "in_progress"
 }
