@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3403,
-  "last_photo_id": 391100000,
+  "total_annotated": 3423,
+  "last_photo_id": 391782175,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 165: 20 images annotated (total 3384-3403). Photos: 389158245,389158235,389158286,390026706,390026662,390026755,390026792,390026848,390264220,390264244,390264264,390339457,391046415,391046441,391046465,391046490,391046514,391099840,391099914,391100000. Variety: dark-geranium-bees(x3), blue-cornflower-bees(x5), geranium-meadow-bees(x3), bramble-bee(x1), white-umbelifer-bees(x5), pink-geranium-bees(x3). Visual check at #3403 (photo391100000 pink-geranium-bee). Next candidates_next_index: 5381.",
-  "candidates_next_index": 5381,
+  "note": "Session 166: 20 images annotated (total 3404-3423). Photos: 391329073,391329095,391329113,391364198,391371789,391371802,391371821,391424068,391424023,391424062,391424066,391443594,391443617,391443644,391443661,391443685,391650967,391781612,391781638,391782175. Variety: comfrey-bees(x3), barberry-bee(x1), vetch-bees(x3), wood-bench-bees(x4), meadow-yellow-rattle-bees(x5), peony-bee(x1), allium-bees(x3). Visual check at #3420 (photo391650967 peony-bee). Next candidates_next_index: 5401.",
+  "candidates_next_index": 5401,
   "status": "in_progress"
 }
