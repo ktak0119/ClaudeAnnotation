@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3363,
-  "last_photo_id": 388791914,
+  "total_annotated": 3383,
+  "last_photo_id": 389158241,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 163: 20 images annotated (total 3344-3363). Photos: 388621261,388621288,388621322,388621562,388621586,388621613,388621634,388621657,388621686,388621715,388633394,388633332,388633362,388633423,388633838,388723339,388791845,388791871,388791897,388791914. Variety: yellow_alyssum_bees(x10), dark_bombus_yellow_alyssum(x4), euphorbia_bee(x1), comfrey_bee(x1), white_flower_bees(x4). Visual check at #3360 (photo388791845 white-flower-bee). Next candidates_next_index: 5268.",
-  "candidates_next_index": 5268,
+  "note": "Session 164: 20 images annotated (total 3364-3383). Photos: 388791933,388897949,388897982,388967926,388989412,388991675,388992283,388992335,389003988,389004124,389004252,389004270,389004276,389004288,389009871,389009892,389009891,389354176,389090642,389158241. Variety: black-white-bee(x1), yellow-trefoil-bees(x2), cotoneaster-bee(x1), bramble-bees(x2), daisy-bee(x1), pale-purple-flower-bees(x2), stachys-pink-bees(x6), geranium-bees(x3), foxglove-bee(x1), pink-bud-bee(x1). Visual check at #3380 (photo389009891 geranium-bee). Next candidates_next_index: 5288.",
+  "candidates_next_index": 5288,
   "status": "in_progress"
 }
