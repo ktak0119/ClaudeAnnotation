@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3529,
-  "last_photo_id": 400461947,
+  "total_annotated": 3544,
+  "last_photo_id": 400775512,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 171: 20 images annotated (total 3510-3529). Photos: 396028987(bramble), 396728192(pink bud), 396728211(pink bud 2), 396866107(yellow rattle upside-down), 396866090(yellow rattle closeup), 396866092(yellow rattle), 396866104(yellow rattle frontal), 396866103(yellow rattle side), 397170719(pink flowers), 398343653(purple knapweed macro), 398582876(purple cornflower #3520vc), 398586825(white flower macro), 398586799(white flower 2), 398586816(white flower 3), 399117894(honeysuckle frontal), 399237399(thistle black bee), 399237415(thistle black bee 2), 399237435(thistle black bee 3), 400004445(green leaf macro), 400461947(blue fabric). Visual check at #3520 (vc=398582876). api.inaturalist.org still blocked; using S3 direct + photo_candidates.json. Skipped: 396121262,396610505,396610482,396694002,396694022,397369869-926,397370632-724,397432640-690,397446640,397633872,398041968-901,398256444-590,398326600-926,398331735-337105,398343653ok,398597047,398649025,398956122-178,398995160-974,399005625-713,399123733,399043594-042682,399041009-040990,399044921-044971,399470941,399766835,399104423-502,400316627-848.",
-  "candidates_next_index": 5643,
+  "note": "Session 172: 15 images annotated (total 3530-3544). Photos: 400461976(blue fabric 2), 400462002(blue fabric 3), 400464330(purple flower macro), 400464343(purple flower blurry), 400464360(purple flower black bee), 400464500(macro close-up), 400464508(dorsal macro), 400464525(pollen-dusted left), 400464542(pollen-dusted UL), 400575635(in-flight near salvia), 400575655(on mulch flowers), 400774138(phacelia macro #3540vc), 400774048(phacelia UL), 400774098(phacelia motion), 400775512(scabiosa stem). Visual check at #3540 (vc=400774138). Skipped: 400591020-220(all ~300 bytes, unavailable), 400593922(300 bytes). api.inaturalist.org still blocked; using S3 direct + photo_candidates.json.",
+  "candidates_next_index": 5667,
   "status": "in_progress"
 }
