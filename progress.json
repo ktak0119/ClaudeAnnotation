@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3582,
-  "last_photo_id": 402147625,
+  "total_annotated": 3602,
+  "last_photo_id": 402493862,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 174: 18 images annotated (total 3565-3582). Photos: 401039029(clover alt1), 401039018(clover alt2), 401303963(dead bee on rail), 401304010(dead bee rail alt), 401318869(clover hazy), 401379043(bee on fabric close-up), 401732878(white clover orange abdomen), 401741096(lavender close-up), 401743835(lavender front-face), 401969748(mullein red pollen basket), 401969834(mullein orange pollen), 401995303(lavender field), 401995329(lavender center), 401996025(lavender close), 401996038(lavender yellow thorax), 402147482(valerian top-down #3580vc), 402147561(valerian top-down alt), 402147625(valerian wings+antenna). Skipped 12 photos (404): 401799396, 401805563-617 (obs 397af7b2), 401807274-393 (obs 5363a33c). Visual check at #3580 (vc=402147482). api.inaturalist.org still blocked; using S3 direct + photo_candidates.json (.jpeg extension).",
-  "candidates_next_index": 5717,
+  "note": "Session 175: 20 images annotated (total 3583-3602). Photos: 402147693(valerian white flowers), 402147756(valerian white flowers alt), 402141062(linden top-down pollen baskets), 402141130(linden hanging blurry), 402141217(linden pollen baskets both legs), 406128180(obs602de269 clinging branch ventral), 402170048(bee balm Monarda profile), 402170054(bee balm small), 402170049(bee balm top), 402426939(scabious lateral wing raised), 402426964(scabious from above white tail), 402427027(scabious large lateral), 402493062(ragwort excellent close-up), 402493103(ragwort from above), 402493308(ragwort top-down orange), 402493380(ragwort hanging orange tail), 402493435(ragwort hanging alt), 402493471(ragwort close-up #3600vc), 402493809(ragwort large back view), 402493862(ragwort top-down). Skipped: 402160484(too small), 402160484(too small). Visual check at #3600 (vc=402493471). api.inaturalist.org still blocked; using S3 direct + photo_candidates.json (.jpeg then .jpg fallback).",
+  "candidates_next_index": 5737,
   "status": "in_progress"
 }
