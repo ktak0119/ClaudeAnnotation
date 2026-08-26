@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3544,
-  "last_photo_id": 400775512,
+  "total_annotated": 3564,
+  "last_photo_id": 401039041,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 172: 15 images annotated (total 3530-3544). Photos: 400461976(blue fabric 2), 400462002(blue fabric 3), 400464330(purple flower macro), 400464343(purple flower blurry), 400464360(purple flower black bee), 400464500(macro close-up), 400464508(dorsal macro), 400464525(pollen-dusted left), 400464542(pollen-dusted UL), 400575635(in-flight near salvia), 400575655(on mulch flowers), 400774138(phacelia macro #3540vc), 400774048(phacelia UL), 400774098(phacelia motion), 400775512(scabiosa stem). Visual check at #3540 (vc=400774138). Skipped: 400591020-220(all ~300 bytes, unavailable), 400593922(300 bytes). api.inaturalist.org still blocked; using S3 direct + photo_candidates.json.",
-  "candidates_next_index": 5667,
+  "note": "Session 173: 20 images annotated (total 3545-3564). Photos: 400836669(bee on yellow flower), 400836671(same flower alt), 400836736(in-flight), 400829960(gaillardia/blanket flower), 400975459(thistle close-up), 400975480(thistle alt), 400988962(dandelion-like macro), 400988985(dandelion-like alt), 401020292(trefoil close), 401020811(trefoil wide), 401023596(small bee on yellow), 401023707(vetch), 401035002(small bee leaves), 401039096(clover #1), 401039076(clover #2), 401039070(in-flight clover #3560vc), 401039102(clover wings), 401039059(clover right), 401039050(clover center-right), 401039041(clover motion). Visual check at #3560 (vc=401039070). api.inaturalist.org still blocked; using S3 direct + photo_candidates.json.",
+  "candidates_next_index": 5687,
   "status": "in_progress"
 }
