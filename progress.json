@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3564,
-  "last_photo_id": 401039041,
+  "total_annotated": 3582,
+  "last_photo_id": 402147625,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 173: 20 images annotated (total 3545-3564). Photos: 400836669(bee on yellow flower), 400836671(same flower alt), 400836736(in-flight), 400829960(gaillardia/blanket flower), 400975459(thistle close-up), 400975480(thistle alt), 400988962(dandelion-like macro), 400988985(dandelion-like alt), 401020292(trefoil close), 401020811(trefoil wide), 401023596(small bee on yellow), 401023707(vetch), 401035002(small bee leaves), 401039096(clover #1), 401039076(clover #2), 401039070(in-flight clover #3560vc), 401039102(clover wings), 401039059(clover right), 401039050(clover center-right), 401039041(clover motion). Visual check at #3560 (vc=401039070). api.inaturalist.org still blocked; using S3 direct + photo_candidates.json.",
-  "candidates_next_index": 5687,
+  "note": "Session 174: 18 images annotated (total 3565-3582). Photos: 401039029(clover alt1), 401039018(clover alt2), 401303963(dead bee on rail), 401304010(dead bee rail alt), 401318869(clover hazy), 401379043(bee on fabric close-up), 401732878(white clover orange abdomen), 401741096(lavender close-up), 401743835(lavender front-face), 401969748(mullein red pollen basket), 401969834(mullein orange pollen), 401995303(lavender field), 401995329(lavender center), 401996025(lavender close), 401996038(lavender yellow thorax), 402147482(valerian top-down #3580vc), 402147561(valerian top-down alt), 402147625(valerian wings+antenna). Skipped 12 photos (404): 401799396, 401805563-617 (obs 397af7b2), 401807274-393 (obs 5363a33c). Visual check at #3580 (vc=402147482). api.inaturalist.org still blocked; using S3 direct + photo_candidates.json (.jpeg extension).",
+  "candidates_next_index": 5717,
   "status": "in_progress"
 }
