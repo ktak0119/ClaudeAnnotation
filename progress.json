@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3642,
-  "last_photo_id": 403881946,
+  "total_annotated": 3662,
+  "last_photo_id": 404324939,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 177: 20 images annotated (total 3623-3642). Photos: 403287264(mullein lateral dorsal), 403519970(leaf dorsal white-tailed close-up), 403520015(leaf dorsal white-tailed), 403520012(leaf dorsal white-tailed), 403544830(blackberry dorsal wings-spread), 403544867(blackberry small), 403544893(blackberry small), 403573425(trefoil lateral wings), 403728246(phacelia upper-left blurred), 403728346(phacelia upper-left blurred), 403728288(phacelia upper-center), 403728673(phacelia close-up), 403728407(phacelia partial upper-left), 403728455(phacelia upper-left), 403728514(phacelia center-left), 403728570(phacelia center-left), 403728632(phacelia upper-left), 403816302(gravel dorsal #3640vc), 403814715(gravel dorsal close-up), 403881946(coneflower lateral wings). Visual check at #3640 (vc=403816302). api.inaturalist.org still blocked; using S3 direct + photo_candidates.json (.jpeg then .jpg fallback).",
-  "candidates_next_index": 5778,
+  "note": "Session 178: 20 images annotated (total 3643-3662). Photos: 403962220(blackberry lateral), 404115876(thistle lateral wings), 404115951(thistle portrait), 404116036(thistle portrait2), 404163868(thistle carder+honeybee), 404192095(vetch front corbiculae), 404192133(vetch hanging), 404258212(leaf dorsal carder), 404279845(rose small), 404279872(rose), 404279921(rose), 404279953(rose), 404279989(rose antennae), 404316709(grass stem carder front-close), 404324840(thistle white-tailed lateral), 404324837(thistle white-tailed close), 404324891(thistle white-tailed wings), 404324892(thistle white-tailed dorsal #3660vc), 404324897(thistle white-tailed lateral2), 404324939(thistle white-tailed final). Visual check at #3660 (vc=404324892). api.inaturalist.org still blocked; using S3 direct + photo_candidates.json (.jpeg then .jpg fallback).",
+  "candidates_next_index": 5798,
   "status": "in_progress"
 }
