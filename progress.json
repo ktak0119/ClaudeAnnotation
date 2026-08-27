@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3602,
-  "last_photo_id": 402493862,
+  "total_annotated": 3622,
+  "last_photo_id": 403287225,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 175: 20 images annotated (total 3583-3602). Photos: 402147693(valerian white flowers), 402147756(valerian white flowers alt), 402141062(linden top-down pollen baskets), 402141130(linden hanging blurry), 402141217(linden pollen baskets both legs), 406128180(obs602de269 clinging branch ventral), 402170048(bee balm Monarda profile), 402170054(bee balm small), 402170049(bee balm top), 402426939(scabious lateral wing raised), 402426964(scabious from above white tail), 402427027(scabious large lateral), 402493062(ragwort excellent close-up), 402493103(ragwort from above), 402493308(ragwort top-down orange), 402493380(ragwort hanging orange tail), 402493435(ragwort hanging alt), 402493471(ragwort close-up #3600vc), 402493809(ragwort large back view), 402493862(ragwort top-down). Skipped: 402160484(too small), 402160484(too small). Visual check at #3600 (vc=402493471). api.inaturalist.org still blocked; using S3 direct + photo_candidates.json (.jpeg then .jpg fallback).",
-  "candidates_next_index": 5737,
+  "note": "Session 176: 20 images annotated (total 3603-3622). Photos: 402493922(ragwort top-down dorsal), 402493956(ragwort frontal dorsal), 402567999(lavender lateral small), 402567988(lavender frontal dorsal), 402807477(sage lateral belly-up), 402809191(sage lateral ventral), 402809216(sage close-up frontal), 402832583(lavender in-flight), 402832612(lavender tawny dorsal), 402832653(lavender tawny lateral), 402886988(leaf dorsal excellent), 402949866(bugloss small), 402999773(columbine with pollen basket), 402999821(columbine frontal both baskets), 403121008(nest burrow entering), 403120783(nest burrow partial), 403174223(wood dorsal dead?), 403174247(wood dorsal #3620vc), 403287186(mullein in-flight baskets), 403287225(mullein on spike). Visual check at #3620 (vc=403174247). api.inaturalist.org still blocked; using S3 direct + photo_candidates.json (.jpeg then .jpg fallback).",
+  "candidates_next_index": 5758,
   "status": "in_progress"
 }
