@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3796,
-  "last_photo_id": 407648976,
+  "total_annotated": 3815,
+  "last_photo_id": 408221678,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 185: 20 images annotated (total 3777-3796). Photos: 407101185(bee balm close lateral), 407101219(bee balm blurry), 407205382(knapweed reddish bee1), 407205402(knapweed wider), 407205423(knapweed lateral), 407275897(purple thistle macro front), 407275918(purple thistle wider), 407227162(pink wildflowers lateral), 407227198(pink wildflowers wider), 407276434(purple geranium upper), 407276455(purple geranium left), 407313411(white yarrow dorsal), 407313414(gravel dorsal macro), 407487872(pink hollyhock pollen), 407488001(yellow hollyhock dorsal macro), 407506395(white bindweed centered), 407506441(white bindweed wider), 407506473(foliage lateral), 407648941(goldenrod lateral), 407648956(goldenrod extreme macro), 407648976(goldenrod lateral head - visual check at 3796). S3 large.jpg+large.jpeg dual-ext.",
-  "candidates_next_index": 5932,
+  "note": "Session 186: 19 images annotated (total 3797-3815). Photos: 407648997(goldenrod lateral2), 407695435(lavender), 407705035(thistle1), 407705055(thistle2), 407705072(thistle3), 407787614(echinacea macro), 407801728(echinacea2), 407801778(echinacea3), 407801810(echinacea4), 407884238(hawkweed1), 407884277(hawkweed2 dorsal), 407884336(hawkweed3), 407884374(hawkweed4), 407910333(vetch1), 407910304(vetch2), 407910364(SKIP-blurred cutoff), 408029175(chrysanthemum), 408221562(anemone macro1), 408221678(anemone macro2). Visual check at 3800: obs051e11b9 photo407705055 (thistle2). S3 large.jpeg.",
+  "candidates_next_index": 5952,
   "status": "in_progress"
 }
