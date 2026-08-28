@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3815,
-  "last_photo_id": 408221678,
+  "total_annotated": 3834,
+  "last_photo_id": 408556533,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 186: 19 images annotated (total 3797-3815). Photos: 407648997(goldenrod lateral2), 407695435(lavender), 407705035(thistle1), 407705055(thistle2), 407705072(thistle3), 407787614(echinacea macro), 407801728(echinacea2), 407801778(echinacea3), 407801810(echinacea4), 407884238(hawkweed1), 407884277(hawkweed2 dorsal), 407884336(hawkweed3), 407884374(hawkweed4), 407910333(vetch1), 407910304(vetch2), 407910364(SKIP-blurred cutoff), 408029175(chrysanthemum), 408221562(anemone macro1), 408221678(anemone macro2). Visual check at 3800: obs051e11b9 photo407705055 (thistle2). S3 large.jpeg.",
-  "candidates_next_index": 5952,
+  "note": "Session 187: 19 images annotated (total 3816-3834). Photos: 408216397(catmint lateral), 408216510(white spike1), 408216598(white spike2 lateral), 408216751(white spike3), 408317610(pink flower dorsal), 408317569(purple flower blurry), 408317639(pink flower tucked), 408317669(pink flower lateral), 408317697(pink flower dorsal2), 408317736(vegetation lateral macro), 408317794(phacelia flight), 408317765(phacelia partial), 408317816(phacelia tiny), 408317845(phacelia blurry), 408458019(sunflower macro), 408461688(bramble), 408501489(thyme dorsal1), 408501542(thyme dorsal2), 408556533(oregano macro wings). Skipped: 408292091,408292095,408292126,408292116,408292123,408474544(tiny/broken). Visual check at 3820: vc3820_photo408317610. iNaturalist API blocked - using S3 direct.",
+  "candidates_next_index": 5977,
   "status": "in_progress"
 }
