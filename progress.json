@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3756,
-  "last_photo_id": 406264278,
+  "total_annotated": 3776,
+  "last_photo_id": 407101138,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 183: 19 images annotated (total 3738-3756). Photos: 406131739(lavender foraging), 406206593(pollen-covered dead on leaf litter), 406263942(clover distant), 406263970(clover face-on), 406263996(clover ginger), 406264016(clover black/white), 406264033(clover face-on eyes), 406264052(clover small), 406264083(clover eye right), 406264100(clover lateral eye), 406264129(clover small right), 406264162(clover eye right), 406264182(clover two-eyes), 406264200(clover foraging right), 406264214(clover two-eyes right), 406264234(clover eye right), 406264250(clover ginger lateral), 406264263(clover white-face eye), 406264278(clover close-up eye). Visual check at 3756 (406264278). S3 direct + photo_candidates.json.",
-  "candidates_next_index": 5892,
+  "note": "Session 184: 20 images annotated (total 3757-3776). Photos: 406474583(bee on foot), 406481669(geranium foraging upside-down), 406481695(geranium front), 406481728(geranium lateral), 406481764(geranium hanging), 406650465(pink clustered flowers), 406662483(flower bud top), 406662466(flower bud side), 406662465(flower bud close), 406662633(purple flower yellow bee), 406662627(purple flower wings), 406662606(purple flower thorax), 406662598(purple flower close), 406771127(night leaf roost), 406771169(night leaf hanging), 407076552(foliage foraging), 407101049(purple wildflower white/black), 407101094(purple wildflower white/black2), 407101151(purple wildflower wider), 407101138(bee balm close-up). Visual check at 3776 (407101138). S3 large.jpg+large.jpeg dual-ext.",
+  "candidates_next_index": 5912,
   "status": "in_progress"
 }
