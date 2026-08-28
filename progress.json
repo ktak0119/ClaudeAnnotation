@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3776,
-  "last_photo_id": 407101138,
+  "total_annotated": 3796,
+  "last_photo_id": 407648976,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 184: 20 images annotated (total 3757-3776). Photos: 406474583(bee on foot), 406481669(geranium foraging upside-down), 406481695(geranium front), 406481728(geranium lateral), 406481764(geranium hanging), 406650465(pink clustered flowers), 406662483(flower bud top), 406662466(flower bud side), 406662465(flower bud close), 406662633(purple flower yellow bee), 406662627(purple flower wings), 406662606(purple flower thorax), 406662598(purple flower close), 406771127(night leaf roost), 406771169(night leaf hanging), 407076552(foliage foraging), 407101049(purple wildflower white/black), 407101094(purple wildflower white/black2), 407101151(purple wildflower wider), 407101138(bee balm close-up). Visual check at 3776 (407101138). S3 large.jpg+large.jpeg dual-ext.",
-  "candidates_next_index": 5912,
+  "note": "Session 185: 20 images annotated (total 3777-3796). Photos: 407101185(bee balm close lateral), 407101219(bee balm blurry), 407205382(knapweed reddish bee1), 407205402(knapweed wider), 407205423(knapweed lateral), 407275897(purple thistle macro front), 407275918(purple thistle wider), 407227162(pink wildflowers lateral), 407227198(pink wildflowers wider), 407276434(purple geranium upper), 407276455(purple geranium left), 407313411(white yarrow dorsal), 407313414(gravel dorsal macro), 407487872(pink hollyhock pollen), 407488001(yellow hollyhock dorsal macro), 407506395(white bindweed centered), 407506441(white bindweed wider), 407506473(foliage lateral), 407648941(goldenrod lateral), 407648956(goldenrod extreme macro), 407648976(goldenrod lateral head - visual check at 3796). S3 large.jpg+large.jpeg dual-ext.",
+  "candidates_next_index": 5932,
   "status": "in_progress"
 }
