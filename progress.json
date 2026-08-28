@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3662,
-  "last_photo_id": 404324939,
+  "total_annotated": 3682,
+  "last_photo_id": 404896656,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 178: 20 images annotated (total 3643-3662). Photos: 403962220(blackberry lateral), 404115876(thistle lateral wings), 404115951(thistle portrait), 404116036(thistle portrait2), 404163868(thistle carder+honeybee), 404192095(vetch front corbiculae), 404192133(vetch hanging), 404258212(leaf dorsal carder), 404279845(rose small), 404279872(rose), 404279921(rose), 404279953(rose), 404279989(rose antennae), 404316709(grass stem carder front-close), 404324840(thistle white-tailed lateral), 404324837(thistle white-tailed close), 404324891(thistle white-tailed wings), 404324892(thistle white-tailed dorsal #3660vc), 404324897(thistle white-tailed lateral2), 404324939(thistle white-tailed final). Visual check at #3660 (vc=404324892). api.inaturalist.org still blocked; using S3 direct + photo_candidates.json (.jpeg then .jpg fallback).",
-  "candidates_next_index": 5798,
+  "note": "Session 179: 20 images annotated (total 3663-3682). Photos: 404629234(dahlia dorsal wings), 404629280(dahlia lateral2), 404629350(dahlia lateral orange-tail), 404629404(dahlia dorsal2), 404722753(blueberry flight blur), 404722797(blueberry upside-down), 405251955(blueberry lateral carder), 405251978(blueberry dorsal carder fluffy), 405251996(blueberry lateral white-tail), 405252013(blueberry close-up eye carder), 405252027(blueberry ventral hanging), 405252045(blueberry lateral antennae), 405252063(blueberry lateral wings), 404678661(hawkweed white-tail lateral), 404678706(hawkweed white-tail lateral2), 404678744(hawkweed white-tail close), 404678796(hawkweed dorsal rear), 404678835(hawkweed rear white-tail #3680vc), 404678879(hawkweed dorsal wings), 404896656(nettle leaf resting lateral carder). Visual check at #3680 (vc=404678835). api.inaturalist.org still blocked; using S3 direct + photo_candidates.json (.jpeg then .jpg fallback).",
+  "candidates_next_index": 5818,
   "status": "in_progress"
 }
