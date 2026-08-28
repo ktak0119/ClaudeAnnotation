@@ -1,12 +1,12 @@
 {
-  "total_annotated": 3737,
-  "last_photo_id": 406131714,
+  "total_annotated": 3756,
+  "last_photo_id": 406264278,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 182: 20 images annotated (total 3718-3737). Photos: 405910403(catmint in-flight), 405910436(catmint close-up pollen), 405910456(catmint distant), 406027413(Grevillea flower), 406011986(Sedum red-tail lateral), 406012041(Sedum dorsal wings), 406012043(Sedum orange-tail lateral), 406012149(oregano wings spread), 406012151(oregano white-tail dorsal), 406012096(oregano lateral wing), 406012249(oregano buff-tail dorsal), 406012212(oregano buff-tail blurred), 406012342(stone carder dorsal), 406012298(stone carder dorsal #2), 406012343(stone carder lateral-dorsal), 406131614(lavender in-flight), 406131641(lavender in-flight #2), 406131665(lavender foraging), 406131692(lavender foraging #2), 406131714(lavender foraging #3). Visual check at 3720 (405910456). S3 direct + photo_candidates.json (.jpeg fallback .jpg).",
-  "candidates_next_index": 5873,
+  "note": "Session 183: 19 images annotated (total 3738-3756). Photos: 406131739(lavender foraging), 406206593(pollen-covered dead on leaf litter), 406263942(clover distant), 406263970(clover face-on), 406263996(clover ginger), 406264016(clover black/white), 406264033(clover face-on eyes), 406264052(clover small), 406264083(clover eye right), 406264100(clover lateral eye), 406264129(clover small right), 406264162(clover eye right), 406264182(clover two-eyes), 406264200(clover foraging right), 406264214(clover two-eyes right), 406264234(clover eye right), 406264250(clover ginger lateral), 406264263(clover white-face eye), 406264278(clover close-up eye). Visual check at 3756 (406264278). S3 direct + photo_candidates.json.",
+  "candidates_next_index": 5892,
   "status": "in_progress"
 }
