@@ -1,13 +1,13 @@
 {
-  "total_annotated": 3883,
-  "last_photo_id": 412625200,
+  "total_annotated": 3903,
+  "last_photo_id": 412982091,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 190: 20 images annotated (total 3863-3883). Photos: 409120906(yellow_flower_hanging), 409368959(dark_bee_dorsal_sage), 409370249(dark_bee_purple_flower), 409370290(dark_bee_flower_bud), 409433368(bombus_pink_flowers), 409434081(eryngium_blue), 409622651(knapweed_white_tail), 409622656(knapweed_wings_up), 412244079(bramble_lateral), 412244121(bramble_dorsal), 412244090(bramble_dorsal2), 412622537(squash_flower), 412622871(two_bees_knapweed), 412625132(morning_glory_purple), 412625179(morning_glory_pink_flight), 412625207(flight_dark_bg), 412625285(sweet_pea_flight), 412625281(sweet_pea_flight_pollen), 412625284(sweet_pea_flight_wings), 412625200(morning_glory_purple2). Visual check at 3883: vc_total3883_photo412625200. Strategy: scan 408-412M range candidates from photo_candidates.json.",
-  "candidates_next_index": 6137,
+  "note": "Session 191: 20 images annotated (total 3884-3903). Photos: 412649810(balsam_bee_flight), 412685914(balsam_bee_foraging), 412698597(balsam_bee_inside_flower), 412701164(balsam_bee_center), 412674787(ragwort_bee1), 412674841(ragwort_bee2), 412674894(ragwort_closeup), 412674957(ragwort_bee4), 412675019(ragwort_bee5), 412675081(ragwort_bee6), 412675155(ragwort_bee7), 412675222(ragwort_bee8), 412683499(ragwort_bee9), 412683563(ragwort_bee10), 412683625(ragwort_bee11), 412726293(rocky_ground_bee1), 412726321(rocky_thistle_bee), 412726317(closeup_abdomen), 412726695(thistle_rocks_bee), 412982091(purple_thistle_bee). Visual check at 3900: vc_total3900_photo412726321. Strategy: scan photo_candidates.json from index 6157.",
+  "candidates_next_index": 6157,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
