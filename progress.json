@@ -1,12 +1,13 @@
 {
-  "total_annotated": 3834,
-  "last_photo_id": 408556533,
+  "total_annotated": 3854,
+  "last_photo_id": 92058660,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 187: 19 images annotated (total 3816-3834). Photos: 408216397(catmint lateral), 408216510(white spike1), 408216598(white spike2 lateral), 408216751(white spike3), 408317610(pink flower dorsal), 408317569(purple flower blurry), 408317639(pink flower tucked), 408317669(pink flower lateral), 408317697(pink flower dorsal2), 408317736(vegetation lateral macro), 408317794(phacelia flight), 408317765(phacelia partial), 408317816(phacelia tiny), 408317845(phacelia blurry), 408458019(sunflower macro), 408461688(bramble), 408501489(thyme dorsal1), 408501542(thyme dorsal2), 408556533(oregano macro wings). Skipped: 408292091,408292095,408292126,408292116,408292123,408474544(tiny/broken). Visual check at 3820: vc3820_photo408317610. iNaturalist API blocked - using S3 direct.",
+  "note": "Session 188: 20 images annotated (total 3835-3854). Used S3 direct for early-ID photos (<300M) since iNaturalist API and recent IDs blocked. Photos: 22301221(heather lateral), 22671796(thistle large), 22671798(thistle lateral), 22671802(thistle partial), 68492156(corydalis forest), 69966483(lavender flight), 70046713(lavender flight2), 70673235(ground dorsal), 81650526(linden dorsal), 81650665(linden close), 91226945(trefoil lateral), 91364913(rockrose dorsal closeup), 91822460(umbellifer partial), 92071675(raspberry upside), 92071674(raspberry lateral), 92071673(raspberry partial), 92071672(raspberry dorsal), 92071671(raspberry wings), 92016984(raspberry upside2), 92058660(sweet_clover dorsal). Skipped: 47475038(no bee/fuchsia), 80136799(no bee/gravel). Visual check at 3854: vc3854_photo92058660. Strategy: scan unannotated candidates with photo_id<300M for S3 availability.",
   "candidates_next_index": 5977,
+  "s3_early_scan_index": 914,
   "status": "in_progress"
 }
