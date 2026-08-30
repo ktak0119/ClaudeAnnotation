@@ -1,13 +1,13 @@
 {
-  "total_annotated": 3958,
-  "last_photo_id": 414183498,
+  "total_annotated": 3978,
+  "last_photo_id": 414748002,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 194: 20 images annotated (total 3939-3958). Photos: 413887393(dandelion_bee1), 413885546(dandelion_bee2), 413988891(meadow_pale_flower1), 414006937(meadow_pale_flower2), 413935784(thistle_bee1_buried), 413935839(thistle_bee2), 414111242(leaf_bee_dorsal), 414153157(thistle_pollen1), 414153175(thistle_pollen2), 414153196(thistle_pollen3), 414153216(thistle_portrait), 414164767(windowsill_dorsal1), 414164792(windowsill_dorsal2), 414164815(windowsill_blurry), 414164838(windowsill_dorsal3), 414168565(pink_thistle1), 414170571(thistle_closeup1), 414169647(thistle_closeup2), 414170579(thistle_closeup3), 414183498(thistle_wings_spread). iNaturalist API blocked - using S3 direct + photo_candidates.json.",
-  "candidates_next_index": 6218,
+  "note": "Session 195: 20 images annotated (total 3959-3978). Photos: 414183522(thistle_dorsal_wings), 414183559(thistle_lateral), 414183608(thistle_lateral2), 414183644(thistle_dorsal), 414183678(thistle_lateral3), 414183703(thistle_dorsal2), 414312904(sunflower_dorsal), 414312961(sunflower_partial), 414313023(sunflower_lateral), 414326232(balsam_hidden), 414354069(SKIP-missing), 414568663(goldenrod1), 414568698(goldenrod2), 414568729(goldenrod3), 414568761(goldenrod4), 414568794(goldenrod5), 414568815(goldenrod6), 414731990(ragwort), 414742086(lavender_thistle), 414748234(purple_thistle_dorsal), 414748002(purple_thistle_lateral). iNaturalist API blocked - using S3 direct + photo_candidates.json.",
+  "candidates_next_index": 6239,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
