@@ -1,13 +1,13 @@
 {
-  "total_annotated": 3938,
-  "last_photo_id": 413886806,
+  "total_annotated": 3958,
+  "last_photo_id": 414183498,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 193: 15 images annotated (total 3924-3938). Photos: 413493525(brick_bee3_dorsal), 413534915(lavender_bee), 413733278(leaf_bee1_lateral), 413733315(leaf_bee2_lateral), 413733314(leaf_bee3_dorsal), 413733316(leaf_bee4_dorsal), 413780980(hebe_bee1), 413780987(hebe_bee2_distant), 413780989(hebe_bee3), 413781083(daisy_bee), 413781545(aster_bee1), 413781607(aster_bee2), 413781598(aster_bee3), 413781615(aster_bee4), 413886806(dandelion_bee_orange). Skipped 5 (318 bytes each): 413481946/907/908/917/955. Visual check at 3940: vc_total3940_photo413781615.",
-  "candidates_next_index": 6198,
+  "note": "Session 194: 20 images annotated (total 3939-3958). Photos: 413887393(dandelion_bee1), 413885546(dandelion_bee2), 413988891(meadow_pale_flower1), 414006937(meadow_pale_flower2), 413935784(thistle_bee1_buried), 413935839(thistle_bee2), 414111242(leaf_bee_dorsal), 414153157(thistle_pollen1), 414153175(thistle_pollen2), 414153196(thistle_pollen3), 414153216(thistle_portrait), 414164767(windowsill_dorsal1), 414164792(windowsill_dorsal2), 414164815(windowsill_blurry), 414164838(windowsill_dorsal3), 414168565(pink_thistle1), 414170571(thistle_closeup1), 414169647(thistle_closeup2), 414170579(thistle_closeup3), 414183498(thistle_wings_spread). iNaturalist API blocked - using S3 direct + photo_candidates.json.",
+  "candidates_next_index": 6218,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
