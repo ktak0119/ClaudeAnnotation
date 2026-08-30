@@ -1,13 +1,13 @@
 {
-  "total_annotated": 3903,
-  "last_photo_id": 412982091,
+  "total_annotated": 3923,
+  "last_photo_id": 413493507,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 191: 20 images annotated (total 3884-3903). Photos: 412649810(balsam_bee_flight), 412685914(balsam_bee_foraging), 412698597(balsam_bee_inside_flower), 412701164(balsam_bee_center), 412674787(ragwort_bee1), 412674841(ragwort_bee2), 412674894(ragwort_closeup), 412674957(ragwort_bee4), 412675019(ragwort_bee5), 412675081(ragwort_bee6), 412675155(ragwort_bee7), 412675222(ragwort_bee8), 412683499(ragwort_bee9), 412683563(ragwort_bee10), 412683625(ragwort_bee11), 412726293(rocky_ground_bee1), 412726321(rocky_thistle_bee), 412726317(closeup_abdomen), 412726695(thistle_rocks_bee), 412982091(purple_thistle_bee). Visual check at 3900: vc_total3900_photo412726321. Strategy: scan photo_candidates.json from index 6157.",
-  "candidates_next_index": 6157,
+  "note": "Session 192: 20 images annotated (total 3904-3923). Photos: 412986414(thistle_bee1), 412988975(thistle_bee2), 412989002(thistle_bee3), 413072131(cosmos_bee_side), 413072167(cosmos_bee_dorsal), 413075952(hanging_bee1), 413075992(hanging_bee2), 413127579(conifer_bee1), 413127651(conifer_bee2), 413127770(conifer_bee3_frontal), 413127950(conifer_bee4), 413143712(nest_entrance_bee), 413471455(ragwort_bee1), 413471491(ragwort_closeup), 413471519(ragwort_bee3), 413471559(ragwort_bee4), 413471593(ragwort_bee5), 413471643(ragwort_bee6), 413471683(ragwort_bee7), 413493482(brick_bee1), 413493507(brick_bee2). Visual check at 3920: vc_total3920_photo413471683. URL format: .jpeg extension on S3.",
+  "candidates_next_index": 6178,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
