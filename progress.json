@@ -1,13 +1,13 @@
 {
-  "total_annotated": 3978,
-  "last_photo_id": 414748002,
+  "total_annotated": 3998,
+  "last_photo_id": 426372476,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 195: 20 images annotated (total 3959-3978). Photos: 414183522(thistle_dorsal_wings), 414183559(thistle_lateral), 414183608(thistle_lateral2), 414183644(thistle_dorsal), 414183678(thistle_lateral3), 414183703(thistle_dorsal2), 414312904(sunflower_dorsal), 414312961(sunflower_partial), 414313023(sunflower_lateral), 414326232(balsam_hidden), 414354069(SKIP-missing), 414568663(goldenrod1), 414568698(goldenrod2), 414568729(goldenrod3), 414568761(goldenrod4), 414568794(goldenrod5), 414568815(goldenrod6), 414731990(ragwort), 414742086(lavender_thistle), 414748234(purple_thistle_dorsal), 414748002(purple_thistle_lateral). iNaturalist API blocked - using S3 direct + photo_candidates.json.",
-  "candidates_next_index": 6239,
+  "note": "Session 196: 20 images annotated (total 3979-3998). Photos: 414893478(goldenrod_dorsal), 414893469(goldenrod_lateral), 414893461(goldenrod_rear), 415506796(rose_wings), 415507204(rose_upper), 415507206(rose_closeup), 415507239(bramble_upper), 415863657(sweetpea_extreme_closeup), 415863643(sweetpea_frontal), 415863677(knapweed_lateral), 415863684(knapweed_frontal), 415863711(goldenrod_lateral2), 426372463(white_flower_lateral), 426372440(white_flower_entering), 426372495(white_flower_winged), 426372465(white_flower_lateral2), 426372475(green_leaf_lateral), 426372436(green_leaf), 426372501(white_flower2), 426372476(green_leaf2). iNaturalist API blocked - using S3 direct + photo_candidates.json.",
+  "candidates_next_index": 6334,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
