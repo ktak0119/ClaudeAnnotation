@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4021,
-  "last_photo_id": 492946541,
+  "total_annotated": 4041,
+  "last_photo_id": 493617105,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 197: 23 images annotated (total 3999-4021). Photos: 426372434(leaf_bee), 426372441(white_flower_inside), 426372459(leaf_bee2), 426372439(white_flower2), 426372491(green_surface_lateral), 426372435(white_flower_wings), 426372497(white_flower_orange), 426372470(flower_stem_bee), 416216469(purple_knapweed1), 416216407(purple_knapweed2), 416216422(purple_knapweed3_visual_check), 492893222(thyme_yellow_thorax), 492893388(thyme_dorsal), 492893148(thyme_lateral), 492893301(thyme_smaller), 492893488(thyme_wings), 492893574(thyme_frontal_closeup), 492894192(pink_rose1), 492894315(pink_rose2), 492894411(pink_rose3), 492894503(pink_rose4), 492894609(pink_rose5), 492946541(purple_vetch). Many 416xxx-417xxx photos failed (< 5KB on S3). Jumped to candidates index 7006 (492893xxx) for viable photos.",
-  "candidates_next_index": 7018,
+  "note": "Session 198: 20 images annotated (total 4022-4041). Photos: 492946639(purple_vetch1), 492946722(purple_vetch2), 492946785(purple_vetch3), 492951922(purple_vetch_rain), 492954608(vetch_closeup1), 492954692(vetch_pollen_basket), 492954755(vetch_pollen2), 492954814(vetch_center), 493049935(blueberry_small), 493050242(blueberry_closeup), 493123327(gravel_closeup), 493264524(clover_blurry), 493602782(petri_dorsal1), 493602878(petri_lateral1), 493603698(petri_dorsal2), 493603780(petri_ventral), 493603834(petri_yellowblack), 493603907(vial_lateral), 493603988(vial_dorsal_visual_check_4040), 493617105(grass_blackwhite). Skipped: 493264525(no bee), 493332048(404), 493332084(404).",
+  "candidates_next_index": 7043,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
