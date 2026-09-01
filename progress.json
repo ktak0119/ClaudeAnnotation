@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4056,
-  "last_photo_id": 494804262,
+  "total_annotated": 4076,
+  "last_photo_id": 501565312,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 199: 15 images annotated (total 4042-4056). Photos: 493736988(blueberry_upsidedown1), 493737153(blueberry_upsidedown2), 493782102(azalea_twig), 493782226(azalea_blur), 493782328(azalea_distant), 494004963(purple_flower_pollen_basket), 494022715(gorse_closeup), 494466187(morning_glory1), 494466275(morning_glory2), 494466346(morning_glory3), 494466419(morning_glory4), 494754345(gravel_yellow_flower), 494804249(cherry_blossom1), 494804274(cherry_blossom2), 494804262(cherry_blossom3). Skipped (S3 404): 493773517, 493773662, 493773776, 493773877, 493773993, 493774095, 493774177, 493774315, 494002193, 494780035.",
-  "candidates_next_index": 7068,
+  "note": "Session 200: 20 images annotated (total 4057-4076). Photos: 496810076(grass_flight), 499164121(rose1), 499164178(rose2), 499164233(rose3), 499164259(rose4), 499164313(rose5), 499164361(rose6), 499388539(grass_ground), 499388587(soil_small), 499388641(lupine), 500106665(rhododendron1), 500106668(rhododendron2), 500106662(rhododendron3), 500697075(kidney_vetch), 501393768(chestnut1), 501393802(chestnut2), 501393825(chestnut3), 501394155(chestnut4), 501394198(chestnut5_small), 501565312(salvia_ground). Skipped (S3 404): 495162244-496728553 range. Visual check: obs501565312.",
+  "candidates_next_index": 7168,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
