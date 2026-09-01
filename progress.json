@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4041,
-  "last_photo_id": 493617105,
+  "total_annotated": 4056,
+  "last_photo_id": 494804262,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 198: 20 images annotated (total 4022-4041). Photos: 492946639(purple_vetch1), 492946722(purple_vetch2), 492946785(purple_vetch3), 492951922(purple_vetch_rain), 492954608(vetch_closeup1), 492954692(vetch_pollen_basket), 492954755(vetch_pollen2), 492954814(vetch_center), 493049935(blueberry_small), 493050242(blueberry_closeup), 493123327(gravel_closeup), 493264524(clover_blurry), 493602782(petri_dorsal1), 493602878(petri_lateral1), 493603698(petri_dorsal2), 493603780(petri_ventral), 493603834(petri_yellowblack), 493603907(vial_lateral), 493603988(vial_dorsal_visual_check_4040), 493617105(grass_blackwhite). Skipped: 493264525(no bee), 493332048(404), 493332084(404).",
-  "candidates_next_index": 7043,
+  "note": "Session 199: 15 images annotated (total 4042-4056). Photos: 493736988(blueberry_upsidedown1), 493737153(blueberry_upsidedown2), 493782102(azalea_twig), 493782226(azalea_blur), 493782328(azalea_distant), 494004963(purple_flower_pollen_basket), 494022715(gorse_closeup), 494466187(morning_glory1), 494466275(morning_glory2), 494466346(morning_glory3), 494466419(morning_glory4), 494754345(gravel_yellow_flower), 494804249(cherry_blossom1), 494804274(cherry_blossom2), 494804262(cherry_blossom3). Skipped (S3 404): 493773517, 493773662, 493773776, 493773877, 493773993, 493774095, 493774177, 493774315, 494002193, 494780035.",
+  "candidates_next_index": 7068,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
