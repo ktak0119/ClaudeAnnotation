@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4076,
-  "last_photo_id": 501565312,
+  "total_annotated": 4096,
+  "last_photo_id": 504622060,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 200: 20 images annotated (total 4057-4076). Photos: 496810076(grass_flight), 499164121(rose1), 499164178(rose2), 499164233(rose3), 499164259(rose4), 499164313(rose5), 499164361(rose6), 499388539(grass_ground), 499388587(soil_small), 499388641(lupine), 500106665(rhododendron1), 500106668(rhododendron2), 500106662(rhododendron3), 500697075(kidney_vetch), 501393768(chestnut1), 501393802(chestnut2), 501393825(chestnut3), 501394155(chestnut4), 501394198(chestnut5_small), 501565312(salvia_ground). Skipped (S3 404): 495162244-496728553 range. Visual check: obs501565312.",
-  "candidates_next_index": 7168,
+  "note": "Session 201: 20 images annotated (total 4077-4096). Photos: 501565342(salvia_purple1), 501565381(salvia_purple2), 501808813(burrow1), 501808838(burrow2_2bees), 501808869(burrow3_2bees), 502363256(allium1), 502363284(allium2), 502922285(concrete1), 502922349(concrete2), 502922399(concrete3_2bees), 502922472(concrete4), 503322510(azalea_yellow1), 503322628(azalea_yellow2), 503811312(bearberry1_blur), 504528690(hand1), 504621995(penstemon1), 503322699(azalea_flight), 503811361(bearberry2), 504528695(hand2), 504622060(penstemon2). Skipped S3 404s: 502306249,502306298,502628720,502628748,502650499,502785540,502933079,502935xxx range. Visual check: photo504622060.",
+  "candidates_next_index": 7217,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
