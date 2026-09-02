@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4136,
-  "last_photo_id": 507226613,
+  "total_annotated": 4155,
+  "last_photo_id": 508563191,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 203: 20 images annotated (total 4117-4136). Photos: 506828676(thistle_bee1), 506828742(thistle_bee2), 507055250(lupine_bee_left), 507055272(lupine_inflight), 507055236(lupine_frontal_closeup), 507055249(lupine_inflight2), 507055235(lupine_sideview), 507055243(lupine_pollen_basket), 507055237(lupine_extreme_closeup), 507055541(lupine_bee4), 507055542(lupine_bee5), 507055540(lupine_bee6), 507055534(lupine_bee7_right), 507099912(raspberry_bee1), 507100283(raspberry_bee2), 507100284(raspberry_2bees), 507100291(raspberry_2bees2), 507137403(bark_dorsal1), 507137402(bark_dorsal2), 507226613(chive_distant). Visual check: photo507100291.",
-  "candidates_next_index": 7259,
+  "note": "Session 204: 19 images annotated (total 4137-4155). Photos: 507251746(umbellifera_bee1_topdown), 507251767(umbellifera_bee2_topdown), 507251776(umbellifera_bee3_side), 507752629(fence_post_bee), 507830263(daisy_bee1), 507837805(daisy_bee2), 508083347(coralbells_inflight), 508082372(coralbells_pollen), 508083346(coralbells_side), 508083351(coralbells_blurry), 508221920(borage_distant), 508259790(rhodo_closeup_pollen), 508260314(rhodo_small), 508261367(rhodo_wing), 508416558(bugloss_bee), 508390905(purple_partial), 508390944(borage_partial), 508421559(dandelion_topdown), 508563184(rhodo_partial). Skipped: 508563191(rhodo_no_bee). Visual check: photo507752629.",
+  "candidates_next_index": 7279,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
