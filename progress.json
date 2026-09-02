@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4096,
-  "last_photo_id": 504622060,
+  "total_annotated": 4116,
+  "last_photo_id": 506712445,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 201: 20 images annotated (total 4077-4096). Photos: 501565342(salvia_purple1), 501565381(salvia_purple2), 501808813(burrow1), 501808838(burrow2_2bees), 501808869(burrow3_2bees), 502363256(allium1), 502363284(allium2), 502922285(concrete1), 502922349(concrete2), 502922399(concrete3_2bees), 502922472(concrete4), 503322510(azalea_yellow1), 503322628(azalea_yellow2), 503811312(bearberry1_blur), 504528690(hand1), 504621995(penstemon1), 503322699(azalea_flight), 503811361(bearberry2), 504528695(hand2), 504622060(penstemon2). Skipped S3 404s: 502306249,502306298,502628720,502628748,502650499,502785540,502933079,502935xxx range. Visual check: photo504622060.",
-  "candidates_next_index": 7217,
+  "note": "Session 202: 20 images annotated (total 4097-4116). Photos: 504622254(penstemon_purple_bee), 546339020(cornflower_bee), 504856824(hawthorn_bee1), 504856867(hawthorn_bee2_wings), 504856919(hawthorn_partial), 505902667(barberry_bee1), 505902693(barberry_bee2), 505902687(barberry_bee3_hidden), 506072948(trefoil_bee1), 506072964(trefoil_inflight), 506072980(trefoil_bee3), 506072991(trefoil_bee4), 506515357(bottlebrush_bee), 506515363(nettle_blurry), 506515380(nettle_flight_frontal), 506621862(catmint_small), 506697260(dead_on_plate), 506711970(rose_bee1), 506712408(rose_bee2_closeup), 506712368(rose_bee3_blurry), 506712445(rose_bee4_topdown). Visual check: photo506712445.",
+  "candidates_next_index": 7238,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
