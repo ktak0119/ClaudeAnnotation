@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4175,
-  "last_photo_id": 509212001,
+  "total_annotated": 4195,
+  "last_photo_id": 509588155,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 205: 20 images annotated (total 4156-4175). Photos: 508563194(rhodo_bee1), 508563189(rhodo_bee2), 508563216(rhodo_bee3), 508563197(rhodo_closeup), 508563214(rhodo_bee4), 508563208(rhodo_bee5), 508563221(rhodo_bee6), 508563229(rhodo_bee7), 508563222(rhodo_bee8), 508594037(strawberry_flower_bee), 508726824(stone_bee_orange), 508713428(white_rose_bee1), 508713457(white_rose_bee2), 508713478(white_rose_bee3), 509145239(dandelion_bee1), 509145338(dandelion_closeup), 509211898(solomons_seal_bee1), 509211951(solomons_seal_bee2), 509212001(solomons_seal_bee3). Skipped: 508563195(rhodo_no_bee). Visual check: photo509212001.",
-  "candidates_next_index": 7299,
+  "note": "Session 206: 20 images annotated (total 4176-4195). Photos: 509285476(white_rose_bee), 509436907(andromeda_bee1), 509436945(andromeda_bee2), 509437361(andromeda_bee3), 509437394(andromeda_bee4), 509446538(fuchsia_bee), 509446518(bee_in_flight), 509506617(lupine_bee1), 509506631(lupine_bee2), 509506637(lupine_bee3), 509560686(forest_floor_bee), 509565519(viburnum_bee1), 509565580(viburnum_bee2), 509565625(viburnum_bee3), 509565930(pyracantha_bee), 509575472(asphalt_bee), 509587754(silverleaf_bee1), 509587729(silverleaf_bee2), 509587743(silverleaf_bee3), 509588155(fritillary_bee_closeup). Visual check: photo509588155.",
+  "candidates_next_index": 7319,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
