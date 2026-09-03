@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4215,
-  "last_photo_id": 509853909,
+  "total_annotated": 4234,
+  "last_photo_id": 510796052,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 207: 20 images annotated (total 4196-4215). Photos: 509588160(fritillary_bee1), 509588132(fritillary_bee2), 509588124(fritillary_bee3), 509588151(fritillary_bee4), 509588136(fritillary_bee5), 509668300(rose_bee1), 509668332(rose_bee2), 509668366(rose_bee3_closeup), 509668401(rose_bee4), 509774492(clover_bee1), 509774029(clover_bee_flight), 509774518(clover_bee3), 509808228(bramble_bee1), 509808216(bramble_bee2), 509808292(bramble_bee3), 509808283(bramble_bee4), 509808287(bramble_bee5), 509853813(valerian_bee1), 509853895(valerian_bee2), 509853909(valerian_bee3). Visual check: photo509853909.",
-  "candidates_next_index": 7339,
+  "note": "Session 208: 19 images annotated (total 4216-4234). Photos: 510293751(dahlia_bee), 510462798(sand_bee_dead), 510498110(leaf_nest_bee1), 510499519(leaf_nest_bee2_closeup), 510499531(leaf_nest_bee3), 510594396(lupine_bee1_flight), 510594368(lupine_bee2), 510594381(lupine_bee3), 510594394(lupine_bee4_pollen), 510594390(lupine_bee5_blur), 510594405(lupine_bee6_blur2), 510594398(skipped_no_bee), 510603000(verbena_bee1), 510603058(verbena_bee2_wings), 510603361(verbena_bee3_side), 510603684(verbena_bee4_face), 510602808(verbena_bee5_top), 510751386(campion_bee), 510777106(ajuga_bee), 510796052(salvia_bee). Visual check: photo510499531(total4220).",
+  "candidates_next_index": 7359,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
