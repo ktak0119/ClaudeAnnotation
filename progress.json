@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4254,
-  "last_photo_id": 511369153,
+  "total_annotated": 4274,
+  "last_photo_id": 511893116,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 209: 20 images annotated (total 4235-4254). Photos: 510796099(salvia_bee2), 510796122(salvia_bee3), 511037052(dark_bee_hanging), 511038068(orange_bee_side), 511038073(bee_flight_above), 511038140(catmint_bee1), 511037101(catmint_bee2_large), 511038117(catmint_bee3_top), 511092061(bee_flight_rocks), 511092054(bee_flight_sandy), 511160387(buttercup_bee1), 511160393(buttercup_bee2), 511160400(buttercup_bee3), 511160390(buttercup_bee4), 511160397(buttercup_bee5_pollen), 511321899(blackberry_bee1), 511321963(blackberry_bee2), 511369087(willow_catkin_bee1), 511369119(willow_catkin_bee2), 511369153(willow_catkin_bee3). Visual check: photo511160387(total4245).",
-  "candidates_next_index": 7379,
+  "note": "Session 210: 20 images annotated (total 4255-4274). Photos: 511369191(willow_catkin_bee4), 511369234(willow_catkin_bee5_blurry), 511452920(bee_on_shrub_small), 511506368(dandelion_bee1), 511506443(dandelion_bee2), 511522805(bee_hanging_pink_flower), 511808320(bee_pink_flower_garden), 511808347(bee_valerian1), 511808376(bee_valerian2), 511811499(dandelion_meadow1), 511811519(dandelion_meadow2_wings), 511811607(hawkweed_bee), 511843707(dead_bee_ants1), 511843743(dead_bee_ants2), 511851399(borage_bee), 511888523(lupin_bee1_entering), 511888567(lupin_bee2_front), 511888604(lupin_bee3_side), 511893083(thistle_closeup1), 511893116(thistle_closeup2). Visual check: photo511808320(total4260).",
+  "candidates_next_index": 7399,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
