@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4234,
-  "last_photo_id": 510796052,
+  "total_annotated": 4254,
+  "last_photo_id": 511369153,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 208: 19 images annotated (total 4216-4234). Photos: 510293751(dahlia_bee), 510462798(sand_bee_dead), 510498110(leaf_nest_bee1), 510499519(leaf_nest_bee2_closeup), 510499531(leaf_nest_bee3), 510594396(lupine_bee1_flight), 510594368(lupine_bee2), 510594381(lupine_bee3), 510594394(lupine_bee4_pollen), 510594390(lupine_bee5_blur), 510594405(lupine_bee6_blur2), 510594398(skipped_no_bee), 510603000(verbena_bee1), 510603058(verbena_bee2_wings), 510603361(verbena_bee3_side), 510603684(verbena_bee4_face), 510602808(verbena_bee5_top), 510751386(campion_bee), 510777106(ajuga_bee), 510796052(salvia_bee). Visual check: photo510499531(total4220).",
-  "candidates_next_index": 7359,
+  "note": "Session 209: 20 images annotated (total 4235-4254). Photos: 510796099(salvia_bee2), 510796122(salvia_bee3), 511037052(dark_bee_hanging), 511038068(orange_bee_side), 511038073(bee_flight_above), 511038140(catmint_bee1), 511037101(catmint_bee2_large), 511038117(catmint_bee3_top), 511092061(bee_flight_rocks), 511092054(bee_flight_sandy), 511160387(buttercup_bee1), 511160393(buttercup_bee2), 511160400(buttercup_bee3), 511160390(buttercup_bee4), 511160397(buttercup_bee5_pollen), 511321899(blackberry_bee1), 511321963(blackberry_bee2), 511369087(willow_catkin_bee1), 511369119(willow_catkin_bee2), 511369153(willow_catkin_bee3). Visual check: photo511160387(total4245).",
+  "candidates_next_index": 7379,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
