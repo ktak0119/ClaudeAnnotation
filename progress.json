@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4274,
-  "last_photo_id": 511893116,
+  "total_annotated": 4294,
+  "last_photo_id": 512062169,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 210: 20 images annotated (total 4255-4274). Photos: 511369191(willow_catkin_bee4), 511369234(willow_catkin_bee5_blurry), 511452920(bee_on_shrub_small), 511506368(dandelion_bee1), 511506443(dandelion_bee2), 511522805(bee_hanging_pink_flower), 511808320(bee_pink_flower_garden), 511808347(bee_valerian1), 511808376(bee_valerian2), 511811499(dandelion_meadow1), 511811519(dandelion_meadow2_wings), 511811607(hawkweed_bee), 511843707(dead_bee_ants1), 511843743(dead_bee_ants2), 511851399(borage_bee), 511888523(lupin_bee1_entering), 511888567(lupin_bee2_front), 511888604(lupin_bee3_side), 511893083(thistle_closeup1), 511893116(thistle_closeup2). Visual check: photo511808320(total4260).",
-  "candidates_next_index": 7399,
+  "note": "Session 211: 20 images annotated (total 4275-4294). Photos: 511900228(agapanthus_bee1), 511900265(agapanthus_bee2), 511900295(agapanthus_bee3_wings), 511904717(foxglove_bee1), 511904764(foxglove_bee2), 511904796(foxglove_bee3_large), 511920998(nest_entrance_2bees), 511921048(nest_entrance_3bees), 511921069(stone_crevice_bee), 511978003(geranium_bee), 512045699(white_flower_blurry), 512072921(flying_bee_bark), 512061539(bramble_bee1_distant), 512061668(bramble_bee2), 512061757(bramble_bee3_closeup), 512061850(bramble_bee4_pollen), 512061886(bramble_bee5_wings), 512061952(bramble_bee6_dorsal), 512062062(bramble_bee7_side), 512062169(bramble_bee8_flight). Visual check: photo512061757(total4289).",
+  "candidates_next_index": 7419,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
