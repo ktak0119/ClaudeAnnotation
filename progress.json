@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4294,
-  "last_photo_id": 512062169,
+  "total_annotated": 4314,
+  "last_photo_id": 512663185,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 211: 20 images annotated (total 4275-4294). Photos: 511900228(agapanthus_bee1), 511900265(agapanthus_bee2), 511900295(agapanthus_bee3_wings), 511904717(foxglove_bee1), 511904764(foxglove_bee2), 511904796(foxglove_bee3_large), 511920998(nest_entrance_2bees), 511921048(nest_entrance_3bees), 511921069(stone_crevice_bee), 511978003(geranium_bee), 512045699(white_flower_blurry), 512072921(flying_bee_bark), 512061539(bramble_bee1_distant), 512061668(bramble_bee2), 512061757(bramble_bee3_closeup), 512061850(bramble_bee4_pollen), 512061886(bramble_bee5_wings), 512061952(bramble_bee6_dorsal), 512062062(bramble_bee7_side), 512062169(bramble_bee8_flight). Visual check: photo512061757(total4289).",
-  "candidates_next_index": 7419,
+  "note": "Session 212: 20 images annotated (total 4295-4314). Photos: 512062184(bramble_bee1_flying), 512062199(bramble_bee2_landing), 512062299(bramble_bee3_closeup), 512062338(bramble_bee4_feeding), 512146296(lilac_bee1_small), 512146408(lilac_bee2_closeup), 512146484(lilac_bee3_closeup2), 512342498(wildflower_bee1_fuzzy), 512342455(wildflower_bee2_closeup), 512342484(wildflower_bee3_dorsal), 512342500(wildflower_bee4_faceOn), 512342524(wildflower_bee5_partial), 512342453(wildflower_bee6_wings), 512348376(white_flower_bee), 512407031(borage_bee_blurry), 512534967(hand_bee1_dorsal), 512534975(hand_bee2_side), 512663169(allium_bee1_extreme), 512663181(allium_bee2_side), 512663185(allium_bee3_topdown). Visual check: photo512342498(total4300).",
+  "candidates_next_index": 7439,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
