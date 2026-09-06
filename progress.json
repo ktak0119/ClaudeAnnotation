@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4334,
-  "last_photo_id": 512806770,
+  "total_annotated": 4354,
+  "last_photo_id": 513099735,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 213: 20 images annotated (total 4315-4334). Photos: 512663236(allium_bee_side), 512663224(allium_bee_hanging), 512663217(allium_bee_closeup), 512663193(allium_bee_frontview), 512663210(allium_bee_orange), 512663245(allium_bee_wings), 512663254(allium_bee_yellow), 512764145(clover_carder1_dorsal), 512764163(clover_carder2_side), 512764182(clover_carder3_side2), 512764202(clover_carder4_center), 512806379(bramble_bee1_dorsal_wings), 512806401(bramble_bee2_dorsal_wings2), 512806440(bramble_bee3_side), 512806483(bramble_bee4_pollen), 512806509(bramble_bee5_landscape), 512806508(bramble_bee6_side), 512806520(bramble_bee7_closeup), 512806527(bramble_bee8_pollen), 512806770(bramble_bee9_yellow). Visual check: photo512663254(total4320).",
-  "candidates_next_index": 7459,
+  "note": "Session 214: 20 images annotated (total 4335-4354). Photos: 512806795(bramble_bee_side_antenna), 512806668(bramble_bee_dorsal), 512806832(hebe_bee1_side), 512806859(hebe_bee2_dorsal_wings), 512806858(hebe_bee3_side), 512806629(bramble_bee_antenna_centered), 512806645(bramble_bee_side_upper), 512786873(rose_bee_dorsal), 512786891(rose_bee_side_pollen), 512787598(cornus_bee1_dorsal), 512787665(cornus_bee2_under_leaf), 512787755(cornus_bee3_head_down), 512787796(cornus_bee4_small), 512966294(wood_bee_dorsal_clear), 513059949(asphalt_bee1_wings), 513060011(asphalt_bee2_closeup), 513060059(asphalt_bee3_wide), 513099664(blueberry_bee1_frontal), 513099708(blueberry_bee2_frontal), 513099735(blueberry_bee3_foraging). Visual check: photo512966294(total4354).",
+  "candidates_next_index": 7479,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
