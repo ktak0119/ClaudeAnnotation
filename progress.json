@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4354,
-  "last_photo_id": 513099735,
+  "total_annotated": 4369,
+  "last_photo_id": 513259755,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 214: 20 images annotated (total 4335-4354). Photos: 512806795(bramble_bee_side_antenna), 512806668(bramble_bee_dorsal), 512806832(hebe_bee1_side), 512806859(hebe_bee2_dorsal_wings), 512806858(hebe_bee3_side), 512806629(bramble_bee_antenna_centered), 512806645(bramble_bee_side_upper), 512786873(rose_bee_dorsal), 512786891(rose_bee_side_pollen), 512787598(cornus_bee1_dorsal), 512787665(cornus_bee2_under_leaf), 512787755(cornus_bee3_head_down), 512787796(cornus_bee4_small), 512966294(wood_bee_dorsal_clear), 513059949(asphalt_bee1_wings), 513060011(asphalt_bee2_closeup), 513060059(asphalt_bee3_wide), 513099664(blueberry_bee1_frontal), 513099708(blueberry_bee2_frontal), 513099735(blueberry_bee3_foraging). Visual check: photo512966294(total4354).",
-  "candidates_next_index": 7479,
+  "note": "Session 215: 15 images annotated (total 4355-4369). Photos: 513060188(asphalt_bee_dorsal_wings), 513099765(blueberry_bee_foraging), 513143394(leucothea_bee_small), 513146124(leucothea_bee_side_closeup), 513146121(leucothea_bee_flowers_closeup), 513146126(leucothea_bee_between_leaves), 513147127(andromeda_bee_side_white), 513147134(andromeda_bee_side2), 513147131(andromeda_bee_inflight), 513254245(hebe_bee_dorsal_white), 513254605(blackberry_bee_side), 513254630(blackberry_bee_frontal_pollen), 513256289(mallow_bee_pollen), 513259291(blackberry_bee_side2), 513259755(bindweed_bee_inside). Skipped: 513143408(no_bee), 513143425(no_bee), 513143397(no_bee), 513143339(no_bee), 513143340(no_bee). Visual check: photo513146126(total4360).",
+  "candidates_next_index": 7502,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
