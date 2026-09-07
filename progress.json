@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4384,
-  "last_photo_id": 513329019,
+  "total_annotated": 4401,
+  "last_photo_id": 513893089,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 216: 15 images annotated (total 4370-4384). Photos: 513259914(bindweed_bee_flower), 513260572(bindweed_bee_blurry), 513260585(bee_partial_left), 513260605(bee_partial_upperleft), 513260628(bramble_bee_side), 513260642(bramble_bee_dorsal), 513261656(bindweed_bee_upperleft), 513261693(bindweed_bee_frontal), 513265475(bindweed_bee_frontal2), 513263449(kidneyvetch_bee_center), 513304884(bramble_bee_small), 513319490(stjohnswort_bee_frontal), 513328958(jasmine_bee_center), 513328991(jasmine_bee_side), 513329019(jasmine_bee_small). Visual check: photo513304884(total4380).",
-  "candidates_next_index": 7517,
+  "note": "Session 217: 17 images annotated (total 4385-4401). Photos: 513551862(leaf_bee_dorsal), 513551976(leaf_bee_dorsal2), 513628046(yellow_flower_bee_small), 513660151(valerian_bee_frontal), 513660238(valerian_bee_frontal2), 513833382(poppy_bee_lowerleft), 513889847(yellow_flower_buried), 513889861(yellow_flower_side), 513889881(yellow_flower_closeup), 513889904(yellow_flower_wings), 513889929(yellow_flower_top), 513892866(flight_right_partial), 513892951(redtail_flight_pink), 513893003(redtail_side_pink), 513893025(redtail_hanging_pink), 513893047(redtail_hanging2_pink), 513893089(redtail_center_pink). Visual check: photo513893025(total4400).",
+  "candidates_next_index": 7534,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
