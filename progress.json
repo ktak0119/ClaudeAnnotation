@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4401,
-  "last_photo_id": 513893089,
+  "total_annotated": 4421,
+  "last_photo_id": 514127515,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 217: 17 images annotated (total 4385-4401). Photos: 513551862(leaf_bee_dorsal), 513551976(leaf_bee_dorsal2), 513628046(yellow_flower_bee_small), 513660151(valerian_bee_frontal), 513660238(valerian_bee_frontal2), 513833382(poppy_bee_lowerleft), 513889847(yellow_flower_buried), 513889861(yellow_flower_side), 513889881(yellow_flower_closeup), 513889904(yellow_flower_wings), 513889929(yellow_flower_top), 513892866(flight_right_partial), 513892951(redtail_flight_pink), 513893003(redtail_side_pink), 513893025(redtail_hanging_pink), 513893047(redtail_hanging2_pink), 513893089(redtail_center_pink). Visual check: photo513893025(total4400).",
-  "candidates_next_index": 7534,
+  "note": "Session 218: 20 images annotated (total 4402-4421). Photos: 513893203(redtail_pink_field), 513962205(terrestris_closeup_pink), 513962243(macro_head_extreme), 513962288(side_profile_thorax), 513962328(side_profile_full), 514042530(vetch_hanging1), 514042581(vetch_hanging2), 514042614(vetch_hanging3), 514042691(vetch_hanging4), 514042760(vetch_wings), 514042812(vetch_center), 514042860(vetch_flight), 514042920(vetch_center2), 514060085(pascuorum_mesh1), 514072097(pascuorum_mesh2), 514059978(pascuorum_dorsal_wings), 514059882(pascuorum_dorsal2), 514072142(pascuorum_dorsal3), 514127340(terrestris_frontal_leaf), 514127515(terrestris_dorsal_leaf). Visual check: photo514127340(total4420).",
+  "candidates_next_index": 7554,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
