@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4437,
-  "last_photo_id": 514476886,
+  "total_annotated": 4454,
+  "last_photo_id": 515574003,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 219: 16 images annotated (total 4422-4437). Photos: 514173502(bombus_clover_side), 514173498(bombus_clover_dorsal), 514313725(bombus_butterfly_weed_macro), 514441458(bombus_white_flowers_small), 514442508(bombus_mint_inflight), 514442055(bombus_mint_side), 514469878(bombus_leaf_dorsal1), 514470092(bombus_leaf_dorsal2), 514472286(bombus_catnip1), 514472390(bombus_catnip2), 514472405(bombus_catnip3), 514472454(bombus_catnip4), 514472570(bombus_catnip5), 514477037(bombus_tubular_flower1), 514477028(bombus_tubular_flower2), 514476886(bombus_tubular_flower3). No visual check (next milestone 4440).",
-  "candidates_next_index": 7570,
+  "note": "Session 220: 17 images annotated (total 4438-4454). Photos: 514546530(bombus_bramble_dorsal1), 514546555(bombus_bramble_dorsal2), 514546633(bombus_bramble_lateral), 514546657(bombus_bramble_partial), 514546751(bombus_bramble_wings), 514546781(bombus_bramble_wings2), 514526532(bombus_bindweed_inside), 514526554(bombus_bindweed_pollenload), 514530477(bombus_salvia_blurry), 514530498(bombus_salvia_inflight), 514694767(bombus_rhodo_inside), 514694992(bombus_rhodo_lateral), 514708584(bombus_rose_yellow1), 515573919(bombus_rose_yellow2), 515574003(bombus_rose_yellow3), 514710961(bombus_strawberry1), 514711026(bombus_strawberry2). Visual check created for #4440 (photo514546633_check.jpg).",
+  "candidates_next_index": 7587,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
