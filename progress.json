@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4535,
-  "last_photo_id": 516791306,
+  "total_annotated": 4555,
+  "last_photo_id": 517081678,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 224: 20 images annotated (total 4516-4535). Photos: 516464028(trefoil_lateral_yellow), 516464047(trefoil_lateral_yellow2), 516464058(trefoil_partial_right), 516491148(birdsfoot_blue_flight), 516491167(birdsfoot_dorsal_flight), 516506352(birdsfoot_closeup_wings), 516506368(birdsfoot_dorsal_wings), 516506391(birdsfoot_lateral_wings), 516546812(hawthorn_small_center), 516546818(hawthorn_center_left), 516546820(hawthorn_upper_center), 516546815(hawthorn_center_left2), 516546824(hawthorn_upper_left), 516782470(fabric_dorsal_wings), 516782499(fabric_closeup_lateral), 516782527(fabric_dorsal2), 516791203(gravel_ventral), 516791235(gravel_ventral2), 516791271(gravel_dorsal), 516791306(gravel_ventral3). Visual check created for #20 (ann4535_photo516791306_check.jpg).",
-  "candidates_next_index": 7668,
+  "note": "Session 225: 20 images annotated (total 4536-4555). Photos: 516791339(gravel_dorsal_wings1), 516791373(gravel_dorsal_wings2), 516967392(stone_dead_dorsal), 516967420(stone_dead_ventral), 516980793(green_leaf_dorsal_closeup), 517011343(stachys_small), 517011376(stachys_closer), 517044725(hand_lateral1), 517044768(hand_lateral2), 517044827(yarrow_dorsal), 517041072(leaf_lateral1), 517041140(leaf_lateral2), 517041217(leaf_dead_back), 517071946(rose_in_flower), 517071991(rose_near_leaf), 517072986(bearberry_frontal), 517073023(bearberry_obscured), 517073075(bearberry_dorsal), 517073116(bearberry_partial), 517081678(grass_head_closeup). Visual check created for #20 (ann4555_photo517081678_check.jpg).",
+  "candidates_next_index": 7688,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
