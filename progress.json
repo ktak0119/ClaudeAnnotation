@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4474,
-  "last_photo_id": 515660092,
+  "total_annotated": 4494,
+  "last_photo_id": 515934482,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 221: 20 images annotated (total 4455-4474). Photos: 514791861(bombus_soil1), 514791926(bombus_soil2), 514886764(bombus_vetch), 515009456(bombus_lupine1), 515009459(bombus_lupine2), 515009467(bombus_lupine3), 515009476(bombus_lupine4), 515029323(bombus_knapweed), 515339593(bombus_cornflower_2bees), 515346661(bombus_nettle_leaf), 515532140(bombus_deadnettle1), 515532944(bombus_deadnettle2), 515532029(bombus_horehound1), 515532056(bombus_horehound2), 515532076(bombus_horehound3), 515532098(bombus_horehound4), 515581033(bombus_leaf_underside1), 515664993(bombus_leaf_underside2), 515660072(bombus_cotoneaster1), 515660092(bombus_cotoneaster2). Visual check created for #20 (photo515660092_check.jpg).",
-  "candidates_next_index": 7607,
+  "note": "Session 222: 20 images annotated (total 4475-4494). Photos: 515660095(bombus_cotoneaster3), 515660122(bombus_cotoneaster4), 515660144(bombus_cotoneaster5_blur), 515660209(bombus_cotoneaster6_dorsal), 515660218(bombus_cotoneaster7_lateral), 515660559(bombus_weigela1), 515660574(bombus_weigela2_dorsal), 515660588(bombus_weigela3), 515668610(bombus_allium), 515887771(bombus_bramble1), 515887784(bombus_bramble2), 515887775(bombus_bramble3), 515887815(bombus_hanging_bud), 515926805(bombus_specimen1_lateral), 515926833(bombus_specimen2_ventral), 515934401(bombus_specimen3_macro), 515934418(bombus_specimen4_dorsal), 515934440(bombus_specimen5_lateral2), 515934464(bombus_specimen6_ventral2), 515934482(bombus_specimen7_lateral3). Visual check created for #20 (ann4494_photo515934482_check.jpg).",
+  "candidates_next_index": 7627,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
