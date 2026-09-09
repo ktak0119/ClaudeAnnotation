@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4494,
-  "last_photo_id": 515934482,
+  "total_annotated": 4515,
+  "last_photo_id": 516463842,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 222: 20 images annotated (total 4475-4494). Photos: 515660095(bombus_cotoneaster3), 515660122(bombus_cotoneaster4), 515660144(bombus_cotoneaster5_blur), 515660209(bombus_cotoneaster6_dorsal), 515660218(bombus_cotoneaster7_lateral), 515660559(bombus_weigela1), 515660574(bombus_weigela2_dorsal), 515660588(bombus_weigela3), 515668610(bombus_allium), 515887771(bombus_bramble1), 515887784(bombus_bramble2), 515887775(bombus_bramble3), 515887815(bombus_hanging_bud), 515926805(bombus_specimen1_lateral), 515926833(bombus_specimen2_ventral), 515934401(bombus_specimen3_macro), 515934418(bombus_specimen4_dorsal), 515934440(bombus_specimen5_lateral2), 515934464(bombus_specimen6_ventral2), 515934482(bombus_specimen7_lateral3). Visual check created for #20 (ann4494_photo515934482_check.jpg).",
-  "candidates_next_index": 7627,
+  "note": "Session 223: 21 images annotated (total 4495-4515). Photos: 515934503(specimen8_lateral), 515934529(specimen9_dorsal), 515934547(specimen10_ventral), 515970849(small_bee_finger), 515970860(two_bees_finger), 515999887(clover_white), 516068401(clover_red_dark), 516149021(meadow_small), 516184500(echium_orange), 516184561(echium_partial), 516184616(echium_orange2), 516184666(echium_orange3), 516241934(lupine_pollen), 516241932(lupine_dorsal), 516254236(yarrow1), 516254307(yarrow2_flight), 516433015(rapeseed_dark), 516463803(trefoil_dorsal), 516463821(trefoil_lateral), 516463827(trefoil_lateral2), 516463842(trefoil_lateral3). Visual check created for #21 (ann4515_photo516463842_check.jpg).",
+  "candidates_next_index": 7648,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
