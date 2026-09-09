@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4515,
-  "last_photo_id": 516463842,
+  "total_annotated": 4535,
+  "last_photo_id": 516791306,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 223: 21 images annotated (total 4495-4515). Photos: 515934503(specimen8_lateral), 515934529(specimen9_dorsal), 515934547(specimen10_ventral), 515970849(small_bee_finger), 515970860(two_bees_finger), 515999887(clover_white), 516068401(clover_red_dark), 516149021(meadow_small), 516184500(echium_orange), 516184561(echium_partial), 516184616(echium_orange2), 516184666(echium_orange3), 516241934(lupine_pollen), 516241932(lupine_dorsal), 516254236(yarrow1), 516254307(yarrow2_flight), 516433015(rapeseed_dark), 516463803(trefoil_dorsal), 516463821(trefoil_lateral), 516463827(trefoil_lateral2), 516463842(trefoil_lateral3). Visual check created for #21 (ann4515_photo516463842_check.jpg).",
-  "candidates_next_index": 7648,
+  "note": "Session 224: 20 images annotated (total 4516-4535). Photos: 516464028(trefoil_lateral_yellow), 516464047(trefoil_lateral_yellow2), 516464058(trefoil_partial_right), 516491148(birdsfoot_blue_flight), 516491167(birdsfoot_dorsal_flight), 516506352(birdsfoot_closeup_wings), 516506368(birdsfoot_dorsal_wings), 516506391(birdsfoot_lateral_wings), 516546812(hawthorn_small_center), 516546818(hawthorn_center_left), 516546820(hawthorn_upper_center), 516546815(hawthorn_center_left2), 516546824(hawthorn_upper_left), 516782470(fabric_dorsal_wings), 516782499(fabric_closeup_lateral), 516782527(fabric_dorsal2), 516791203(gravel_ventral), 516791235(gravel_ventral2), 516791271(gravel_dorsal), 516791306(gravel_ventral3). Visual check created for #20 (ann4535_photo516791306_check.jpg).",
+  "candidates_next_index": 7668,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
