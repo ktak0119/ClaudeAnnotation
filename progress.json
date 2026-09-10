@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4655,
-  "last_photo_id": 519952116,
+  "total_annotated": 4675,
+  "last_photo_id": 520841254,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 230: 20 images annotated (total 4636-4655). Used S3+candidates from index 7770. Photos: 519497304(ground_clover), 519497603(blackberry_lateral), 519497765(blackberry2), 519523640(evening_primrose_dorsal), 519679918(dead_blue_surface), 519826247(lobelia_wide), 519826296(lobelia_closeup), 519826347(lobelia_side), 519826411(lobelia_pollen_basket), 519826466(lobelia_white_tail), 519797513(thistle_blurry), 519880313(lavender_motion1), 519880294(lavender_motion2), 519880304(lavender_motion3), 519908701(dead_gravel1_visual_check), 519908753(dead_gravel2), 519908810(dead_gravel3), 519949138(bramble_centerright), 519952063(hebe_dorsal), 519952116(hebe_lateral). Visual check created for ann4650 (photo519908701).",
-  "candidates_next_index": 7790,
+  "note": "Session 231: 20 images annotated (total 4656-4675). Used candidates from index 7790. Photos: 520242600(geranium_closeup), 520255255(thistle_butterfly), 520255365(pink_flower_rocks), 520255622(thyme_rocks), 520256198(pink_thistle_visual_check), 527055612(heather_large), 520344666(bramble_small), 520361838(buttercup_closeup1), 520361840(buttercup_closeup2), 520364396(salvia_pollen1), 520364424(salvia_pollen2), 520364447(salvia_blurry), 520617829(mullein_street1), 520617846(mullein_street2), 520705938(meadow_flowers), 520751365(night_rocks), 520755339(trefoil), 520814415(blue_salvia), 520821848(clear_surface_dorsal), 520841254(buttercup_grass). Visual check created for ann4660 (photo520256198).",
+  "candidates_next_index": 7810,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
