@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4575,
-  "last_photo_id": 517601003,
-  "last_obs_id": 413486,
+  "total_annotated": 4595,
+  "last_photo_id": 518155418,
+  "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 226: 20 images annotated (total 4556-4575). Photos: 517081705(grass_dead_closeup1), 517081733(grass_dead_closeup2), 517081672(grass_dead_partial), 517081751(grass_dead_closeup3), 517081749(grass_dead_wing), 517166044(bramble_dorsal_wings), 517141699(iris_yellow_dark), 522557809(salvia_lateral), 517325078(rose_inflight), 517325079(rose_foraging), 517325075(rose_wide), 517371575(dandelion_dorsal_wings), 517493810(wooddebris_lateral), 517494568(pennyroyal_orange), 517494591(pennyroyal_orange2), 517494621(pennyroyal_wide), 517575118(dandelion_dorsal_fullwings), 517575142(dandelion_closeup_lateral), 517600983(bramble_lateral_wings), 517601003(bramble_closeup_lateral). Visual check created for #4560 (ann4560_photo517081749_check.jpg).",
-  "candidates_next_index": 7708,
+  "note": "Session 227: 20 images annotated (total 4576-4595). Photos: 517604298(bramble_lateral), 517604638(bramble_dorsal_wings), 517604842(bramble_pink_lateral), 517615460(geranium_orange_fullbody), 517837836(knapweed_dorsal), 517879396(lupine_frontal_wings), 517879364(lupine_closeup), 517879377(lupine_lateral), 517864914(hand_dorsal_wings), 517929091(statice_purple_dorsal), 517928903(statice_purple_lateral_wings), 518090887(broom_yellow_closeup), 518090817(broom_yellow_lateral), 518130720(thistle_lateral_wings1), 518130736(thistle_lateral_wings2), 518130755(thistle_lateral_wings3), 518130773(thistle_lateral_wings4), 518130995(bramble_white_dorsal), 518131019(bramble_frontal_wings), 518155418(raspberry_wide). Visual check created for #4595 (ann4595_photo518155418_check.jpg).",
+  "candidates_next_index": 7728,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
