@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4595,
-  "last_photo_id": 518155418,
+  "total_annotated": 4615,
+  "last_photo_id": 518727526,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 227: 20 images annotated (total 4576-4595). Photos: 517604298(bramble_lateral), 517604638(bramble_dorsal_wings), 517604842(bramble_pink_lateral), 517615460(geranium_orange_fullbody), 517837836(knapweed_dorsal), 517879396(lupine_frontal_wings), 517879364(lupine_closeup), 517879377(lupine_lateral), 517864914(hand_dorsal_wings), 517929091(statice_purple_dorsal), 517928903(statice_purple_lateral_wings), 518090887(broom_yellow_closeup), 518090817(broom_yellow_lateral), 518130720(thistle_lateral_wings1), 518130736(thistle_lateral_wings2), 518130755(thistle_lateral_wings3), 518130773(thistle_lateral_wings4), 518130995(bramble_white_dorsal), 518131019(bramble_frontal_wings), 518155418(raspberry_wide). Visual check created for #4595 (ann4595_photo518155418_check.jpg).",
-  "candidates_next_index": 7728,
+  "note": "Session 228: 20 images annotated (total 4596-4615). Photos: 518155441(raspberry_lateral), 518155465(raspberry_dark_bee), 518158007(crowberry_frontal), 518168805(crowberry_lateral), 518168839(crowberry_motion), 518233238(bramble_carder_lateral), 518233269(bramble_carder_closeup), 518294516(comfrey_yellow_pollen), 518445578(knapweed_dorsal), 518445643(knapweed_motion), 518478189(foxglove_two_bees), 518478192(foxglove_two_bees2), 518497009(clover_lateral), 518497061(clover_blurry), 518595999(grass_shelter_visual_check), 518607377(phacelia_dorsal), 518727386(twig_orange), 518727434(twig_orange2), 518727484(twig_orange3), 518727526(twig_wide). Visual check created for #4610 (ann4610_photo518595999_check.jpg).",
+  "candidates_next_index": 7748,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
