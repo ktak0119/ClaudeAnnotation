@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4555,
-  "last_photo_id": 517081678,
+  "total_annotated": 4575,
+  "last_photo_id": 517601003,
   "last_obs_id": 413486,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 225: 20 images annotated (total 4536-4555). Photos: 516791339(gravel_dorsal_wings1), 516791373(gravel_dorsal_wings2), 516967392(stone_dead_dorsal), 516967420(stone_dead_ventral), 516980793(green_leaf_dorsal_closeup), 517011343(stachys_small), 517011376(stachys_closer), 517044725(hand_lateral1), 517044768(hand_lateral2), 517044827(yarrow_dorsal), 517041072(leaf_lateral1), 517041140(leaf_lateral2), 517041217(leaf_dead_back), 517071946(rose_in_flower), 517071991(rose_near_leaf), 517072986(bearberry_frontal), 517073023(bearberry_obscured), 517073075(bearberry_dorsal), 517073116(bearberry_partial), 517081678(grass_head_closeup). Visual check created for #20 (ann4555_photo517081678_check.jpg).",
-  "candidates_next_index": 7688,
+  "note": "Session 226: 20 images annotated (total 4556-4575). Photos: 517081705(grass_dead_closeup1), 517081733(grass_dead_closeup2), 517081672(grass_dead_partial), 517081751(grass_dead_closeup3), 517081749(grass_dead_wing), 517166044(bramble_dorsal_wings), 517141699(iris_yellow_dark), 522557809(salvia_lateral), 517325078(rose_inflight), 517325079(rose_foraging), 517325075(rose_wide), 517371575(dandelion_dorsal_wings), 517493810(wooddebris_lateral), 517494568(pennyroyal_orange), 517494591(pennyroyal_orange2), 517494621(pennyroyal_wide), 517575118(dandelion_dorsal_fullwings), 517575142(dandelion_closeup_lateral), 517600983(bramble_lateral_wings), 517601003(bramble_closeup_lateral). Visual check created for #4560 (ann4560_photo517081749_check.jpg).",
+  "candidates_next_index": 7708,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
