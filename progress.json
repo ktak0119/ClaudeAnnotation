@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4675,
-  "last_photo_id": 520841254,
+  "total_annotated": 4690,
+  "last_photo_id": 521142188,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 231: 20 images annotated (total 4656-4675). Used candidates from index 7790. Photos: 520242600(geranium_closeup), 520255255(thistle_butterfly), 520255365(pink_flower_rocks), 520255622(thyme_rocks), 520256198(pink_thistle_visual_check), 527055612(heather_large), 520344666(bramble_small), 520361838(buttercup_closeup1), 520361840(buttercup_closeup2), 520364396(salvia_pollen1), 520364424(salvia_pollen2), 520364447(salvia_blurry), 520617829(mullein_street1), 520617846(mullein_street2), 520705938(meadow_flowers), 520751365(night_rocks), 520755339(trefoil), 520814415(blue_salvia), 520821848(clear_surface_dorsal), 520841254(buttercup_grass). Visual check created for ann4660 (photo520256198).",
-  "candidates_next_index": 7810,
+  "note": "Session 232: 15 images annotated (total 4676-4690). Used candidates from index 7810. Photos: 520841308(grass_bee1), 520841351(grass_bee2_closeup), 520841384(grass_bee3_wings), 520842027(groundcover_orange), 520842087(buttercup_visual_check), 520941187(pink_daisy1), 520941220(pink_daisy2), 520941226(pink_daisy3), 520966776(lavender_dark), 520994406(self_heal1), 520994457(self_heal2), 521142102(yellow_daisy_frontal), 521142120(yellow_daisy_wider), 521142163(yellow_daisy_topdown), 521142188(yellow_daisy_side). Visual check created for ann4680 (photo520842087).",
+  "candidates_next_index": 7825,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
