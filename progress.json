@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4770,
-  "last_photo_id": 523591275,
+  "total_annotated": 4788,
+  "last_photo_id": 523828008,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 236: 20 images annotated (total 4751-4770). Used candidates from index 7885. Photos: 522475395(betony_bee1), 522475433(betony_bee2), 522551795(redflower_bee1), 522551986(redflower_bee2), 522552142(redflower_flight), 522695327(spiderweb_dead1), 522698766(spiderweb_dead2), 522745979(comfrey_flight), 522801016(rail_orange), 523169487(yellow_flight1), 523169513(yellow_flight2), 523254142(orange_facing), 523254145(orange_below1), 523254157(orange_below2), 523478105(purple_knapweed), 523525685(wood_dorsal1), 523525683(wood_dorsal2), 523525676(wood_dorsal3), 523591231(pink_flight1), 523591275(pink_spike). Visual check created for ann4770 (photo523591231).",
-  "candidates_next_index": 7905,
+  "note": "Session 237: 18 images annotated (total 4771-4788). Used candidates from index 7905. Photos: 523647140(bearberry_flight), 523647194(bearberry_bee1), 523647193(bearberry_bee2), 523647187(bearberry_closeup), 523823221(agapanthus_bee1), 523823217(agapanthus_wings), 523823220(agapanthus_bee2), 523823223(agapanthus_orange), 523823690(agapanthus_redtail1), 523823692(agapanthus_redtail2), 523823688(agapanthus_redtail3), 523823685(agapanthus_redtail4), 523829068(hypericum_bee), 523827975(alfalfa_closeup), 523827985(alfalfa_flight), 523827918(alfalfa_bee1), 523827937(alfalfa_frontal), 523828008(alfalfa_wide). Skipped: 523591312(no bee), 523823219(bee too small). Visual check created for ann4788 (photo523828008).",
+  "candidates_next_index": 7925,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
