@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4730,
-  "last_photo_id": 521734441,
+  "total_annotated": 4750,
+  "last_photo_id": 522471019,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 234: 20 images annotated (total 4711-4730). Used candidates from index 7845. Photos: 521541764(thyme_front2), 521545510(gorse_bee1), 521545567(gorse_bee2), 521545612(gorse_bee3), 521569220(dead_bee_mulch1), 521569269(dead_bee_mulch2), 521569326(corydalis_bee), 521630112(concrete_topdown1), 521630062(concrete_side), 521630118(concrete_topdown2), 521703619(cornflower_bee1), 521703642(cornflower_bee2), 521704015(spirea_bee1), 521704070(spirea_bee2), 521704129(spirea_bee3), 521704386(raspberry_bee1), 521704423(raspberry_bee2), 521734443(bramble_bee1), 521734442(bramble_bee2), 521734441(bramble_bee3). Visual check created for ann4720 (photo521630062).",
-  "candidates_next_index": 7865,
+  "note": "Session 235: 20 images annotated (total 4731-4750). Used candidates from index 7865. Photos: 521807285(comfrey_flight1), 521807289(comfrey_close), 521807246(comfrey_twobees), 521807287(comfrey_flight2), 522179843(betony_wide1), 522179871(betony_wide2), 522179900(betony_close1), 522179926(betony_close2), 522442328(rose_center), 522461777(monarda_bee1), 522461805(monarda_bee2), 522462518(bramble_bee1), 522462573(bramble_bee2), 522467956(rosebud_bee1), 522468000(rosebud_bee2), 522468055(rosebud_bee3), 522468099(rosebud_bee4), 522469304(gravel_dead1), 522469364(gravel_dead2), 522471019(gravel_dead3). Visual check created for ann4740 (photo522461777).",
+  "candidates_next_index": 7885,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
