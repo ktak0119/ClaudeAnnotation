@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4710,
-  "last_photo_id": 521541791,
+  "total_annotated": 4730,
+  "last_photo_id": 521734441,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 233: 20 images annotated (total 4691-4710). Used candidates from index 7825. Photos: 521142211(yellow_daisy_side2), 521181215(pink_spike1), 521181251(pink_spike2), 521181308(pink_spike_wide), 521183416(motherwort_closeup), 521217249(lavender_bee1), 521217453(lavender_bee2), 521394412(scabious_closeup), 521412944(snowberry_extreme), 521412964(snowberry_bee_vc4700), 521412963(snowberry_bee2), 521413002(snowberry_bee3), 521412975(snowberry_bee4), 521412978(snowberry_bee5), 521412966(snowberry_bee6), 521423654(clover_closeup), 521423778(bee_in_grass), 521423871(clover_frontal), 521490064(echium_inflight), 521541791(thyme_profile). Visual check created for ann4700 (photo521412964).",
-  "candidates_next_index": 7845,
+  "note": "Session 234: 20 images annotated (total 4711-4730). Used candidates from index 7845. Photos: 521541764(thyme_front2), 521545510(gorse_bee1), 521545567(gorse_bee2), 521545612(gorse_bee3), 521569220(dead_bee_mulch1), 521569269(dead_bee_mulch2), 521569326(corydalis_bee), 521630112(concrete_topdown1), 521630062(concrete_side), 521630118(concrete_topdown2), 521703619(cornflower_bee1), 521703642(cornflower_bee2), 521704015(spirea_bee1), 521704070(spirea_bee2), 521704129(spirea_bee3), 521704386(raspberry_bee1), 521704423(raspberry_bee2), 521734443(bramble_bee1), 521734442(bramble_bee2), 521734441(bramble_bee3). Visual check created for ann4720 (photo521630062).",
+  "candidates_next_index": 7865,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
