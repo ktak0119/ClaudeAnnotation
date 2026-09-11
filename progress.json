@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4690,
-  "last_photo_id": 521142188,
+  "total_annotated": 4710,
+  "last_photo_id": 521541791,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 232: 15 images annotated (total 4676-4690). Used candidates from index 7810. Photos: 520841308(grass_bee1), 520841351(grass_bee2_closeup), 520841384(grass_bee3_wings), 520842027(groundcover_orange), 520842087(buttercup_visual_check), 520941187(pink_daisy1), 520941220(pink_daisy2), 520941226(pink_daisy3), 520966776(lavender_dark), 520994406(self_heal1), 520994457(self_heal2), 521142102(yellow_daisy_frontal), 521142120(yellow_daisy_wider), 521142163(yellow_daisy_topdown), 521142188(yellow_daisy_side). Visual check created for ann4680 (photo520842087).",
-  "candidates_next_index": 7825,
+  "note": "Session 233: 20 images annotated (total 4691-4710). Used candidates from index 7825. Photos: 521142211(yellow_daisy_side2), 521181215(pink_spike1), 521181251(pink_spike2), 521181308(pink_spike_wide), 521183416(motherwort_closeup), 521217249(lavender_bee1), 521217453(lavender_bee2), 521394412(scabious_closeup), 521412944(snowberry_extreme), 521412964(snowberry_bee_vc4700), 521412963(snowberry_bee2), 521413002(snowberry_bee3), 521412975(snowberry_bee4), 521412978(snowberry_bee5), 521412966(snowberry_bee6), 521423654(clover_closeup), 521423778(bee_in_grass), 521423871(clover_frontal), 521490064(echium_inflight), 521541791(thyme_profile). Visual check created for ann4700 (photo521412964).",
+  "candidates_next_index": 7845,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
