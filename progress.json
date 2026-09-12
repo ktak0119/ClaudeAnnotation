@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4808,
-  "last_photo_id": 524054504,
+  "total_annotated": 4828,
+  "last_photo_id": 525076375,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 238: 20 images annotated (total 4789-4808). Used candidates from index 7925. Photos: 523828011(alfalfa_bee1), 523828035(alfalfa_sideview), 523828033(alfalfa_foliage), 523828038(alfalfa_small), 523827945(alfalfa_small2), 523827884(alfalfa_2bees), 523827904(alfalfa_pollen), 523827919(alfalfa_frontview), 523827820(alfalfa_flight), 523832724(scabious_bee), 523997306(scabious_macro), 524002013(thistle_macro), 524042612(bramble_topdown), 524042607(bramble_side), 524047762(bramble_right), 524047769(bramble_center), 524047767(bramble_wings), 524047929(bramble_topdown2), 524047953(bramble_closeup), 524054504(leaf_whitetail). Visual check created for ann4800 (photo524002013). iNat API blocked by proxy; used S3 direct access with local candidates file.",
-  "candidates_next_index": 7945,
+  "note": "Session 239: 20 images annotated (total 4809-4828). Used candidates from index 7945. Photos: 524054606(leaf_whitetail2), 524199416(lavender_flight), 524335419(thistle_hanging), 524370369(thyme_side1), 524370422(thyme_side2), 524370453(thyme_wings), 524370485(thyme_flight), 524370553(thyme_small), 524370567(thyme_hover), 524395854(snapdragon_closeup), 524395881(snapdragon_side), 524394361(pink_flower), 524395909(snapdragon_pollen), 524527597(catmint_2bees), 524532694(hypericum1), 524532805(hypericum2), 524933401(knapweed_topdown), 524933534(knapweed_side), 525052409(catmint_big), 525076375(vetch_topdown). Visual check created for ann4828 (photo525076375). iNat API blocked by proxy; used S3 direct access with local candidates file.",
+  "candidates_next_index": 7965,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
