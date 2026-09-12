@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4868,
-  "last_photo_id": 526047453,
+  "total_annotated": 4888,
+  "last_photo_id": 526404760,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 241: 20 images annotated (total 4849-4868). Used candidates from index 7985. Photos: 525663958(pentstemon_bee), 525669605(birdsfoot_trefoil1), 525669616(birdsfoot_trefoil2), 525669674(bombus_flight), 525674718(bramble_tawny1), 525674717(bramble_tawny2), 525800046(container_bee1), 525800257(container_bee2), 525631362(vetch_bee), 525747790(ragwort_bee), 526028017(specimen_dorsal), 526028029(specimen_side), 526028046(specimen_ventral), 526028073(specimen_ventral2), 526028103(specimen_face), 526028278(specimen_dorsal2), 526028295(specimen_closeup), 526028325(wing_macro), 526028449(specimen_dorsal3), 526047438(umbel_bee1), 526047453(umbel_bee2). Visual check created for ann4868 (photo526047453). S3 direct access used; iNat API blocked by proxy.",
-  "candidates_next_index": 8006,
+  "note": "Session 242: 20 images annotated (total 4869-4888). Used candidates from index 8006. Photos: 526047478(umbel_bee3), 526078968(betony_bee1), 526078992(betony_bee2), 526140256(hypericum_bee), 526310561(specimen_bag1), 526310615(specimen_tube1), 526344943(specimen_tube2), 526324657(monarda_bee1), 526324681(monarda_bee2), 526326527(monarda_bee3), 526326548(monarda_bee4), 526326564(monarda_bee5), 526391392(bidens_bee1), 526391402(bidens_bee2), 526391425(bidens_bee3), 526391435(bidens_bee4), 526397908(vetch_bee1), 526397912(vetch_bee2), 526397939(vetch_bee3), 526404760(dandelion_bee). Visual check created for ann4888 (photo526404760). S3 direct access used; iNat API blocked by proxy.",
+  "candidates_next_index": 8026,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
