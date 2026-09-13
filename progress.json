@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4908,
-  "last_photo_id": 526683904,
+  "total_annotated": 4928,
+  "last_photo_id": 527275760,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 243: 20 images annotated (total 4889-4908). Used candidates from index 8026. Photos: 526404788(dandelion_bee2), 526404818(dandelion_closeup), 526420919(sage_bee1), 526420947(sage_bee2), 526420976(sage_bee3), 526421011(sage_bee4), 526406388(salvia_bee1), 526406365(salvia_bee2), 526510635(blue_sage_bee1), 526510753(blue_sage_flying), 526510677(blue_sage_bee2), 526510749(meadow_bee1), 526510734(meadow_bee2), 526510795(meadow_bee3), 526510669(blue_flowers_hovering), 526510665(blue_flowers_bee), 526669951(knapweed_bee1), 526670009(knapweed_bee2), 526670065(knapweed_bee3), 526683904(clover_bee). Visual check created for ann4908 (photo526683904). S3 direct access used; iNat API blocked by proxy.",
-  "candidates_next_index": 8046,
+  "note": "Session 244: 20 images annotated (total 4909-4928). Used candidates from index 8046. Photos: 526735508(yellow_flower_bee1), 526735563(grassland_bee_blurry), 526828722(sand_bee), 526837007(cactus_pollen_bee1), 526837011(cactus_pollen_bee2), 526836996(cactus_flower_bee1), 526836977(cactus_flowers_bee2), 526836964(cactus_flowers_bee3), 526897860(dandelion_bee1), 526897885(dandelion_bee2), 526897894(dandelion_bee3), 526897896(dandelion_closeup), 527097715(stem_bee1), 527097758(stem_bee2), 527097810(stem_bee3), 527123349(oleander_bee), 527123544(white_flower_bee), 527255688(pink_flower_bee1), 534057962(pink_flower_bee2), 527275760(yellow_hypericum_inflight). Visual check created for ann4928 (photo527275760). S3 direct access used; iNat API blocked by proxy.",
+  "candidates_next_index": 8066,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
