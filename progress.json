@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4947,
-  "last_photo_id": 527489449,
+  "total_annotated": 4967,
+  "last_photo_id": 528156342,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 245: 19 images annotated (total 4929-4947). Used candidates from index 8066-8085. Photos: 527309637(sunflower_bee), 527339774(hand_bee1), 527339761(hand_bee2), 527339757(hand_bee3_dorsal), 527339753(leaf_bee_wet), 527383842(pink_flower_bee1), 527383793(pink_flower_bee2), 527410607(thistle_bee), 527478477(white_flowers_small1), 527478485(white_flowers_small2), 527479592(white_flowers_center), 527489335(aerial_red_flower_small), 527489351(blur_red_flower), 527489378(red_flower_bee1), 527489418(red_flower_flying), 527489449(red_flower_bee2), 527460631(purple_flower_orange_bee1), 527460659(hovering_golden_bee), 527460653(purple_flower_orange_bee2). Skipped 527383845 (bee barely visible). Visual check created for ann4940 (photo527489335). S3 direct access used; iNat API blocked by proxy.",
-  "candidates_next_index": 8086,
+  "note": "Session 246: 20 images annotated (total 4948-4967). Used candidates from index 8086-8105. Photos: 527460655(purple_vetch_bee), 527558162(clover_small_bee), 527523476(leaf_dorsal_bee), 527539783(scabious_closeup1), 527539834(scabious_wide1), 527539865(scabious_front), 527539899(scabious_crawl), 527612356(white_cluster_bee), 527689653(butterfly_bush_bee), 527799794(daylily_bee_blurred), 527846491(foxglove_bee), 527941371(dahlia_bombus_hoverfly), 527964904(bramble_bee1), 527964928(bramble_bee2), 527993489(lavender_motion_blur), 528125117(purple_clover_redtail1), 528125161(purple_clover_redtail2), 528145487(closeup_salvia_bee), 528156277(gravel_dorsal1), 528156342(gravel_dorsal2). Visual check created for ann4960 (photo527964904). S3 direct access used; iNat API blocked by proxy.",
+  "candidates_next_index": 8106,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
