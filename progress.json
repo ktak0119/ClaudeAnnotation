@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5007,
-  "last_photo_id": 528461017,
+  "total_annotated": 5025,
+  "last_photo_id": 529095594,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 248: 20 images annotated (total 4988-5007). Used candidates from index 8126-8145. Photos: 528227783(bramble_bee_foliage1), 528227849(bramble_flower_bee), 528227887(bramble_bee_right), 528227961(bramble_closeup_bee), 528311398(pink_flower_corbicula), 528313913(distant_pink_bee), 528314079(pink_flower_bee_upper), 528314136(pink_flower_bee_large), 528314249(bee_under_leaf), 528314342(bee_upper_right), 530414893(bee_pink_cluster), 530414863(bee_small_upper), 530414925(bee_tiny), 528393988(clover_bee_side_wings), 528393447(clover_bee_front), 528393901(clover_bee_side), 528393902(clover_bee_wing), 528393899(clover_bee_wings2), 528461019(bramble_bee_wings), 528461017(bramble_white_bee). Visual checks created for ann5001 (photo528393988) and ann5007 (photo528461017). S3 direct access used.",
-  "candidates_next_index": 8146,
+  "note": "Session 249: 18 images annotated (total 5008-5025). Used candidates from index 8146-8165. Skipped: 528777752(no_bee_dandelion), 528777848(no_bee_distant). Photos: 528534394(thyme_bee_wings), 528601933(thistle_side_bee), 528601973(thistle_distant_bee), 528723581(buddleia_macro_head), 528723636(buddleia_dorsal_bee), 528723817(buddleia_front_antennae), 528732599(fireweed_side_bee), 528762262(bramble_bee_blurry), 528777924(dandelion_bee_small), 528816731(knapweed_macro_bee), 528816777(knapweed_blurry_bee), 528920056(catmint_bee), 529094643(fireweed_flight_bee), 529094990(fireweed_side_bee2), 529095003(fireweed_wide_bee), 529095015(fireweed_right_bee), 529095336(fireweed_hand_bee), 529095594(fireweed_hand_bee2). Visual check for ann5020 (photo529094643). S3 direct access used.",
+  "candidates_next_index": 8166,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
