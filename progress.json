@@ -1,13 +1,13 @@
 {
-  "total_annotated": 4967,
-  "last_photo_id": 528156342,
+  "total_annotated": 4987,
+  "last_photo_id": 528227689,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 246: 20 images annotated (total 4948-4967). Used candidates from index 8086-8105. Photos: 527460655(purple_vetch_bee), 527558162(clover_small_bee), 527523476(leaf_dorsal_bee), 527539783(scabious_closeup1), 527539834(scabious_wide1), 527539865(scabious_front), 527539899(scabious_crawl), 527612356(white_cluster_bee), 527689653(butterfly_bush_bee), 527799794(daylily_bee_blurred), 527846491(foxglove_bee), 527941371(dahlia_bombus_hoverfly), 527964904(bramble_bee1), 527964928(bramble_bee2), 527993489(lavender_motion_blur), 528125117(purple_clover_redtail1), 528125161(purple_clover_redtail2), 528145487(closeup_salvia_bee), 528156277(gravel_dorsal1), 528156342(gravel_dorsal2). Visual check created for ann4960 (photo527964904). S3 direct access used; iNat API blocked by proxy.",
-  "candidates_next_index": 8106,
+  "note": "Session 247: 20 images annotated (total 4968-4987). Used candidates from index 8106-8125. Photos: 528219952(bramble_bee_infly), 528220084(bramble_bee_dorsal1), 528220069(bramble_bee_dorsal2), 528220177(bramble_bee_dorsal3), 528220236(bramble_bee_top), 528220248(bramble_bee_frontright), 528220272(bramble_bee_rightedge), 528220352(bramble_bee_centerleft), 528220363(bramble_bee_center), 528220525(bramble_distant1), 528220554(bramble_distant2), 528220407(bramble_bee_leftedge), 528219981(bramble_bee_rightleaf), 528220113(bramble_bee_side), 528219886(vetch_bee_side), 528227493(bramble_seedheads_face1), 528227380(bramble_seedheads_side1), 528227377(bramble_seedheads_side2), 528227640(bramble_seedheads_partial), 528227689(bramble_seedheads_side3). Visual check created for ann4980 (photo528219981). S3 direct access used; iNat API blocked by proxy.",
+  "candidates_next_index": 8126,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
