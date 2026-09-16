@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5101,
-  "last_photo_id": 532050384,
+  "total_annotated": 5121,
+  "last_photo_id": 532353371,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 253: 17 images annotated (total 5085-5101). Used candidates from index 8226-8242. Photos: 531421820(bee_lavender_frontal), 531502960(bee_mint_small), 531504573(bee_ragwort), 531593162(bee_bramble1), 531593185(bee_bramble2), 531593204(bee_bramble3_wide), 531663308(bee_allium1), 531663333(bee_allium2), 531663348(bee_allium3), 531693199(bee_clover_flight), 531805496(bee_fern1_lateral), 531805493(bee_fern2_closeup), 531805574(bee_thistle_carder1), 531805567(bee_thistle_carder2), 532049779(bee_cornflower1), 532049988(bee_cornflower2_front), 532050384(bee_cornflower3). Visual check for ann5101 (photo532050384). S3 direct access used. iNaturalist API blocked by proxy.",
-  "candidates_next_index": 8243,
+  "note": "Session 254: 20 images annotated (total 5102-5121). Used candidates from index 8243-8262. Photos: 532057136(bee_hyssop1_lateral), 532057239(bee_hyssop2_orange), 532057323(bee_hyssop3_wing), 532057385(bee_hyssop4_dorsal), 532033996(bee_salvia_dorsal), 532046355(bee_cranberry1), 532046344(bee_cranberry2), 532050904(bee_cranberry3_top), 532066106(bee_white_flower1_ventral_wings), 532066105(bee_white_flower2_ventral_wings), 532066143(bee_white_flower3_lateral), 532199072(bee_lamium1), 532199254(bee_lamium2_wing), 532209231(bee_marigold1), 532209283(bee_marigold2), 532209314(bee_marigold3_wings), 532209358(bee_marigold4_wings), 532209403(bee_marigold5_flight), 532209427(bee_marigold6), 532353371(bee_ground_dorsal). Visual check for ann5121 (photo532353371). S3 direct access used.",
+  "candidates_next_index": 8263,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
