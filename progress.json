@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5121,
-  "last_photo_id": 532353371,
+  "total_annotated": 5141,
+  "last_photo_id": 532657859,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 254: 20 images annotated (total 5102-5121). Used candidates from index 8243-8262. Photos: 532057136(bee_hyssop1_lateral), 532057239(bee_hyssop2_orange), 532057323(bee_hyssop3_wing), 532057385(bee_hyssop4_dorsal), 532033996(bee_salvia_dorsal), 532046355(bee_cranberry1), 532046344(bee_cranberry2), 532050904(bee_cranberry3_top), 532066106(bee_white_flower1_ventral_wings), 532066105(bee_white_flower2_ventral_wings), 532066143(bee_white_flower3_lateral), 532199072(bee_lamium1), 532199254(bee_lamium2_wing), 532209231(bee_marigold1), 532209283(bee_marigold2), 532209314(bee_marigold3_wings), 532209358(bee_marigold4_wings), 532209403(bee_marigold5_flight), 532209427(bee_marigold6), 532353371(bee_ground_dorsal). Visual check for ann5121 (photo532353371). S3 direct access used.",
-  "candidates_next_index": 8263,
+  "note": "Session 255: 20 images annotated (total 5122-5141). Used candidates from index 8263-8282. Photos: 532369545(bee_knapweed_lateral), 532392454(bee_pollen_closeup), 532374237(bee_hyacinth_inside), 532374292(bee_leaf_dorsal), 532374621(bee_salvia_flight), 532374792(bee_salvia_dorsal), 532374801(bee_salvia_flight2), 532374800(bee_salvia_hanging), 532423495(bee_sunflower1), 532423496(bee_sunflower2), 532423509(bee_sunflower3), 532423522(bee_sunflower_flight), 532423458(bee_sunflower4), 532423483(bee_sunflower5), 532453746(bee_lavender1), 533824353(bee_lavender2), 533824375(bee_lavender3), 532556782(bee_catmint_lateral), 532556787(bee_catmint_closeup), 532657859(bee_borage). Visual check for ann5136 (photo532453746). S3 direct access used.",
+  "candidates_next_index": 8283,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
