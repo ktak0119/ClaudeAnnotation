@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5141,
-  "last_photo_id": 532657859,
+  "total_annotated": 5161,
+  "last_photo_id": 533079024,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 255: 20 images annotated (total 5122-5141). Used candidates from index 8263-8282. Photos: 532369545(bee_knapweed_lateral), 532392454(bee_pollen_closeup), 532374237(bee_hyacinth_inside), 532374292(bee_leaf_dorsal), 532374621(bee_salvia_flight), 532374792(bee_salvia_dorsal), 532374801(bee_salvia_flight2), 532374800(bee_salvia_hanging), 532423495(bee_sunflower1), 532423496(bee_sunflower2), 532423509(bee_sunflower3), 532423522(bee_sunflower_flight), 532423458(bee_sunflower4), 532423483(bee_sunflower5), 532453746(bee_lavender1), 533824353(bee_lavender2), 533824375(bee_lavender3), 532556782(bee_catmint_lateral), 532556787(bee_catmint_closeup), 532657859(bee_borage). Visual check for ann5136 (photo532453746). S3 direct access used.",
-  "candidates_next_index": 8283,
+  "note": "Session 256: 20 images annotated (total 5142-5161). Used candidates from index 8283-8302. Photos: 532657888(bee_borage2), 532657937(bee_borage3), 532754905(bee_leaf_pollen_closeup), 532883403(bee_lavender_lateral), 532896036(bee_bramble1), 532896102(bee_bramble2), 532896194(bee_bramble3), 532926645(bee_meadowsweet_dorsal), 532926686(bee_meadowsweet_frontal), 532926711(bee_meadowsweet_side), 532981717(bee_knapweed_lateral), 532982622(bee_scabiosa_hand), 532983076(bee_scabiosa_hand2), 532983430(bee_scabiosa_foraging), 533047350(bee_agapanthus1), 533047349(bee_agapanthus2), 533047365(bee_agapanthus3), 533078980(bee_alstroemeria_flight), 533079000(bee_alstroemeria_between), 533079024(bee_alstroemeria_wings). Visual check for ann5160 (photo533079000). S3 direct access used.",
+  "candidates_next_index": 8303,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
