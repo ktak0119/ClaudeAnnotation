@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5025,
-  "last_photo_id": 529095594,
+  "total_annotated": 5045,
+  "last_photo_id": 529844289,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 249: 18 images annotated (total 5008-5025). Used candidates from index 8146-8165. Skipped: 528777752(no_bee_dandelion), 528777848(no_bee_distant). Photos: 528534394(thyme_bee_wings), 528601933(thistle_side_bee), 528601973(thistle_distant_bee), 528723581(buddleia_macro_head), 528723636(buddleia_dorsal_bee), 528723817(buddleia_front_antennae), 528732599(fireweed_side_bee), 528762262(bramble_bee_blurry), 528777924(dandelion_bee_small), 528816731(knapweed_macro_bee), 528816777(knapweed_blurry_bee), 528920056(catmint_bee), 529094643(fireweed_flight_bee), 529094990(fireweed_side_bee2), 529095003(fireweed_wide_bee), 529095015(fireweed_right_bee), 529095336(fireweed_hand_bee), 529095594(fireweed_hand_bee2). Visual check for ann5020 (photo529094643). S3 direct access used.",
-  "candidates_next_index": 8166,
+  "note": "Session 250: 20 images annotated (total 5026-5045). Used candidates from index 8166-8185. Photos: 529095603(fireweed_hand_bee3), 529188223(close_bee_filling_frame), 529188292(bee_pink_flowers_wings), 529329329(thistle_two_bees), 529553943(bee_white_flower_spike), 529553976(bee_white_flower_small), 529579375(tawny_bee_dorsal_leaf), 529579377(tawny_bee_frontal_leaf), 529579371(tawny_bee_dorsal2_leaf), 529611154(bee_bramble_pollen_basket), 529687575(bee_pink_spike_dorsal), 530808909(bee_gravel_blurry), 529751599(orange_bee_yellow_flower1), 529751601(orange_bee_yellow_flower2), 529838036(bee_thistle_small), 529838072(bee_thistle_closer), 529844441(bee_macro_frontal_stone), 529844196(bee_macro_frontal2_stone), 529844248(bee_macro_face_stone), 529844289(bee_side_wing_stone). Visual check for ann5040 (photo529838036). S3 direct access used.",
+  "candidates_next_index": 8186,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
