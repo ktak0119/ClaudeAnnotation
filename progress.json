@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5065,
-  "last_photo_id": 530583139,
+  "total_annotated": 5084,
+  "last_photo_id": 531390612,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 251: 20 images annotated (total 5046-5065). Used candidates from index 8186-8205. Photos: 529844341(dead_bee_stone1), 529844383(dead_bee_stone2), 529878901(bee_leaf_small), 530129387(bee_scabious1), 530129412(bee_scabious2), 530262151(bee_pink_rose_closeup), 530337024(bee_foliage_small), 530405464(bee_bark_closeup), 530437465(bee_vetch1), 530437510(bee_vetch2), 530437542(bee_vetch3), 530507395(bee_leaf_lateral), 530507418(bee_leaf_dorsal), 530551327(bee_daisy1), 530551345(bee_daisy2), 530551336(bee_daisy3), 530551335(bee_daisy4), 530552086(bee_bramble1), 530552079(bee_bramble2), 530583139(bee_pink_flowers_sky). Visual check for ann5060 (photo530551345). S3 direct access used.",
-  "candidates_next_index": 8206,
+  "note": "Session 252: 19 images annotated (total 5066-5084). Used candidates from index 8206-8225. Photos: 530702352(bee_lavender1), 530702378(bee_lavender2), 530708848(bee_foliage), 530762531(bee_buddleia), 530795777(bee_scabious1), 530796065(bee_scabious2_dup), 530804676(bee_thistle1), 530804751(bee_thistle2), 530804750(bee_thistle3), 530804683(bee_thistle4), 530819495(bee_scabious_closeup), 530974733(bee_container1), 530974806(bee_container2_dorsal), 530974864(bee_container3_hand), 530974915(bee_container4_glass), 530974988(bee_container5_left), 531710769(bee_greenhouse_bolt), 531260526(bee_elderflower), 531390612(bee_lavender_hand). Skipped 531135653(greenhouse_bee_too_tiny). Visual check for ann5080 (photo530974915). S3 direct access used.",
+  "candidates_next_index": 8226,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
