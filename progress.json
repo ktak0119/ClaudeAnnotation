@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5181,
-  "last_photo_id": 533433661,
+  "total_annotated": 5200,
+  "last_photo_id": 534041419,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 257: 20 images annotated (total 5162-5181). Used candidates from index 8303-8322. Photos: 533079152(bee_dahlia_closeup1), 533079185(bee_dahlia_wide), 533083355(bee_crocosmia1), 533083375(bee_crocosmia2), 533083392(bee_crocosmia3), 533106607(bee_knapweed), 533125219(bee_daisy_lateral), 533217341(bee_stems_dorsal), 533217386(bee_stems_lateral), 533217429(bee_stems_face), 533273003(bee_lupin1), 533273021(bee_lupin2_dorsal), 533273160(bee_lupin3), 533273016(bee_lupin4), 533356091(bee_snowberry1), 533356141(bee_snowberry2_pollen), 533355605(bee_snowberry3_hanging), 533360744(bee_buddleia), 533423013(bee_clover_ground), 533433661(bee_thistle). Visual check for ann5180 (photo533423013). S3 direct access used.",
-  "candidates_next_index": 8323,
+  "note": "Session 258: 19 images annotated (total 5182-5200). Used candidates from index 8323-8341. Photos: 533433677(bee_thistle1), 533433698(bee_thistle2_dorsal), 533434366(bee_knapweed_distant), 533434380(bee_knapweed_lateral), 533475144(bee_monarda), 533528773(bee_scabiosa1), 533528800(bee_scabiosa2), 533528842(bee_scabiosa3), 533861684(bee_hypericum1), 533862275(bee_hypericum2_lateral), 533862250(bee_hypericum3_distant), 533862331(bee_hypericum4_wings), 533862180(bee_hypericum5), 533862300(bee_hypericum6_antennae), 533862214(bee_hypericum7), 534008721(bee_catmint), 534041450(bee_dead1_granite), 534041370(bee_dead2_dorsal), 534041419(bee_dead3_macro). Visual check for ann5200 (photo534041419). S3 direct access used.",
+  "candidates_next_index": 8342,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
