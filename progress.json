@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5243,
-  "last_photo_id": 534731611,
+  "total_annotated": 5263,
+  "last_photo_id": 534972468,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 260: 23 images annotated (total: 5221-5243). Used candidates from index 8362-8384. Photos: 534223841(bee_gravel1), 534223883(bee_gravel_finger), 534223923(bee_feather_front), 534223956(bee_feather_leaf), 534480477(bee_leaves_dorsal), 534480453(bee_leaf_closeup), 534480496(bee_under_leaf), 534508774(bee_white_flower_distant), 534587319(bee_purple_flower_small), 535407651(bee_purple_stems), 534604176(bee_lavender_lateral), 534604313(bee_sage1), 534604351(bee_sage2), 534604390(bee_sage_extreme), 534604577(bee_bellflower1), 534604568(bee_bellflower2), 534604704(bee_sage_blurry), 534604728(bee_bellflower_small), 534620334(bee_grass_stem), 534709657(bee_veronica_crop), 534709664(bee_veronica_dorsal), 534709614(bee_veronica_wings), 534731611(bee_morning_glory). Visual check for ann5240 (photo534731611). S3 direct access used.",
-  "candidates_next_index": 8385,
+  "note": "Session 261: 20 images annotated (total: 5244-5263). Used candidates from index 8385-8404. Photos: 534731612(bee_morning_glory_lateral), 534731616(bee_morning_glory_closeup), 534731848(bee_lavender1), 534731847(bee_lavender2), 534731850(bee_lavender3), 534731843(bee_lavender_flight), 534732083(bee_lavender_top), 534818506(bee_oregano_closeup), 534856533(bee_orange_cosmos), 534823690(bee_ragwort1), 534824967(bee_bindweed1), 534824997(bee_bindweed2), 534827205(bee_thistle), 534827456(bee_ragwort2), 534827582(bee_ragwort3), 534905394(bee_sedum), 534972361(bee_specimen_dorsal), 534972402(bee_specimen_jar1), 534972430(bee_specimen_jar2), 534972468(bee_specimen_jar_lateral). Visual check for ann5258 (photo534827582). S3 direct access used.",
+  "candidates_next_index": 8405,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
