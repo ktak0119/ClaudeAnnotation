@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5402,
-  "last_photo_id": 537351449,
+  "total_annotated": 5422,
+  "last_photo_id": 537659652,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 268: 20 images annotated (total: 5382-5402), 0 skipped. Used candidates from index 8525-8544. Photos: 536911473(bee_bramble_yellow), 536911763(bee_bramble_centered), 537013799(bee_whitespike_upper), 537013885(bee_whitespike_blurry), 537066227(bee_clover_upper), 537066277(bee_clover_right), 537066314(bee_clover_upperright), 537080866(two_bees_thistle), 537080892(bee_thistle_closeup_left), 537080906(bee_thistle_closeup_center), 537114862(bee_seaholly1), 537114861(bee_seaholly2), 537187920(bee_coneflower_flight), 537157796(bee_crownvetch1), 537159342(bee_crownvetch2), 537159352(bee_crownvetch3), 537229059(bee_coneflower_lowerleft), 537229170(bee_coneflower_lowerright), 537229262(bee_daisy_center), 537351449(bee_hollyhock_pollen). Visual checks: ann5402(photo537351449).",
-  "candidates_next_index": 8545,
+  "note": "Session 269: 20 images annotated (total: 5402-5422), 0 skipped. Used candidates from index 8545-8564. Photos: 537365129(bee_whiteflower_closeup), 537365430(bee_clover_sideprofile), 537396568(bee_sedum_top), 537396591(bee_sedum_side), 537396613(bee_sedum_topdown), 537405639(bee_buddleia1), 537405652(bee_buddleia2), 537405664(bee_buddleia3), 537405677(bee_buddleia4), 537405705(bee_buddleia_topdown), 537405721(bee_buddleia_rear), 537427120(bee_greenbuds), 537486849(bee_thistle_blurry), 537594503(bee_leaf_sideprofile), 537607823(bee_dandelion), 537601241(bee_coneflower_pollen), 537634222(bee_drystems), 537659762(two_bees_clover), 537659652(bee_clover_ginger). iNaturalist API blocked by proxy policy, used S3 direct download. Visual checks: ann5422(photo537659762).",
+  "candidates_next_index": 8565,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
