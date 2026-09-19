@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5302,
-  "last_photo_id": 535658766,
+  "total_annotated": 5322,
+  "last_photo_id": 535764773,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 263: 19 images annotated (total: 5284-5302), 1 skipped (no bee). Used candidates from index 8425-8444. Photos: 535376889(bee_fireweed_purple), 535388966(bee_wooden_plank), 535389100(bee_bramble1), 535389217(bee_bramble2), 535389254(bee_bramble3), 535393510(bee_vegetation_small), 535398983(bee_spirea_closeup1), 535399028(bee_spirea_dorsal), 535409415(bee_blackeyed_susan), 535401991(bee_ragwort_inflight), 535402099(bee_ragwort_side), 535402903(bee_ragwort_large), 535488387(bee_thyme1), 535488332(bee_thyme2), 535488569(bee_thyme_rear), 536017439(bee_coneflower1), 536017524(bee_coneflower2), 535592891(bee_burdock_2bees), 535592959(bee_burdock2). Skipped: 535658766(no_bee_seedhead). Visual check for ann5300 (photo536017439). S3 direct access used.",
-  "candidates_next_index": 8445,
+  "note": "Session 264: 20 images annotated (total: 5302-5322), 0 skipped. Used candidates from index 8445-8464. Photos: 535663063(bee_inula1), 535663112(bee_inula2), 535671600(bee_scabiosa_spider1), 535671563(bee_spider_crab2), 535671625(bee_spider_crab3), 535671611(bee_spider_crab4), 535686628(bee_rubus_small), 535686625(bee_rubus_clear), 535686620(bee_rubus3), 535689681(bee_senecio1), 535689689(bee_senecio2), 535689687(bee_senecio3), 535689678(bee_senecio4), 535746651(bee_specimen_dorsal), 535747726(bee_specimen_folded), 535747754(bee_specimen_lateral), 535764716(bee_cloth1_pollen), 535764743(bee_cloth2), 535764769(bee_cloth3), 535764773(bee_cloth4_pollen). Visual check for ann5320 (photo535764743). S3 direct access used.",
+  "candidates_next_index": 8465,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
