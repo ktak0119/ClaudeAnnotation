@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5382,
-  "last_photo_id": 536670835,
+  "total_annotated": 5402,
+  "last_photo_id": 537351449,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 267: 20 images annotated (total: 5362-5382), 0 skipped. Used candidates from index 8505-8524. Photos: 536221057(dead_bee_gravel2), 536320473(bee_foliage), 536376753(bee_bramble1), 536376751(bee_bramble2), 536376752(bee_bramble3), 536410247(bee_clover_corbicula1), 536410258(bee_clover_corbicula2), 536410400(bee_clover_flight), 536534391(bee_orange_fabric1), 536534456(bee_orange_fabric2), 536604692(bee_hosta1), 536604700(bee_hosta2), 536604695(bee_hosta3), 536612989(bee_mint1), 536613038(bee_mint2), 536613084(bee_mint_flight), 536648402(bee_lavender_flight), 536648404(bee_lavender_perch), 536656968(two_bees_thistle), 536670835(bee_thistle_closeup). Visual checks: ann5372(photo536534456), ann5382(photo536670835).",
-  "candidates_next_index": 8525,
+  "note": "Session 268: 20 images annotated (total: 5382-5402), 0 skipped. Used candidates from index 8525-8544. Photos: 536911473(bee_bramble_yellow), 536911763(bee_bramble_centered), 537013799(bee_whitespike_upper), 537013885(bee_whitespike_blurry), 537066227(bee_clover_upper), 537066277(bee_clover_right), 537066314(bee_clover_upperright), 537080866(two_bees_thistle), 537080892(bee_thistle_closeup_left), 537080906(bee_thistle_closeup_center), 537114862(bee_seaholly1), 537114861(bee_seaholly2), 537187920(bee_coneflower_flight), 537157796(bee_crownvetch1), 537159342(bee_crownvetch2), 537159352(bee_crownvetch3), 537229059(bee_coneflower_lowerleft), 537229170(bee_coneflower_lowerright), 537229262(bee_daisy_center), 537351449(bee_hollyhock_pollen). Visual checks: ann5402(photo537351449).",
+  "candidates_next_index": 8545,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
