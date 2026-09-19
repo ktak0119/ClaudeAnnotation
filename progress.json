@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5342,
-  "last_photo_id": 535974424,
+  "total_annotated": 5362,
+  "last_photo_id": 536221013,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 265: 20 images annotated (total: 5322-5342), 0 skipped. Used candidates from index 8465-8484. Photos: 535764788(bee_cloth_fluffy), 535770473(bee_potentilla1), 535770508(bee_potentilla2), 535770527(bee_potentilla3), 535873590(bee_daisy1), 535878987(bee_hypericum), 535879111(bee_stachys1), 535879134(bee_stachys2), 535894978(bee_bottlebrush1), 535895006(bee_bottlebrush2), 535897185(bee_scabiosa1), 535903740(bee_lupine), 535933442(bee_container1), 535933427(bee_container2), 535933415(bee_container3_pink), 535973471(bee_scabiosa2), 535973545(bee_scabiosa3), 535974267(bee_salvia1), 535974346(bee_salvia2), 535974424(bee_salvia3). Visual check for ann5340 (photo535974267).",
-  "candidates_next_index": 8485,
+  "note": "Session 266: 20 images annotated (total: 5342-5362), 0 skipped. Used candidates from index 8485-8504. Photos: 535979337(bee_thistle1), 535979391(bee_thistle2), 535979439(bee_thistle3), 535992686(bee_burdock1), 535992735(bee_burdock2), 535992782(bee_burdock3), 536089525(bee_scabiosa1), 536089640(bee_scabiosa2), 536093874(bee_chive1), 536093943(bee_chive2), 536109852(bee_zinnia1), 536109917(bee_zinnia2), 536109957(bee_zinnia3), 536118581(bee_thistle4), 536118624(bee_thistle5), 536159690(bee_specimen1_dorsal), 536159726(bee_specimen2_ventral), 536161066(bee_specimen3_dorsal), 536161111(bee_specimen4_ventral), 536221013(bee_gravel_dead). Visual check for ann5360 (photo536161066).",
+  "candidates_next_index": 8505,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
