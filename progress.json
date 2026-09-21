@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5502,
-  "last_photo_id": 539123644,
+  "total_annotated": 5522,
+  "last_photo_id": 539541549,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 273: 20 images annotated (total: 5483-5502), 0 skipped. Used candidates from index 8625-8644. Photos: 538824559(bee_thistle_lateral2), 538844823(bee_blueflower_center), 538980374(multi_bee_milkweed1), 538980446(multi_bee_milkweed2), 538997640(bee_zinnia_top), 538997706(bee_zinnia_right), 539085996(bee_buddleia_lower), 539086374(bee_buddleia_closeup), 539111638(bee_heather_dorsal_wings), 539111518(bee_heather_foraging), 539111701(bee_heather_extreme_closeup), 539111748(bee_heather_lateral_white_tail), 539111793(bee_heather_rear_view), 539123382(bee_knapweed_upperleft), 539123428(bee_knapweed_dorsal), 539123462(bee_knapweed_wings), 539123502(bee_knapweed_front), 539123551(bee_knapweed_lateral), 539123592(bee_knapweed_upperleft2), 539123644(bee_knapweed_lateral2). Visual checks: ann5497(photo539123462). S3 direct download used.",
-  "candidates_next_index": 8645,
+  "note": "Session 274: 20 images annotated (total: 5503-5522), 0 skipped. Used candidates from index 8645-8664. Photos: 539212019(bee_teasel_lateral1), 539212087(bee_teasel_upper_left), 539212194(bee_teasel_center), 539212253(bee_teasel_right), 539236598(bee_goldenrod_top1), 539236629(bee_goldenrod_lateral), 539236649(bee_goldenrod_top2), 539265151(bee_bud_dorsal), 539299924(bee_stokesia_lateral_wings), 539299956(bee_stokesia_portrait), 539299980(bee_stokesia_wider), 539494566(bee_thistle_lateral_dark), 539494572(bee_thistle_dorsal_wings), 539494569(bee_thistle_frontlateral), 539516972(bee_bergamot_top), 539516982(bee_bergamot_lateral), 539519575(bee_grass_seed_lateral), 539519598(bee_grass_dorsal_wings), 539519619(bee_grass_inverted_dorsal), 539541549(bee_basil_lateral). Visual checks: ann5522(photo539541549). S3 direct download used.",
+  "candidates_next_index": 8665,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
