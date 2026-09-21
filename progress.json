@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5542,
-  "last_photo_id": 539744778,
+  "total_annotated": 5562,
+  "last_photo_id": 540151011,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 275: 20 images annotated (total: 5523-5542), 0 skipped. Used candidates from index 8665-8684. Photos: 539541601(bee_basil_dorsal2), 539541662(bee_basil_lateral_wings), 539541692(bee_basil_lateral_right), 539552993(bee_white_flowers_partial), 539579060(bee_pinkflower_dorsal1), 539579045(bee_pinkflower_dorsal2), 539579065(bee_pinkflower_dorsal3), 539618789(bee_joepye_dorsal1), 539618832(bee_joepye_dorsal2), 539647325(bee_buddleia_lateral_closeup), 539648602(bee_seaholly_lateral), 539661121(bee_knapweed_hand1), 539661133(bee_knapweed_hand2), 539670078(bee_leaf_dorsal1), 539670852(bee_leaf_dorsal2), 539682836(bee_flight_thistle), 539668114(bee_burdock_lateral1), 539668057(bee_burdock_lateral2), 539668073(bee_burdock_wings), 539744778(bee_sunflower_sleeping). Visual checks: ann5540(photo539668057). S3 direct download used.",
-  "candidates_next_index": 8685,
+  "note": "Session 276: 20 images annotated (total: 5543-5562), 0 skipped. Used candidates from index 8685-8704. Photos: 539744688(bee_sunflower_sleeping_closeup), 539744725(bee_sunflower_wide), 539744755(bee_sunflower_closer), 555814946(bee_sunflower_sleeping_macro), 539805445(bee_thistle_orange_pollen), 539805490(bee_thistle_lateral_closeup), 539834140(bee_spiderweb), 539856677(bee_thistle_field), 539960401(bee_straw_deadbee1), 539960402(bee_straw_twobees), 539960404(bee_straw_dorsal), 539960397(bee_straw_lateral1), 539960398(bee_straw_lateral2), 540103457(bee_pinned_dorsal_hand), 540103484(bee_pinned_frontal), 540103504(bee_pinned_lateral1), 540103526(bee_pinned_frontal2), 540103544(bee_pinned_lateral2), 540117506(bee_sunflower_disc_edge), 540151011(bee_sunflower_disc_right). Visual checks: ann5560(photo540103544). S3 direct download used. iNaturalist API blocked by proxy.",
+  "candidates_next_index": 8705,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
