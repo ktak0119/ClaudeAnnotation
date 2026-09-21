@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5482,
-  "last_photo_id": 538824540,
+  "total_annotated": 5502,
+  "last_photo_id": 539123644,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 272: 20 images annotated (total: 5463-5482), 0 skipped. Used candidates from index 8605-8624. Photos: 538564121(bee_thistle_closeup), 538564189(bee_thistle_lateral), 538564246(bee_thistle_dorsal), 538654464(bee_beebalm_lateral), 538654472(bee_beebalm_right), 538654476(bee_beebalm_farright), 538736644(bee_vetch_upside), 538736839(bee_vetch_wings), 538737025(bee_vetch_left), 538708755(bee_aster_extreme_closeup), 538708758(bee_aster_blurry_dorsal), 538708754(bee_aster_blurry_lateral), 538708726(bee_aster_blurry_upside), 538800034(2bees_thistle), 538800058(2bees_thistle2), 538821047(bee_sealavender1), 538821066(bee_sealavender2), 538821086(bee_sealavender3), 538821108(bee_sealavender4), 538824540(bee_thistle_yellowband). Visual checks: ann5482(photo538824540). S3 direct download used.",
-  "candidates_next_index": 8625,
+  "note": "Session 273: 20 images annotated (total: 5483-5502), 0 skipped. Used candidates from index 8625-8644. Photos: 538824559(bee_thistle_lateral2), 538844823(bee_blueflower_center), 538980374(multi_bee_milkweed1), 538980446(multi_bee_milkweed2), 538997640(bee_zinnia_top), 538997706(bee_zinnia_right), 539085996(bee_buddleia_lower), 539086374(bee_buddleia_closeup), 539111638(bee_heather_dorsal_wings), 539111518(bee_heather_foraging), 539111701(bee_heather_extreme_closeup), 539111748(bee_heather_lateral_white_tail), 539111793(bee_heather_rear_view), 539123382(bee_knapweed_upperleft), 539123428(bee_knapweed_dorsal), 539123462(bee_knapweed_wings), 539123502(bee_knapweed_front), 539123551(bee_knapweed_lateral), 539123592(bee_knapweed_upperleft2), 539123644(bee_knapweed_lateral2). Visual checks: ann5497(photo539123462). S3 direct download used.",
+  "candidates_next_index": 8645,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
