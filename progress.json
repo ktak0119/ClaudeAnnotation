@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5602,
-  "last_photo_id": 540452601,
+  "total_annotated": 5622,
+  "last_photo_id": 540825933,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 278: 20 images annotated (total: 5583-5602), 0 skipped. Used candidates from index 8725-8744. Photos: 540279794(bee_thistle_knapweed_lateral), 540279819(bee_thistle_knapweed_close), 540346823(bee_bramble_dorsal), 540361146(bee_honeysuckle_inverted), 540361191(bee_honeysuckle_frontal), 540361248(bee_vaccinium_pollen_lateral), 540361293(bee_vaccinium_pollen_dorsal), 540364928(bee_sweet_clover_small), 540364912(bee_sweet_clover_lateral), 540364906(bee_sweet_clover_side), 540367558(bee_bluebell_flight), 540367599(bee_comfrey_flight), 540367626(bee_comfrey_landing), 540367665(bee_comfrey_dorsal_pollen), 540367772(bee_comfrey_lateral_pollen), 540367802(bee_comfrey_blurry), 540444191(bee_echinacea_closeup), 540444190(bee_echinacea_right), 540444185(bee_echinacea_distant), 540452601(bee_hollyhock_inside). Visual checks: ann5600(photo540444190). S3 direct download used. iNaturalist API blocked by proxy.",
-  "candidates_next_index": 8745,
+  "note": "Session 279: 20 images annotated (total: 5603-5622), 0 skipped. Used candidates from index 8745-8764. Photos: 540458837(bee_yarrow_dorsal), 540593341(bee_lavender_small1), 540593343(bee_lavender_small2), 540625571(bee_thistle_closeup_lateral), 540623114(bee_thistle_frontal), 540623257(bee_sand_dorsal_wings), 540662661(bee_squash_inside), 540673624(bee_fireweed_distant), 540745908(bee_bramble_lateral1), 540745940(bee_bramble_frontal2), 540734962(bee_knapweed_dorsal), 540752530(bee_dahlia_lateral), 540723602(bee_sedge_dorsal), 540762279(bee_buddleia_lateral), 540802874(bee_cornflower_macro1), 540802819(bee_cornflower_dorsal2), 540802882(bee_phacelia_lateral), 540802870(bee_cornflower_orange_tail), 540825868(bee_verbena_distant1), 540825933(bee_verbena_lateral2). Visual checks: ann5620(photo540802870). S3 direct download used. iNaturalist API blocked by proxy.",
+  "candidates_next_index": 8765,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
