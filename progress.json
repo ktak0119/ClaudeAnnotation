@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5643,
+  "total_annotated": 5658,
   "last_photo_id": 541445112,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 280: 21 images annotated (total: 5623-5643), 0 skipped. Used candidates from index 8765-8785. Photos: 540825995(bee_verbena_lateral3), 540826261(bee_verbena_wide), 541058334(bee_goldenrod_macro1), 541059007(bee_goldenrod_closeup), 541086448(bee_scabiosa_dorsal), 541086099(bee_scabiosa_lateral), 541086538(bee_scabiosa_dorsal2), 541158565(bee_thistle_wide), 541158483(bee_ground), 541159007(bee_thistle_field), 541224321(bee_thistle_square1), 541168715(bee_thistle_dark), 541225665(bee_thistle_square2), 541225868(bee_thistle_square3), 541226159(bee_thistle_square4), 541227301(bee_thistle_square5), 541277391(bee_thistle_lateral2), 541172136(bee_thistle_frontal), 541440489(bee_sage_lateral), 541445112(bee_thistle_dark2), 541236028(bee_thistle_macro). Visual checks: ann5640(photo541172136). S3 direct download used.",
-  "candidates_next_index": 8786,
+  "note": "Session 281: 15 images annotated (total: 5643-5658), 0 skipped. Used candidates from index 8786-8800. Photos: 541236038(bee_thistle_dorsal), 541236027(bee_thistle_lat2), 541463967(bee_knapweed_small), 541339450(bee_chicory_dorsal1), 541336197(bee_chicory_dorsal2), 541339454(bee_chicory_lat), 541340905(bee_chicory_closeup), 541342382(bee_chicory_wider), 541359830(bee_knapweed_portrait1), 541359907(bee_knapweed_portrait2), 541415328(bee_petunia_yellow), 541491734(bee_echinacea1), 541491761(bee_echinacea2), 541491785(bee_echinacea3), 541491812(bee_echinacea4). Visual check: ann5663(photo541415328). S3 direct download used.",
+  "candidates_next_index": 8801,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
