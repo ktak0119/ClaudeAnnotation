@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5658,
-  "last_photo_id": 541445112,
+  "total_annotated": 5677,
+  "last_photo_id": 541932596,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 281: 15 images annotated (total: 5643-5658), 0 skipped. Used candidates from index 8786-8800. Photos: 541236038(bee_thistle_dorsal), 541236027(bee_thistle_lat2), 541463967(bee_knapweed_small), 541339450(bee_chicory_dorsal1), 541336197(bee_chicory_dorsal2), 541339454(bee_chicory_lat), 541340905(bee_chicory_closeup), 541342382(bee_chicory_wider), 541359830(bee_knapweed_portrait1), 541359907(bee_knapweed_portrait2), 541415328(bee_petunia_yellow), 541491734(bee_echinacea1), 541491761(bee_echinacea2), 541491785(bee_echinacea3), 541491812(bee_echinacea4). Visual check: ann5663(photo541415328). S3 direct download used.",
-  "candidates_next_index": 8801,
+  "note": "Session 282: 19 images annotated (total: 5658-5677), 1 skipped (no bee). Used candidates from index 8801-8820. Photos: 541491845(bee_echinacea_frontal), 541491872(bee_echinacea_side), 541593610(bee_daisy_mountains), 541604670(bee_buddleia_closeup), 541611824(bee_geranium_side), 541611828(bee_geranium_frontal), 541611829(bee_geranium_wings), 541635596(bee_ground_macro), 541635536(bee_ground_frontal), 541636978(bee_white_flower_side), 541637047(bee_white_flower_dorsal), 541665714(bee_knapweed_wide_2bees), 541671561(bee_knapweed_wide), 541718958(bee_seaholly_bombus), 541875274(bee_knapweed_small), 541917222(bee_thistle_pink), 541932596(bee_thistle_dark), 541929866(bee_ground_grass), 541870065(bee_knapweed_colorful). Skipped: 541699480(no_bee_blackberry). Visual check: ann5668(photo541637047). S3 direct download used.",
+  "candidates_next_index": 8821,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
