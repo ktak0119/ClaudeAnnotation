@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5757,
-  "last_photo_id": 542580071,
+  "total_annotated": 5777,
+  "last_photo_id": 542739513,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 286: 20 images annotated (total: 5738-5757), 0 skipped. Used candidates from index 8882-8901. Photos: 542523985(bee_vetch_close), 542524011(bee_vetch_wider), 542524026(bee_vetch_mid), 542564672(two_bees_buckwheat), 542564818(bee_buckwheat_closeup), 542564621(two_bees_buckwheat2), 542564713(bee_buckwheat_close2), 542564774(bee_buckwheat_macro), 542564873(bee_buckwheat_face), 542564943(bee_buckwheat_side), 542565047(two_bees_buckwheat3), 542565143(bee_buckwheat_close3), 542565206(two_bees_buckwheat4), 542565278(bee_buckwheat_center), 542565365(two_bees_buckwheat5), 542580002(bee_aster_wide), 542580038(bee_aster_center), 542580041(bee_aster_pollen), 542580057(bee_aster_close), 542580071(bee_aster_top). Visual check: ann5740(photo542524026). S3 direct download used. iNaturalist API blocked by proxy policy.",
-  "candidates_next_index": 8902,
+  "note": "Session 287: 20 images annotated (total: 5758-5777), 0 skipped. Used candidates from index 8902-8921. Photos: 542584867(two_bees_aster), 542590181(bee_yellow_flowers), 542595966(bee_leaf_dorsal), 542596022(bee_leaf_lateral), 542596021(bee_leaf_portrait), 542705204(bee_salvia1), 542705222(bee_salvia2), 542705583(bee_white_flowers), 542706065(bee_yellow_daisy), 542706382(bee_bistort1), 542706412(bee_bistort2), 542706434(bee_bistort3), 542706464(bee_bistort4), 542719479(bee_clover1), 542719509(bee_clover2), 542719575(bee_clover3), 542719612(bee_clover4_ventral), 542719626(bee_clover5_close), 542719675(bee_clover6), 542739513(bee_ragwort). Visual check: ann5777(photo542719626). S3 direct download used.",
+  "candidates_next_index": 8922,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
