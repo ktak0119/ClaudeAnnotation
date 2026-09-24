@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5797,
-  "last_photo_id": 542967685,
+  "total_annotated": 5812,
+  "last_photo_id": 543676795,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 288: 20 images annotated (total: 5778-5797), 0 skipped. Used candidates from index 8922-8941. Photos: 542746967(bee_aster_pink), 542768884(bee_yellow_closeup), 542771359(bee_yellow_daisy1), 542771436(bee_yellow_daisy2), 542771539(bee_yellow_daisy3), 542771627(bee_yellow_daisies4), 542771776(bee_yellow_daisies5), 542771860(bee_yellow_daisies6), 542819211(bee_white_flowers1), 542819240(bee_white_flowers2), 542819216(bee_white_flowers3), 542819223(bee_white_flowers4), 542821575(bee_marigold1), 542821620(bee_marigold2), 542822079(bee_thistle_purple), 542829804(bee_on_leaves), 542894839(bee_fireweed), 542967629(bee_umbelifer1), 542967656(bee_umbelifer2), 542967685(bee_umbelifer3). Visual check: ann5797(photo542967685). S3 direct download used.",
-  "candidates_next_index": 8942,
+  "note": "Session 289: 15 images annotated (total: 5798-5812), 0 skipped. Used candidates from index 8942-8956. Photos: 542967718(bee_umbelifer4), 542976582(bee_bellflower1), 542976617(bee_bellflower2_partial), 542995581(bee_orange_sunflower1), 542995669(bee_orange_sunflower2), 542995732(bee_orange_sunflower3), 543056076(bee_zinnia_pink), 543285177(bee_skullcap), 543398258(bee_alpine_daisy1), 543398262(bee_alpine_daisy2), 543365499(bee_potentilla), 543453956(bee_joepye1), 543453993(bee_joepye2), 543561223(bee_buddleia), 543676795(bee_spirea). Visual check: ann5800(photo542995581). S3 direct download used.",
+  "candidates_next_index": 8957,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
