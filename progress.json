@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5777,
-  "last_photo_id": 542739513,
+  "total_annotated": 5797,
+  "last_photo_id": 542967685,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 287: 20 images annotated (total: 5758-5777), 0 skipped. Used candidates from index 8902-8921. Photos: 542584867(two_bees_aster), 542590181(bee_yellow_flowers), 542595966(bee_leaf_dorsal), 542596022(bee_leaf_lateral), 542596021(bee_leaf_portrait), 542705204(bee_salvia1), 542705222(bee_salvia2), 542705583(bee_white_flowers), 542706065(bee_yellow_daisy), 542706382(bee_bistort1), 542706412(bee_bistort2), 542706434(bee_bistort3), 542706464(bee_bistort4), 542719479(bee_clover1), 542719509(bee_clover2), 542719575(bee_clover3), 542719612(bee_clover4_ventral), 542719626(bee_clover5_close), 542719675(bee_clover6), 542739513(bee_ragwort). Visual check: ann5777(photo542719626). S3 direct download used.",
-  "candidates_next_index": 8922,
+  "note": "Session 288: 20 images annotated (total: 5778-5797), 0 skipped. Used candidates from index 8922-8941. Photos: 542746967(bee_aster_pink), 542768884(bee_yellow_closeup), 542771359(bee_yellow_daisy1), 542771436(bee_yellow_daisy2), 542771539(bee_yellow_daisy3), 542771627(bee_yellow_daisies4), 542771776(bee_yellow_daisies5), 542771860(bee_yellow_daisies6), 542819211(bee_white_flowers1), 542819240(bee_white_flowers2), 542819216(bee_white_flowers3), 542819223(bee_white_flowers4), 542821575(bee_marigold1), 542821620(bee_marigold2), 542822079(bee_thistle_purple), 542829804(bee_on_leaves), 542894839(bee_fireweed), 542967629(bee_umbelifer1), 542967656(bee_umbelifer2), 542967685(bee_umbelifer3). Visual check: ann5797(photo542967685). S3 direct download used.",
+  "candidates_next_index": 8942,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
