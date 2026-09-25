@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5870,
-  "last_photo_id": 544753231,
+  "total_annotated": 5885,
+  "last_photo_id": 544982700,
   "last_obs_id": 413518,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 292: 18 images annotated (total: 5853-5870), 0 skipped. Used candidates from index 8997-9014. Photos: 544646761(bee_monarda3), 544646800(bee_monarda4_wings), 544646829(bee_monarda5), 544646856(bee_monarda6), 544597678(bee_white_closeup_ventral1), 544597705(bee_white_closeup_ventral2), 544592960(bee_white_pollen_basket1), 544592991(bee_white_pollen_basket2), 544714271(bee_pink_spiraea), 544714403(bee_small_white_orange), 544714385(bee_white_worn), 544714401(bee_white_center), 544724605(bee_spiraea_small), 544724579(bee_spiraea_pollen), 544724655(bee_spiraea_center), 544731763(bee_white_spike_orange_abdomen), 544732017(bee_valerian_white), 544753231(bee_cream_buds_dark). Visual check: ann5872(photo544753231). S3 direct download used.",
-  "candidates_next_index": 9015,
+  "note": "Session 293: 15 images annotated (total: 5871-5885), 5 skipped (thumbnail-sized). Used candidates from index 9015-9034. Photos: 544755767(bee_purple_hyssop1), 544755707(bee_purple_hyssop2), 544851768(bee_butterfly_bush_topdown1), 544851784(bee_butterfly_bush_topdown2), 544932703(bee_golden_bramble_closeup), 544932720(bee_bramble_wings_spread), 544932611(bee_bramble_topdown_wings), 544932549(bee_bramble_rear_wings), 544979900(bee_monarda_inflight), 544979901(bee_monarda_distant1), 544979904(bee_monarda_distant2), 544979927(bee_monarda_distant3), 544979928(bee_golden_monarda_close), 544979926(bee_monarda_side), 544982700(bee_knapweed_rear). Skipped 544978086-544978176 (thumbnail-sized <300px). Visual check: ann5880(photo544979901).",
+  "candidates_next_index": 9035,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
