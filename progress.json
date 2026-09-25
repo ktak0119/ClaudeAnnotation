@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5925,
-  "last_photo_id": 545732395,
+  "total_annotated": 5941,
+  "last_photo_id": 546249135,
   "last_obs_id": 413518,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 295: 20 images annotated (total: 5906-5925), 0 skipped. Used candidates from index 9055-9074. Photos: 545315162(bee_oregano_lateral), 545394402(bee_spiraea_dorsal), 545407201(bee_thistle_lateral), 545407264(bee_knapweed_closeup), 545415421(bee_daisy_top), 545456585(bee_pansy_front1), 545456637(bee_pansy_front2), 545456677(bee_pansy_side), 545531868(bee_goldenrod_lateral), 545589989(bee_leaf_ventral), 545589986(bee_leaf_lateral), 545658914(bee_buddleia1), 545658949(bee_buddleia2), 545658985(bee_buddleia3), 545685894(bee_buddleia4), 545696404(bee_buddleia_closeup1), 545696330(bee_buddleia_closeup2), 545698989(bee_buddleia_lateral1), 545699143(bee_buddleia_lateral2), 545732395(bee_thistle_two_bees). Visual check: ann5925(photo545732395).",
-  "candidates_next_index": 9075,
+  "note": "Session 296: 16 images annotated (total: 5926-5941), 4 skipped (habitat/plant). Used candidates from index 9075-9094. Photos: 545732762(bee_thistle_lateral), 545732935(bee_thistle_with_moth), 545733043(bee_knapweed_dorsal), 545853028(bee_aster_blurry), 545851026(bee_inside_white_flower), 545851348(bee_oregano_lateral), 545851356(bee_oregano_dorsal), 545974734(bee_eryngo_pollen1), 545974924(bee_eryngo_pollen2), 545974997(bee_eryngo_pollen_above), 546012282(bee_joepye_frontal), 546128402(bee_ground_queen), 546248698(bee_knapweed_closeup1), 546248718(bee_knapweed_wings), 546249109(bee_scabious_dark1), 546249135(bee_scabious_dark2). Visual check: ann5940(photo546249109).",
+  "candidates_next_index": 9095,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
