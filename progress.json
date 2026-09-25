@@ -1,13 +1,13 @@
 {
-  "total_annotated": 5812,
-  "last_photo_id": 543676795,
+  "total_annotated": 5832,
+  "last_photo_id": 543869760,
   "last_obs_id": 413506,
   "photos_csv_bytes_scanned": 0,
   "obs_csv_bytes_scanned": 0,
   "source": "inaturalist-open-data-s3",
   "candidates_file": "photo_candidates.json",
-  "note": "Session 289: 15 images annotated (total: 5798-5812), 0 skipped. Used candidates from index 8942-8956. Photos: 542967718(bee_umbelifer4), 542976582(bee_bellflower1), 542976617(bee_bellflower2_partial), 542995581(bee_orange_sunflower1), 542995669(bee_orange_sunflower2), 542995732(bee_orange_sunflower3), 543056076(bee_zinnia_pink), 543285177(bee_skullcap), 543398258(bee_alpine_daisy1), 543398262(bee_alpine_daisy2), 543365499(bee_potentilla), 543453956(bee_joepye1), 543453993(bee_joepye2), 543561223(bee_buddleia), 543676795(bee_spirea). Visual check: ann5800(photo542995581). S3 direct download used.",
-  "candidates_next_index": 8957,
+  "note": "Session 290: 20 images annotated (total: 5812-5832), 0 skipped. Used candidates from index 8957-8976. Photos: 543689337(bee_thistle1), 543689346(bee_thistle2), 543712909(bee_purple_thistle1), 543712955(bee_purple_thistle2_small), 543713475(bee_purple_needle_thistle1), 543713518(bee_purple_needle_thistle2), 543713567(bee_purple_needle_thistle3), 543710519(bee_clover_topdown), 543710529(bee_clover_wings), 543710550(bee_inflight_thistle), 543756558(bee_macro1), 543756571(bee_macro2), 543756585(bee_macro_sunflower), 543757189(bee_macro_coneflower1), 543757207(bee_coneflower_pollen), 543757218(bee_coneflower_top), 543834155(bee_dahlia1), 543834176(bee_dahlia2), 543834200(bee_dahlia3), 543869760(bee_cosmos). Visual check: ann5832(photo543869760). S3 direct download used.",
+  "candidates_next_index": 8977,
   "s3_early_scan_index": 914,
   "status": "in_progress"
 }
